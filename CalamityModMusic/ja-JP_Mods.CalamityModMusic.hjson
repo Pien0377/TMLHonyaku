@@ -143,7 +143,7 @@ Items: {
 	}
 
 	CeaselessVoidMusicBox: {
-		DisplayName: オルゴール (シースレスヴォイド)
+		DisplayName: オルゴール (シーセレスヴォイド)
 		Tooltip: DM DOKURO制作の「Servants of the Scourge (Type V)」を再生する
 	}
 
@@ -163,22 +163,22 @@ Items: {
 	}
 
 	DevourerofGodsEulogyMusicBox: {
-		DisplayName: オルゴール (デバウアーオブゴッド - 撃破)
+		DisplayName: オルゴール (デバウラーオブゴッド - 撃破)
 		Tooltip: DM DOKURO制作の「Scourge of the Universe (Eulogy for the Ego)」を再生する
 	}
 
 	DevourerofGodsPhase1MusicBox: {
-		DisplayName: オルゴール (デバウアーオブゴッド - フェーズ 1)
+		DisplayName: オルゴール (デバウラーオブゴッド - フェーズ 1)
 		Tooltip: DM DOKURO制作の「Scourge of the Universe」を再生する
 	}
 
 	DevourerofGodsPhase2MusicBox: {
-		DisplayName: オルゴール (デバウアーオブゴッド - フェーズ 2)
+		DisplayName: オルゴール (デバウラーオブゴッド - フェーズ 2)
 		Tooltip: DM DOKURO制作の「Universal Collapse」を再生する
 	}
 
 	DragonfollyMusicBox: {
-		DisplayName: オルゴール (ドラゴンフォーリー)
+		DisplayName: オルゴール (ドラゴンフォリー)
 		Tooltip: DM DOKURO制作の「Murderswarm」を再生する
 	}
 
@@ -247,7 +247,7 @@ Items: {
 	}
 
 	ProvidenceMusicBox: {
-		DisplayName: オルゴール (プロヴィデンス)
+		DisplayName: オルゴール (プロビデンス)
 		Tooltip: DM DOKURO制作の「Unholy Insurgency」を再生する
 	}
 
@@ -287,17 +287,17 @@ Items: {
 	}
 
 	YharonLegacyMusicBox: {
-		DisplayName: オルゴール (ヤーロン - 旧バージョン)
+		DisplayName: オルゴール (ヤロン - 旧バージョン)
 		Tooltip: DM DOKURO制作の「Infernal Catharsis」を再生する
 	}
 
 	YharonPhase1MusicBox: {
-		DisplayName: オルゴール (ヤーロン - フェーズ 1)
+		DisplayName: オルゴール (ヤロン - フェーズ 1)
 		Tooltip: DM DOKURO制作の「Infernal Catharsis (Rebirth)」を再生する
 	}
 
 	YharonPhase2MusicBox: {
-		DisplayName: オルゴール (ヤーロン - フェーズ 2)
+		DisplayName: オルゴール (ヤロン - フェーズ 2)
 		Tooltip: DM DOKURO制作の「Infernal Catharsis (Rebirth) - Phase 2」を再生する
 	}
 }
