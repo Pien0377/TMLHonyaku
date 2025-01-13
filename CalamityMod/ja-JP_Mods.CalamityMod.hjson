@@ -2872,7 +2872,7 @@ BossChecklistIntegration: {
 	}
 
 	DevourerofGods: {
-		EntryName: デバウラー・オブ・ゴッド
+		EntryName: デバウラーオブゴッド
 		SpawnInfo: "[i:CalamityMod/CosmicWorm] を使用する"
 		DespawnMessage: "[c/00FFFF:神々を貪る者は深みに戻っていった...]"
 	}
@@ -7042,7 +7042,7 @@ Items: {
 			}
 
 			DevourerofGodsMask: {
-				DisplayName: デバウラー・オブ・ゴッドのマスク
+				DisplayName: デバウラーオブゴッドのマスク
 				Tooltip: ""
 			}
 
@@ -9647,7 +9647,7 @@ Items: {
 		}
 
 		DevourerOfGodsRelic: {
-			DisplayName: デバウラー・オブ・ゴッドのレリック
+			DisplayName: デバウラーオブゴッドのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -10096,7 +10096,7 @@ Items: {
 		}
 
 		DevourerofGodsTrophy: {
-			DisplayName: デバウラー・オブ・ゴッドのトロフィー
+			DisplayName: デバウラーオブゴッドのトロフィー
 			Tooltip: ""
 		}
 
@@ -13573,7 +13573,7 @@ Items: {
 		}
 
 		TheDevourerofCods: {
-			DisplayName: デバウラー・オブ・コッド
+			DisplayName: デバウラーオブコッド
 			Tooltip:
 				'''
 				一度に10本のラインを発射する
@@ -20648,7 +20648,7 @@ Items: {
 		}
 
 		DevourerofGodsBag: {
-			DisplayName: トレジャーバッグ(デバウラー・オブ・ゴッド)
+			DisplayName: トレジャーバッグ(デバウラーオブゴッド)
 			Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 		}
 
@@ -21231,7 +21231,7 @@ NPCs: {
 	}
 
 	DevourerofGodsHead: {
-		DisplayName: デバウラー・オブ・ゴッド
+		DisplayName: デバウラーオブゴッド
 	}
 
 	Androomba: {
