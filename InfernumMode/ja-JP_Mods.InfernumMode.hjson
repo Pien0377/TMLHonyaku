@@ -4549,7 +4549,7 @@ Status: {
 	ProvidenceLavaRise: 地下から溶岩が噴き出てきている！
 	DoGTeleportDenial1: そう簡単に逃げられると思うな！
 	DoGTeleportDenial2: 次元の支配者を出し抜けるなど、夢のまた夢だ！
-	DoGTeleportDenial3: そうはさせん！
+	DoGTeleportDenial3: そうはさせない！
 	DoGDeath1: 私は決して滅びぬ！
 	DoGDeath2: 私は決して滅びぬ！
 	DoGDeath3: 私は決して滅びぬ！
@@ -4568,20 +4568,20 @@ Status: {
 	ExoMechDesperationThanatos1: THANATOS-05: EXOタレットが深刻なダメージを受けています
 	ExoMechDesperationThanatos2: THANATOS-05:  !MAXIMUM OVERDRIVE CHARGE! 相互破壊プロトコルを準備中
 	DraedonDefeat1: 興味深い、実に興味深い。
-	DraedonDefeat2: 私の作品が破壊されるとは、完敗です。
-	DraedonDefeat2HyperplaneMatrix: あなたは素晴らしい被験者です。
-	DraedonDefeat3: この結果は予想外でした。
-	DraedonDefeat3HyperplaneMatrix: あなたとの戦闘から得たデータは貴重なものです。
-	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれません。
-	DraedonDefeat4HyperplaneMatrix: …内省をお許しください。考えをまとめなければなりません。
-	DraedonDefeat5: あなたが私の理性を超えていると推論するのは、間違ってはないでしょう。
+	DraedonDefeat2: 私の作品が破壊されるとは、完敗だ。
+	DraedonDefeat2HyperplaneMatrix: あなたは素晴らしい被験者だ。
+	DraedonDefeat3: この結果は予想外だった。
+	DraedonDefeat3HyperplaneMatrix: あなたとの戦闘から得たデータは貴重なものだ。
+	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれない。
+	DraedonDefeat4HyperplaneMatrix: …内省を許してくれ。考えをまとめなければならない。
+	DraedonDefeat5: あなたが私の理性を超えていると推論するのは、間違ってないだろう。
 	DraedonDefeat6: 今は…
-	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるでしょう。
-	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようですが、私はそれに手を貸すことはできません。
+	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるだろう。
+	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようだが、私はそれに手を貸すことはできない。
 	DraedonDefeat7HyperplaneMatrix: 賢く使いなさい。
-	DraedonDefeat8: 腹いせではありませんよ。私はその戦いを観察していたいとすら思っていますからね。
-	DraedonDefeat9: さて、そろそろ私は戻ります。もう一度私の作品と戦いたいのなら、コードブレイカーから連絡を。
-	DraedonDefeat10: それでは、お別れです。
+	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからな。
+	DraedonDefeat9: さて、そろそろ私は戻ろう。もう一度私の作品と戦いたいなら、コードブレイカーから連絡を。
+	DraedonDefeat10: では、さようなら。
 	SCalCongratulations: …おめでとう。
 	MultiplayerWarning: InfernumMode: Infernum Modeはシングルプレイ向けのModです。マルチプレイヤーのバグを報告しないでください。
 
