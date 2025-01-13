@@ -3349,7 +3349,7 @@ Items: {
 		}
 
 		Calamity: {
-			DisplayName: 災厄
+			DisplayName: カラミティ
 			Tooltip:
 				'''
 				魔女の炎でカーソルを燃え上がらせ、燃え盛るオーラで包み込む
@@ -30351,35 +30351,35 @@ Status: {
 		EdgyBossText8: 私を殺せるとでも！？
 		FlameText: 周りの空気が暖かくなっている...
 		DraedonIntroductionText1: この瞬間をずっと待っていた。
-		DraedonIntroductionText2: 私には理解ができないからこそ...あなたの性質には興味をそそられます。
-		DraedonIntroductionText3: あなたには、神をも超越した私の創造物に立ち向かってもらいます。
-		DraedonIntroductionText4: そして、戦いを通じてあなたの素質を私に見せてください。
+		DraedonIntroductionText2: 私には理解ができないからこそ...あなたの性質には興味をそそられる。
+		DraedonIntroductionText3: あなたには、神をも超越した私の創造物に立ち向かってもらう。
+		DraedonIntroductionText4: そして、戦いを通じてあなたの素質を私に見せるだろう。
 		DraedonIntroductionText5: さあ、選んでください。
-		DraedonResummonText: 自分で選択してください。
-		DraedonBossRushText: 選択してださい。あと20秒だ。
-		DraedonExoPhase1Text1: 時間と知識によって改良された設計こそ、私の仕事の本質です。
+		DraedonResummonText: さあ、選ぶのだ。
+		DraedonBossRushText: 選ぶのだ。あと20秒だ。
+		DraedonExoPhase1Text1: 時間と知識によって改良された設計こそ、私の仕事の本質だ。
 		DraedonExoPhase1Text2: 他の方法では完璧に近づけることなどできない。
-		DraedonExoPhase2Text1: あなたの動きは誤差の範囲内です。
-		DraedonExoPhase2Text2: かなり満足のいく結果だ...次のテストフェーズに進みます。
-		DraedonExoPhase3Text1: あなたの存在に気付いた時から、私はあなたの戦いを分析し、機械を強化してきました。
-		DraedonExoPhase3Text2: 今もなお、私はあなたの行動を監視しています。私の計算の範囲内から逃れることはできません。
+		DraedonExoPhase2Text1: あなたの動きは誤差の範囲内だ。
+		DraedonExoPhase2Text2: かなり満足のいく結果だ...次のテストフェーズに進む。
+		DraedonExoPhase3Text1: あなたの存在に気付いた時から、私はあなたの戦いを分析し、機械を強化してきた。
+		DraedonExoPhase3Text2: 今もなお、私はあなたの行動を監視している。私の計算の範囲内から逃れることはできない。
 		DraedonExoPhase4Text1: 興味深い...非常に興味深い。
 		DraedonExoPhase4Text2: より困難な挑戦を前にしても着実に前進している...
-		DraedonExoPhase5Text1: あなたの本質は依然として私には理解できません...これでは困りますね。
-		DraedonExoPhase5Text2: ...私は完璧を求めていました。運命は皮肉を好むのでしょう、それが私の最初の過ちだったに違いありません。
-		DraedonExoPhase6Text1: 馬鹿げていますね。
-		DraedonExoPhase6Text2: これ以上、私の計算がこの戦いを妨げることはありません。
-		DraedonExoPhase6Text3: 私の最終兵器の全てをお見せしましょう。
-		DraedonAresEnrageText: 愚かですね。逃げられるはずがない。
-		DraedonEndText1: 未知の要素...それが、あなたです。
-		DraedonEndText2: 私と同様に、この地やその歴史から切り離された存在のようです。
-		DraedonEndText3: ...内省をお許しください。考えをまとめなければなりません。
-		DraedonEndText4: この地は、これまでに流された血で淀み、硬くなってしまっています。
-		DraedonEndText5: あなたもまた血を流しましたが、それは新しい時代をもたらすのに十分かもしれません...それがどのようなものかはわかりませんが、それを目にするのを楽しみにしています。
-		DraedonEndText6: さて、あなたは暴君のもとへ向かおうとしているようですが、私はそれに手を貸すことはできません。
-		DraedonEndText7: 腹いせではありませんよ。私はその戦いを観察していたいとすら思っていますからね。
-		DraedonEndText8: しかし、あなたは以前にも成し遂げた。いずれ方法も見つかるでしょう。
-		DraedonEndText9: あなたの勝利を認めます。しかし、私はそろそろ戻らなければいけません。
+		DraedonExoPhase5Text1: あなたの本質は依然として私には理解できない...これでは困る。
+		DraedonExoPhase5Text2: ...私は完璧を求めていた。運命は皮肉を好むのだろう、それが私の最初の過ちだったに違いない。
+		DraedonExoPhase6Text1: 馬鹿げているな。
+		DraedonExoPhase6Text2: これ以上、私の計算がこの戦いを妨げることはない。
+		DraedonExoPhase6Text3: 私の最終兵器の全てをお見せしよう。
+		DraedonAresEnrageText: 愚かだな。逃げられるはずがない。
+		DraedonEndText1: 未知の要素...それが、あなた。
+		DraedonEndText2: 私と同様に、この地やその歴史から切り離された存在のようだ。
+		DraedonEndText3: ...内省を許してくれ。考えをまとめなければならない。
+		DraedonEndText4: この地は、これまでに流された血で淀み、硬くなってしまっている。
+		DraedonEndText5: あなたもまた血を流しだが、それは新しい時代をもたらすのに十分かもしれない...それがどのようなものかわからないが、それを目にするのを楽しみにしている。
+		DraedonEndText6: さて、あなたは暴君のもとへ向かおうとしているようだが、私はそれに手を貸すことはできない。
+		DraedonEndText7: 腹いせではない。私はその戦いを観察していたいとすら思っているからな。
+		DraedonEndText8: しかし、あなたは以前にも成し遂げた。いずれ方法も見つかるだろう。
+		DraedonEndText9: あなたの勝利を認める。だが、私はそろそろ戻らなければならない。
 		DraedonEndKillAttemptText: ...まったく、無意味なことだ...
 		DraedonMechdusaBeginText: ...死
 		DraedonMechdusaEndText1: 待て、何？どうやって...
