@@ -4818,7 +4818,7 @@ Items: {
 		}
 
 		TheSponge: {
-			DisplayName: スポンジ
+			DisplayName: ジ・スポンジ
 			Tooltip:
 				'''
 				最大180ダメージを吸収するバリアを展開
@@ -15340,7 +15340,7 @@ Items: {
 			}
 
 			ArkoftheCosmos: {
-				DisplayName: アーク・オブ・ザ・コスモス
+				DisplayName: アーク・オブ・ジ・コスモス
 				Tooltip:
 					'''
 					[COMBO]
@@ -16276,7 +16276,7 @@ Items: {
 			}
 
 			ScourgeoftheCosmos: {
-				DisplayName: スカージ・オブ・ザ・コスモス
+				DisplayName: スカージ・オブ・ジ・コスモス
 				Tooltip: 時間経過かブロックにぶつかった時に追尾する小さなコズミックスカージを放つ
 			}
 
