@@ -1157,7 +1157,7 @@ Items: {
 			DownedCalamitasMessage:
 				'''
 				見事な仕事ぶりだ。あなたは強敵をすべて打ち倒した。
-				この達成を誇りに思いなさい。なぜなら、あなたは以前よりも成長しているのだから。
+				この達成を誇りに思え。なぜなら、あなたは以前よりも成長しているからだ。
 				'''
 		}
 	}
@@ -1362,7 +1362,7 @@ Items: {
 			DownedExoMechsMessage:
 				'''
 				見事な仕事ぶりだ。あなたは強敵をすべて打ち倒した。
-				この達成を誇りに思いなさい。なぜなら、あなたは以前よりも成長しているのだから。
+				この達成を誇りに思え。なぜなら、あなたは以前よりも成長しているからだ。
 				'''
 		}
 	}
@@ -4578,7 +4578,7 @@ Status: {
 	DraedonDefeat6: 今は…
 	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるだろう。
 	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようだが、私はそれに手を貸すことはできない。
-	DraedonDefeat7HyperplaneMatrix: 賢く使いなさい。
+	DraedonDefeat7HyperplaneMatrix: 賢く使ってくれ。
 	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからな。
 	DraedonDefeat9: さて、そろそろ私は戻ろう。もう一度私の作品と戦いたいなら、コードブレイカーから連絡を。
 	DraedonDefeat10: では、さようなら。
