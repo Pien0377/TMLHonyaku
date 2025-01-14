@@ -21227,7 +21227,7 @@ NPCs: {
 	}
 
 	CosmicGuardianHead: {
-		DisplayName: 宇宙のガーディアン
+		DisplayName: コズミックガーディアン
 	}
 
 	DevourerofGodsHead: {
@@ -30348,7 +30348,7 @@ Status: {
 		EdgyBossText5: まだ終わってないぞ、ガキ！
 		EdgyBossText6: 神　は　死　を　恐　れ　な　い　！
 		EdgyBossText7: お前は神ではない...だが、お前が何であろうと俺はお前を喰うだけだ！
-		EdgyBossText8: 体力の回復頑張れよ！
+		EdgyBossText8: 私を殺せるとでも！？
 		FlameText: 周りの空気が暖かくなっている...
 		DraedonIntroductionText1: この瞬間をずっと待っていた。
 		DraedonIntroductionText2: 私には理解ができないからこそ...あなたの性質には興味をそそられる。
