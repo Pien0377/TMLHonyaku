@@ -4547,7 +4547,7 @@ Status: {
 	PostCultistColosseumCreation: 砂漠の中心に謎の遺跡が出現した！
 	PostMLTempleCreation: 地底世界の果ての灰の中から、冒涜された庭園が出現した！
 	ProvidenceLavaRise: 地下から溶岩が噴き出てきている！
-	DoGTeleportDenial1: そう簡単に逃げられると思うな！
+	DoGTeleportDenial1: そう簡単に逃げられると思うなよ！
 	DoGTeleportDenial2: 次元の支配者を出し抜けるなど、夢のまた夢だ！
 	DoGTeleportDenial3: そうはさせない！
 	DoGDeath1: 俺は決して滅ばない！
@@ -4576,7 +4576,7 @@ Status: {
 	DraedonDefeat4HyperplaneMatrix: …内省を許してくれ。考えをまとめなければならない。
 	DraedonDefeat5: あなたが私の理性を超えていると推論するのは、間違ってないだろう。
 	DraedonDefeat6: 今は…
-	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるだろう。
+	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物だ。きっと使い道が見つかるだろう。
 	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようだが、私はそれに手を貸すことはできない。
 	DraedonDefeat7HyperplaneMatrix: 賢く使ってくれ。
 	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからな。
