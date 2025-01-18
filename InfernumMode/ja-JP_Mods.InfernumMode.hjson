@@ -1204,7 +1204,7 @@ Items: {
 	}
 
 	GiantClamRelic: {
-		DisplayName: 巨大ハマグリのレリック
+		DisplayName: 巨大貝のレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1475,7 +1475,7 @@ Items: {
 		DisplayName: きらめく軟体動物詰めの缶
 		Tooltip:
 			'''
-			巨大ハマグリを召喚
+			巨大貝を召喚
 			沈没海でのみ使用可能
 			消費しない
 			'''
