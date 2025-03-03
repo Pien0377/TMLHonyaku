@@ -575,7 +575,7 @@ Buffs: {
 	}
 
 	ChibiiDoGBuff: {
-		DisplayName: チビ・デバウアー
+		DisplayName: チビ・デバウラー
 		Description: 何？他の誰かを期待していたのか？
 	}
 
@@ -2871,7 +2871,7 @@ BossChecklistIntegration: {
 	}
 
 	DevourerofGods: {
-		EntryName: デバウアー・オブ・ゴッド
+		EntryName: デバウラー・オブ・ゴッド
 		SpawnInfo: "[i:CalamityMod/CosmicWorm] を使用する"
 		DespawnMessage: "[c/00FFFF:神々を貪る者は深みに戻っていった...]"
 	}
@@ -7040,7 +7040,7 @@ Items: {
 			}
 
 			DevourerofGodsMask: {
-				DisplayName: デバウアー・オブ・ゴッドのマスク
+				DisplayName: デバウラー・オブ・ゴッドのマスク
 				Tooltip: ""
 			}
 
@@ -7446,7 +7446,7 @@ Items: {
 		}
 
 		LoreDevourerofGods: {
-			DisplayName: デバウアーオブゴッド
+			DisplayName: デバウラーオブゴッド
 			Lore:
 				'''
 				悪名高き、この世のものとは思えないほどの大食漢。彼の壮大な称号は自らが授けたものだが、実際、真実であったため定着した。 
@@ -9646,7 +9646,7 @@ Items: {
 		}
 
 		DevourerOfGodsRelic: {
-			DisplayName: デバウアー・オブ・ゴッドのレリック
+			DisplayName: デバウラー・オブ・ゴッドのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -10095,7 +10095,7 @@ Items: {
 		}
 
 		DevourerofGodsTrophy: {
-			DisplayName: デバウアー・オブ・ゴッドのトロフィー
+			DisplayName: デバウラー・オブ・ゴッドのトロフィー
 			Tooltip: ""
 		}
 
@@ -13572,7 +13572,7 @@ Items: {
 		}
 
 		TheDevourerofCods: {
-			DisplayName: デバウアー・オブ・コッド
+			DisplayName: デバウラー・オブ・コッド
 			Tooltip:
 				'''
 				一度に10本のラインを発射する
@@ -13674,7 +13674,7 @@ Items: {
 			DisplayName: 宇宙のワーム
 			Tooltip:
 				'''
-				デバウアーオブゴッドを召喚する
+				デバウラーオブゴッドを召喚する
 				消費されない
 				「名もなき蛇が、あなたのために旅立った」
 				'''
@@ -20646,7 +20646,7 @@ Items: {
 		}
 
 		DevourerofGodsBag: {
-			DisplayName: トレジャーバッグ(デバウアー・オブ・ゴッド)
+			DisplayName: トレジャーバッグ(デバウラー・オブ・ゴッド)
 			Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 		}
 
@@ -21229,7 +21229,7 @@ NPCs: {
 	}
 
 	DevourerofGodsHead: {
-		DisplayName: デバウアー・オブ・ゴッド
+		DisplayName: デバウラー・オブ・ゴッド
 	}
 
 	Androomba: {
