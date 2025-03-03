@@ -67,7 +67,7 @@ Achievements: {
 		Description:
 			'''
 			星空の下で、冒涜された女神に挑む
-			[c/777777:Infernumで、かつ夜にプロヴィデンスを倒す]
+			[c/777777:Infernumで、かつ夜にプロビデンスを倒す]
 			'''
 	}
 
@@ -76,7 +76,7 @@ Achievements: {
 		Description:
 			'''
 			正々堂々勝負しろ！
-			[c/777777:ラムダッシュを使わずにデバウアー・オブ・ゴッドを倒す]
+			[c/777777:ラムダッシュを使わずにデバウラーオブゴッドを倒す]
 			'''
 	}
 
@@ -87,7 +87,7 @@ Achievements: {
 			Description:
 				'''
 				温かい…
-				[c/777777:Infernumのデューク・フィッシュロンを1分以内に倒す]
+				[c/777777:Infernumのデュークフィッシュロンを1分以内に倒す]
 				'''
 		}
 
@@ -132,7 +132,7 @@ Achievements: {
 			Description:
 				'''
 				太陽の風、太陽の鐘の音...
-				[c/777777:Infernumで、かつ夜にプロヴィデンスを3分半以内に倒す]
+				[c/777777:Infernumで、かつ夜にプロビデンスを3分半以内に倒す]
 				'''
 		}
 
@@ -159,7 +159,7 @@ Achievements: {
 			Description:
 				'''
 				すべての獣が怪物というわけではない！
-				[c/777777:戦闘中に酸メーターを50%以上にすることなく、アクアティック・スカージを倒す]
+				[c/777777:戦闘中に酸メーターを50%以上にすることなく、アクアティックスカージを倒す]
 				'''
 		}
 
@@ -845,11 +845,11 @@ Items: {
 	}
 
 	ProfanedCore: {
-		SummoningText: 地底世界の右端にある冒涜された神殿の祭壇で使用すると、プロヴィデンスを召喚する
+		SummoningText: 地底世界の右端にある冒涜された神殿の祭壇で使用すると、プロビデンスを召喚する
 	}
 
 	RuneofKos: {
-		DeveloperText: シースレスヴォイドはダンジョンの奥底でしか戦えない
+		DeveloperText: シーセレスヴォイドはダンジョンの奥底でしか戦えない
 	}
 
 	SandstormsCore: {
@@ -1059,12 +1059,12 @@ Items: {
 	}
 
 	AEWRelic: {
-		DisplayName: 原初の竜のレリック
+		DisplayName: アダルトエイドロンワームのレリック
 		Tooltip: GetsChanged
 	}
 
 	AquaticScourgeRelic: {
-		DisplayName: アクアティック・スカージのレリック
+		DisplayName: アクアティックスカージのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1084,7 +1084,7 @@ Items: {
 	}
 
 	BetsyRelic: {
-		DisplayName: ベッツィーのレリック
+		DisplayName: ベッツィのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1099,7 +1099,7 @@ Items: {
 	}
 
 	CeaselessVoidRelic: {
-		DisplayName: シースレスヴォイドのレリック
+		DisplayName: シーセレスヴォイドのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1134,7 +1134,7 @@ Items: {
 	}
 
 	DevourerOfGodsRelic: {
-		DisplayName: デバウアーオブゴッドのレリック
+		DisplayName: デバウラーオブゴッドのレリック
 		Tooltip: GetsChanged
 		PersonalMessage:
 			'''
@@ -1151,19 +1151,19 @@ Items: {
 		PersonalMessage: {
 			DefaultMessage:
 				'''
-				あなたは驚異的な結果を残した。残る課題はただ一つ。
+				君は驚異的な結果を残した。残る課題はただ一つ、
 				魔女に立ち向かえ。
 				'''
 			DownedCalamitasMessage:
 				'''
-				見事な仕事ぶりだ。あなたは強敵をすべて打ち倒した。
-				この達成を誇りに思いなさい。なぜなら、あなたは以前よりも成長しているのだから。
+				見事な仕事ぶりだ。君は強敵をすべて打ち倒した。
+				この達成を誇りに思え。なぜなら、君は以前よりも成長しているからだ。
 				'''
 		}
 	}
 
 	DragonfollyRelic: {
-		DisplayName: ドラゴンフォーリーのレリック
+		DisplayName: ドラゴンフォリーのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1204,7 +1204,7 @@ Items: {
 	}
 
 	GiantClamRelic: {
-		DisplayName: 巨大ハマグリのレリック
+		DisplayName: 巨大貝のレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1226,7 +1226,7 @@ Items: {
 	}
 
 	LeviathanRelic: {
-		DisplayName: リヴァイアサンのレリック
+		DisplayName: リヴァイアサンとアナーヒターのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1266,7 +1266,7 @@ Items: {
 	}
 
 	PlaguebringerGoliathRelic: {
-		DisplayName: プラグブリンガーのレリック
+		DisplayName: プレイグブリンガーゴリアテのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1291,7 +1291,7 @@ Items: {
 	}
 
 	ProvidenceRelic: {
-		DisplayName: プロヴィデンスのレリック
+		DisplayName: プロビデンスのレリック
 		Tooltip: GetsChanged
 
 		PersonalMessage: {
@@ -1356,13 +1356,13 @@ Items: {
 		PersonalMessage: {
 			DefaultMessage:
 				'''
-				あなたは驚異的な結果を残した。残された課題はただ一つ、
+				君は驚異的な結果を残した。残された課題はただ一つ、
 				宇宙のエンジニアに立ち向かえ。
 				'''
 			DownedExoMechsMessage:
 				'''
-				見事な仕事ぶりだ。あなたは強敵をすべて打ち倒した。
-				この達成を誇りに思いなさい。なぜなら、あなたは以前よりも成長しているのだから。
+				見事な仕事ぶりだ。君は強敵をすべて打ち倒した。
+				この達成を誇りに思え。なぜなら、君は以前よりも成長しているからだ。
 				'''
 		}
 	}
@@ -1378,7 +1378,7 @@ Items: {
 	}
 
 	YharonRelic: {
-		DisplayName: ヤーロンのレリック
+		DisplayName: ヤロンのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1475,7 +1475,7 @@ Items: {
 		DisplayName: きらめく軟体動物詰めの缶
 		Tooltip:
 			'''
-			巨大ハマグリを召喚する
+			巨大貝を召喚する
 			沈没海でのみ使用可能
 			消費しない
 			'''
@@ -1957,7 +1957,7 @@ PetDialog: {
 	DSTip2: グラップリングフックを使えば、イイ感じに避けれるかも！
 	DSFinalPhaseTip: コイツらの餌になるのは時間の問題かもね...
 	DSJokeTip1: 自分をデザートにしちゃったみたいだね...
-	DoGTip1: デバウアーの攻撃にはリズムがあるよ。そのリズムを見つけて、いい感じに避けて！
+	DoGTip1: デバウラーの攻撃にはリズムがあるよ。そのリズムを見つけて、いい感じに避けて！
 	DoGLaserTip: うわ、レーザーが多すぎる！ゆっくり、正確に動こう...
 	DoGRoDTip: あれ、もしかしてロッド・オブ・ディスコードはここでは使えないのかも...
 	DoGChargeTip: 頑張って！恐怖に立ち向かって、デバウラーの口に向かってダッシュするの！
@@ -2037,8 +2037,8 @@ PetDialog: {
 	PolterghastTip1: ダッシュがあれば、回転攻撃をうまく避けれるかも！
 	PolterghastTip2: ポルターガストの足が赤くなったら、すぐに離れて！加速する弾が出てくるよ！
 	PolterghastDesperationPhaseTip: ポルターガストの霊魂が解放されたけど、流石に歓迎はされてないみたいだね...
-	ProvidenceDawnWarningTip: プロヴィデンスと戦ってる時は、夜が明けないように気をつけて！
-	ProvidenceDuskWarningTip: プロヴィデンスと戦ってる時は、夜にならないように注意してね！
+	ProvidenceDawnWarningTip: プロビデンスと戦ってる時は、夜が明けないように気をつけて！
+	ProvidenceDuskWarningTip: プロビデンスと戦ってる時は、夜にならないように注意してね！
 	PrimeTip1: 腕はキミが向かう方向を予測してるみたいだね！ギリギリで方向を変えれば、その計算を狂わせられるかも！
 	PrimeTeslaTip: 青い地雷が爆発するとガスを撒き散らすよ！気をつけてね！
 	PrimeJokeTip1: これぞ…絶対にやっちゃダメなことの見本だね。
@@ -2051,7 +2051,7 @@ PetDialog: {
 	ProvidenceTip1: アイツの攻撃サイクルは音楽と連動してるかも...？
 	ProvidenceTip2: 常に攻撃し続ける必要はないよ！緩急が大事！
 	ProvidenceExplosionTip: あの火球は溶岩と当たると爆発するみたい！気をつけて！
-	ProvidenceFinalPhaseTip: プロヴィデンスが何かを準備してるよ！気をつけて！
+	ProvidenceFinalPhaseTip: プロビデンスが何かを準備してるよ！気をつけて！
 	QueenBeeTip1: あのハチミツはよく跳ねるね！急いで動きすぎると、無茶苦茶になっちゃう！
 	QueenBeeTip2: ジャマなスズメバチをまず片付けるのが最優先だよ！
 	QueenBeeTip3: 毒は本当にメンドくさいよね。胃石とか、毒を防げるもの、持ってない？ 
@@ -2085,9 +2085,9 @@ PetDialog: {
 	WoFTip2: あの目は本当に怖いね。幸い、自由に撃ち放題...ってわけじゃないみたいだ！
 	WoFTip3: うわっ、あの口、飛ぶのか！？グロすぎるよ…
 	WoFJokeTip1: うーん、やっちゃったね！ま、ガイドをいじめるのはいつでも楽しいし、無駄じゃないよ！
-	YharonPreHealTip: もう少しだよ！ヤーロンも限界だ！
+	YharonPreHealTip: もう少しだよ！ヤロンも限界だ！
 	YharonPostHealTip: えぇ…
-	YharonSpeedTip: ヤーロンがダッシュを始めるタイミングを覚えておいて！油断してると不意を突かれるよ！
+	YharonSpeedTip: ヤロンがダッシュを始めるタイミングを覚えておいて！油断してると不意を突かれるよ！
 	YharonFlashbangTip: 閃光に惑わされないで！炎がどこにあるかしっかり目を凝らして！
 	YharonCarpetBombTip: アイツが爆撃してきそうな時はアリーナの端にいた方がいいよ。その方が避けやすい！
 	YharonJokeTip1: もし私がキミより先に死んだとしても、キミは生きていけるだろうけど…って、え？死んじゃったの！？ウソでしょ、いいところだったのに！
@@ -4547,19 +4547,19 @@ Status: {
 	PostCultistColosseumCreation: 砂漠の中心に謎の遺跡が出現した！
 	PostMLTempleCreation: 地底世界の果ての灰の中から、冒涜された庭園が出現した！
 	ProvidenceLavaRise: 地下から溶岩が噴き出てきている！
-	DoGTeleportDenial1: そう簡単に逃げられると思うな！
+	DoGTeleportDenial1: そう簡単に逃げられると思うなよ！
 	DoGTeleportDenial2: 次元の支配者を出し抜けるなど、夢のまた夢だ！
-	DoGTeleportDenial3: そうはさせん！
-	DoGDeath1: 私は決して滅びぬ！
-	DoGDeath2: 私は決して滅びぬ！
-	DoGDeath3: 私は決して滅びぬ！
-	DoGDeath4: 私は、決して…
-	DoGDeath5: 私は…
+	DoGTeleportDenial3: そうはさせない！
+	DoGDeath1: 神は決して滅ばない！
+	DoGDeath2: 神は決して滅ばない！
+	DoGDeath3: 神は決して滅ばない！
+	DoGDeath4: 神は、決して…
+	DoGDeath5: 神は…
 	YharonSecondPhase: 焼けるような暑さだ…
 	YharonFinalPhase: 熱気が押し寄せてくる…
 	PostYharonWyrmHint: 深淵の底で原初の光が揺らめく…
-	DraedonEffortMock1: あなたの力は非常に興味深い。
-	DraedonEffortMock2: いい調子だ...私の機械に情報を送り続けてください。
+	DraedonEffortMock1: 君の力は非常に興味深い。
+	DraedonEffortMock2: いい調子だ...私の機械に情報を送り続けてくれ。
 	DraedonAresDesperationBlenderLeaveWarning: あなたは重大な計算ミスを犯した。
 	ExoMechDesperationAres1: ARES-09: コアの温度が急上昇　自己破壊が迫っています
 	ExoMechDesperationAres2: ARES-09: 相互破壊プロトコル「PRECISION GAMMA-BLASTS」準備中
@@ -4568,20 +4568,20 @@ Status: {
 	ExoMechDesperationThanatos1: THANATOS-05: EXOタレットが深刻なダメージを受けています
 	ExoMechDesperationThanatos2: THANATOS-05:  !MAXIMUM OVERDRIVE CHARGE! 相互破壊プロトコルを準備中
 	DraedonDefeat1: 興味深い、実に興味深い。
-	DraedonDefeat2: 私の作品が破壊されるとは、完敗です。
-	DraedonDefeat2HyperplaneMatrix: あなたは素晴らしい被験者です。
-	DraedonDefeat3: この結果は予想外でした。
-	DraedonDefeat3HyperplaneMatrix: あなたとの戦闘から得たデータは貴重なものです。
-	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれません。
-	DraedonDefeat4HyperplaneMatrix: …内省をお許しください。考えをまとめなければなりません。
-	DraedonDefeat5: あなたが私の理性を超えていると推論するのは、間違ってはないでしょう。
+	DraedonDefeat2: 私の作品が破壊されるとは、完敗だ。
+	DraedonDefeat2HyperplaneMatrix: 君は素晴らしい被験者だ。
+	DraedonDefeat3: この結果は予想外だった。
+	DraedonDefeat3HyperplaneMatrix: 君との戦闘から得たデータは貴重なものだ。
+	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれない。
+	DraedonDefeat4HyperplaneMatrix: …内省を許してくれ。考えをまとめなければならない。
+	DraedonDefeat5: 君が私の理性を超えていると推論するのは、間違ってはないだろう。
 	DraedonDefeat6: 今は…
-	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるでしょう。
-	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようですが、私はそれに手を貸すことはできません。
-	DraedonDefeat7HyperplaneMatrix: 賢く使いなさい。
-	DraedonDefeat8: 腹いせではありませんよ。私はその戦いを観察していたいとすら思っていますからね。
-	DraedonDefeat9: さて、そろそろ私は戻ります。もう一度私の作品と戦いたいのなら、コードブレイカーから連絡を。
-	DraedonDefeat10: それでは、お別れです。
+	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物だ。きっと使い道が見つかるだろう。
+	DraedonDefeat7: さて、君は暴君のもとへ向かおうとしているようだが、私は手を貸すことはできない。
+	DraedonDefeat7HyperplaneMatrix: 賢く使ってくれ。
+	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからな。
+	DraedonDefeat9: さて、そろそろ私は戻ろう。もう一度私の作品と戦いたいのなら、コードブレイカーから連絡を。
+	DraedonDefeat10: それでは、さようなら。
 	SCalCongratulations: …おめでとう。
 	MultiplayerWarning: InfernumMode: Infernum Modeはシングルプレイ向けのModです。マルチプレイヤーのバグを報告しないでください。
 
