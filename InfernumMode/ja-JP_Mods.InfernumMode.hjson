@@ -946,7 +946,7 @@ Items: {
 	}
 
 	HyperplaneMatrix: {
-		DisplayName: 超平面マトリクス
+		DisplayName: 超平面マトリックス
 		Tooltip:
 			'''
 			無限の力を秘めた、計り知れないほど複雑な装置
@@ -4549,7 +4549,7 @@ Status: {
 	ProvidenceLavaRise: 地下から溶岩が噴き出てきている！
 	DoGTeleportDenial1: そう簡単に逃げられると思うなよ！
 	DoGTeleportDenial2: 次元の支配者を出し抜けるなど、夢のまた夢だ！
-	DoGTeleportDenial3: そうはさせない！
+	DoGTeleportDenial3: そうはさせないぞ！
 	DoGDeath1: 神は決して滅ばない！
 	DoGDeath2: 神は決して滅ばない！
 	DoGDeath3: 神は決して滅ばない！
