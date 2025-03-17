@@ -4358,7 +4358,7 @@ Items: {
 		}
 
 		ReaperToothNecklace: {
-			DisplayName: リーパートゥースのネックレス
+			DisplayName: 死神ザメ歯のネックレス
 			Tooltip:
 				'''
 				ダメージ15%増加
@@ -5823,7 +5823,7 @@ Items: {
 			}
 
 			MolluskShelleggings: {
-				DisplayName: 軟体動物のレギンス
+				DisplayName: モルスクのレギンス
 				Tooltip:
 					'''
 					ダメージ12%増加、クリティカル確率4%増加
@@ -5832,7 +5832,7 @@ Items: {
 			}
 
 			MolluskShellmet: {
-				DisplayName: 軟体動物のヘルメット
+				DisplayName: モルスクのヘルメット
 				Tooltip:
 					'''
 					ダメージ5%増加、クリティカル確率4%増加
@@ -5847,7 +5847,7 @@ Items: {
 			}
 
 			MolluskShellplate: {
-				DisplayName: 軟体動物のチェストプレート
+				DisplayName: モルスクのチェストプレート
 				Tooltip:
 					'''
 					ダメージ10%増加、クリティカル確率6%増加
@@ -7897,17 +7897,17 @@ Items: {
 		}
 
 		AncientBoneDust: {
-			DisplayName: 古代の骨の灰
+			DisplayName: 古代の骨粉
 			Tooltip: ""
 		}
 
 		ArmoredShell: {
-			DisplayName: アーマードシェル
+			DisplayName: 装甲の殻
 			Tooltip: ""
 		}
 
 		AscendantSpiritEssence: {
-			DisplayName: 崇高な魂のエッセンス
+			DisplayName: アセンダントスピリットエッセンス
 			Tooltip: 「魂の融合によって形成されたエッセンス」
 		}
 
@@ -7947,7 +7947,7 @@ Items: {
 		}
 
 		BloodSample: {
-			DisplayName: 血のサンプル
+			DisplayName: 血液サンプル
 			Tooltip: ""
 		}
 
@@ -7972,7 +7972,7 @@ Items: {
 		}
 
 		CoreofHavoc: {
-			DisplayName: ハボックのコア
+			DisplayName: カオスのコア
 			Tooltip: ""
 		}
 
@@ -8007,27 +8007,27 @@ Items: {
 		}
 
 		DemonicBoneAsh: {
-			DisplayName: デモニックボーンの灰
+			DisplayName: 魔骨の灰
 			Tooltip: ""
 		}
 
 		DepthCells: {
-			DisplayName: 深海細胞
+			DisplayName: デプスセル
 			Tooltip: 「深海生物の細胞」
 		}
 
 		DivineGeode: {
-			DisplayName: 神聖なるジオード
+			DisplayName: 神のジオード
 			Tooltip: 「聖なるエネルギーの結晶」
 		}
 
 		DubiousPlating: {
-			DisplayName: 怪しげな装甲板
+			DisplayName: 怪しいメッキ
 			Tooltip: ""
 		}
 
 		EffulgentFeather: {
-			DisplayName: 光り輝く羽
+			DisplayName: 光り輝く羽根
 			Tooltip: 「ふわふわとした金色のエネルギーを放っている」
 		}
 
@@ -8047,7 +8047,7 @@ Items: {
 		}
 
 		EssenceofHavoc: {
-			DisplayName: ハボックのエッセンス
+			DisplayName: カオスのエッセンス
 			Tooltip: 「荒涼とした生物のエッセンス」
 		}
 
@@ -8072,7 +8072,7 @@ Items: {
 		}
 
 		InfectedArmorPlating: {
-			DisplayName: 汚染された装甲板
+			DisplayName: 感染した装甲板
 			Tooltip: ""
 		}
 
@@ -8102,7 +8102,7 @@ Items: {
 		}
 
 		MiracleMatter: {
-			DisplayName: 奇跡の物質
+			DisplayName: ミラクルマター
 			Tooltip:
 				'''
 				「そのとらえどころのない物体には計り知れない可能性が秘められている」
@@ -8111,7 +8111,7 @@ Items: {
 		}
 
 		MolluskHusk: {
-			DisplayName: 軟体動物の殻
+			DisplayName: モルスクの殻
 			Tooltip: 「軟体動物の亡骸」
 		}
 
@@ -8121,7 +8121,7 @@ Items: {
 		}
 
 		MysteriousCircuitry: {
-			DisplayName: 神秘的な電気回路
+			DisplayName: 謎の回路
 			Tooltip: ""
 		}
 
@@ -8161,8 +8161,8 @@ Items: {
 		}
 
 		ReaperTooth: {
-			DisplayName: リーパーの歯
-			Tooltip: 「ダイヤモンドを加工するのに十分な鋭さだ」
+			DisplayName: 死神ザメの歯
+			Tooltip: 「ダイヤモンドを切るのに十分な鋭さだ」
 		}
 
 		RottenMatter: {
@@ -8226,7 +8226,7 @@ Items: {
 		}
 
 		TwistingNether: {
-			DisplayName: ねじれたネザー
+			DisplayName: ツイストネザー
 			Tooltip: ""
 		}
 
@@ -8236,12 +8236,12 @@ Items: {
 		}
 
 		UnholyCore: {
-			DisplayName: 不道徳なコア
+			DisplayName: 不浄のコア
 			Tooltip: ""
 		}
 
 		UnholyEssence: {
-			DisplayName: 不道徳なエッセンス
+			DisplayName: 不浄のエッセンス
 			Tooltip: 「冒涜された生物のエッセンス」
 		}
 
@@ -12313,7 +12313,7 @@ Items: {
 		}
 
 		Havocplate: {
-			DisplayName: ハボックプレート
+			DisplayName: カオスプレート
 			Tooltip: 別世界のエネルギーに共鳴する
 		}
 
@@ -12578,7 +12578,7 @@ Items: {
 		}
 
 		HavocplateWall: {
-			DisplayName: ハボックプレートの壁
+			DisplayName: カオスプレートの壁
 			Tooltip: ""
 		}
 
@@ -13356,7 +13356,7 @@ Items: {
 		}
 
 		Havocfish: {
-			DisplayName: ハボックフィッシュ
+			DisplayName: カオスフィッシュ
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
@@ -17307,7 +17307,7 @@ Items: {
 			}
 
 			HavocsBreath: {
-				DisplayName: ハボックスブレス
+				DisplayName: カオスブレス
 				Tooltip: 50%の確率で弾薬を消費しない
 			}
 
@@ -20963,7 +20963,7 @@ NPCs: {
 	}
 
 	ReaperShark: {
-		DisplayName: リーパーシャーク
+		DisplayName: 死神ザメ
 	}
 
 	SlabCrab: {
@@ -30348,36 +30348,36 @@ Status: {
 		EdgyBossText7: お前は神ではない...だが、お前が何であろうと俺はお前を喰うだけだ！
 		EdgyBossText8: 俺を殺せるとでも！？
 		FlameText: 周りの空気が暖かくなっている...
-		DraedonIntroductionText1: この瞬間をずっと待っていた。
-		DraedonIntroductionText2: 私には理解ができないからこそ...君の性質には興味をそそられる。
-		DraedonIntroductionText3: 君には、神をも超越した私の創造物に立ち向かってもらう。
-		DraedonIntroductionText4: そして、戦いを通じて君の素質を私に見せてくれ。
+		DraedonIntroductionText1: この時をずっと待っていた。
+		DraedonIntroductionText2: 私の生きざまは理解ができないからこそ...とても興味深い。
+		DraedonIntroductionText3: 君は神々を凌駕する私の創造物と向き合うのだ。
+		DraedonIntroductionText4: そして、その戦いを君自身を私に見せるのだ。
 		DraedonIntroductionText5: さあ、選んでくれ。
 		DraedonResummonText: 選ぶのだ。
 		DraedonBossRushText: 選ぶのだ。あと20秒だ。
-		DraedonExoPhase1Text1: 時間と知識によって改良された設計こそ、私の仕事の本質だ。
-		DraedonExoPhase1Text2: 他の方法では完璧に近づけることなどできない。
-		DraedonExoPhase2Text1: 君の動きは誤差の範囲内だ。
-		DraedonExoPhase2Text2: かなり満足のいく結果だ...次のテストフェーズに進む。
-		DraedonExoPhase3Text1: 君の存在に気付いた時から、私は君の戦いを分析し、機械を強化してきた。
-		DraedonExoPhase3Text2: 今もなお、私は君の行動を監視しています。私の計算の範囲内から逃れることはできない。
+		DraedonExoPhase1Text1: 時間と知識をかけて改良されたデザインは、私の作品の真骨頂なのだ。
+		DraedonExoPhase1Text2: これ以外の方法では、完璧に近づくことはできない。
+		DraedonExoPhase2Text1: 君のパフォーマンスは、誤差の範囲にきちんと収まっている。
+		DraedonExoPhase2Text2: これはかなり満足のいくものだ...次の段階のテストに進むぞ。
+		DraedonExoPhase3Text1: 君の存在を知って以来、私は自分の機械を強くするために君の戦闘をずっと見てきたのだ。
+		DraedonExoPhase3Text2: 今でも、私は君の行動を監視している。私の計算から逃れるものはない。
 		DraedonExoPhase4Text1: 興味深い...非常に興味深い。
-		DraedonExoPhase4Text2: より困難な挑戦を前にしても着実に前進している...
-		DraedonExoPhase5Text1: 君の本質は依然として私には理解できない...これでは困るな。
-		DraedonExoPhase5Text2: ...私は完璧を求めていた。運命は皮肉を好むのだろう、それが私の最初の過ちだったに違いない。
-		DraedonExoPhase6Text1: 馬鹿げているな。
-		DraedonExoPhase6Text2: これ以上、私の計算がこの戦いを妨げることはない。
-		DraedonExoPhase6Text3: 私の最終兵器の全てをお見せしよう。
+		DraedonExoPhase4Text2: より困難な課題をに対して、着実に前進している...
+		DraedonExoPhase5Text1: 君の本当の姿はまだわからない...これではダメだ。
+		DraedonExoPhase5Text2: ...私は完璧を求めていた。運命は皮肉なもので、それが私の最初の過ちであったに違いない。
+		DraedonExoPhase6Text1: 馬鹿馬鹿しい。
+		DraedonExoPhase6Text2: もう、計算でこの戦闘の観察が妨げられることはないだろう。
+		DraedonExoPhase6Text3: 私の機械の全貌をお見せしてあげよう。
 		DraedonAresEnrageText: 愚かだ。逃げられるはずがない。
-		DraedonEndText1: 未知の要素...それが、あなた。
-		DraedonEndText2: 私と同様に、この地やその歴史から切り離された存在のようだ。
-		DraedonEndText3: ...内省を許してくれ。考えをまとめなければならない。
-		DraedonEndText4: この地は、これまでに流された血で淀み、硬くなってしまっている。
-		DraedonEndText5: 君もまた血を流したが、それは新しい時代をもたらすのに十分かもしれない...それがどのようなものかはわからないが、それを目にするのを楽しみにしている。
-		DraedonEndText6: さて、君は暴君のもとへ向かおうとしているようだが、私は手を貸すことはできない。
-		DraedonEndText7: 腹いせではないぞ。私はその戦いを観察していたいとすら思っていますからな。
-		DraedonEndText8: しかし、あなたは以前にも成し遂げた。いずれ方法も見つかるだろう。
-		DraedonEndText9: あなたの勝利を認める。だが、私はそろそろ戻らなければならない。
+		DraedonEndText1: 未知の要素...それが、君のことだ。
+		DraedonEndText2: この土地とその歴史に対して、私と同じように異質な存在になりつつある。
+		DraedonEndText3: ...内省的で失礼した。あの戦いの後、考えをまとめなければならない。
+		DraedonEndText4: この地は今まで流された血で古くなり、硬くなっている。
+		DraedonEndText5: 君はまた、血を流した。しかし、それは新しい時代を切り開くのに十分かもしれない...何であれ、どうなるのかはわからない。しかし、私はその瞬間をこの目に収めたい。
+		DraedonEndText6: 今すぐタイラントと顔を合わせたいだろうが、私はそれを支援することはできない。
+		DraedonEndText7: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからだ。
+		DraedonEndText8: しかし、君は以前にも成し遂げたことがある。いずれは道を見つけることができるだろう。
+		DraedonEndText9: 君の勝利を認める。私は自分の機械のところに戻ろう。
 		DraedonEndKillAttemptText: ...まったく、無駄なことだ...
 		DraedonMechdusaBeginText: ...死ね
 		DraedonMechdusaEndText1: 待て、何？どうやって...
@@ -30400,19 +30400,19 @@ Status: {
 		SCalAcceptanceText2: 私はもう彼を、そしてお前を恨む力すら残っていない...
 		SCalAcceptanceText3: これからはすべてお前の手に委ねられる...
 		SCalSummonTextRematch: そんなに大火傷を負いたいのか？相手をしてやろう...
-		SCalStartTextRematch: 時が来たら、私の創造に加わりたいか？
-		SCalBH2TextRematch: 勝つためには、まだ努力が必要だな。
-		SCalBH3TextRematch: こんなに面白い獲物に魔法を試すのは久しぶりだな...
-		SCalBrothersTextRematch: 彼らはかつての姿を保ってはいるが、もはやただの残骸だ。魂の欠片すら残っているかどうか疑わしい。
-		SCalPhase2TextRematch: もう一度だ。
+		SCalStartTextRematch: その時が来たら、私の創造物に加わりたいか？
+		SCalBH2TextRematch: 勝つためには、まだまだ努力が必要だな。
+		SCalBH3TextRematch: 自分の魔法を試すのに、これほど面白いターゲットダミーは久しぶりだ...
+		SCalBrothersTextRematch: かつての自分の空っぽの殻、魂のかけらも残ってないだろう。
+		SCalPhase2TextRematch: さあ、また行くぞ。
 		SCalBH4TextRematch: 初めて戦ってから、私を悪夢で見たことはあるか？
-		SCalSeekerRingTextRematch: お前の技は少しも鈍っていない。
-		SCalBH5TextRematch: ワクワクしてこないか？
+		SCalSeekerRingTextRematch: 力が少しも衰えてないな。
+		SCalBH5TextRematch: 気が高まるだろう？
 		SCalSepulcher2TextRematch: 這い寄る墓が再び姿を現す、これが最後だ。
-		SCalDesparationText1Rematch: 見事な戦いだった...この勝負はお前の勝ちだ。
+		SCalDesparationText1Rematch: この戦いはお前に譲ろう。
 		SCalDesparationText2Rematch: これから先、間違いなく私より強い敵と戦うことになるだろう。
-		SCalDesparationText3Rematch: お前が彼と同じ過ちを犯さないことを願っている。
-		SCalDesparationText4Rematch: お前の未来がどうなるか、私には想像もできない。
+		SCalDesparationText3Rematch: お前が彼と同じ過ちを犯さないことを信じている。
+		SCalDesparationText4Rematch: お前の未来は想像もできないほどだ
 		CirrusSummonText: 終わりのない無駄な仕事に挑む準備はできてる？
 		CirrusBirbSwarmText: そのハート、ちょっと尖りすぎね。代わりに鳥の群れなんてどう？
 		CirrusBH2Text: 喉が渇いたって？私が癒してあげるわ！
