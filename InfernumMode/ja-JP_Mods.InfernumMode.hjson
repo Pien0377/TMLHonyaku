@@ -4567,22 +4567,22 @@ Status: {
 	ExoMechDesperationTwins2: APOLLO-03: 相互破壊プロトコル「THERMONUCLEAR BLITZ」準備中
 	ExoMechDesperationThanatos1: THANATOS-05: EXOタレットが深刻なダメージを受けています
 	ExoMechDesperationThanatos2: THANATOS-05:  !MAXIMUM OVERDRIVE CHARGE! 相互破壊プロトコルを準備中
-	DraedonDefeat1: 興味深い、実に興味深い。
+	DraedonDefeat1: 興味深い...非常に興味深い。
 	DraedonDefeat2: 私の作品が破壊されるとは、完敗だ。
 	DraedonDefeat2HyperplaneMatrix: 君は素晴らしい被験者だ。
 	DraedonDefeat3: この結果は予想外だった。
 	DraedonDefeat3HyperplaneMatrix: 君との戦闘から得たデータは貴重なものだ。
 	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれない。
-	DraedonDefeat4HyperplaneMatrix: …内省を許してくれ。考えをまとめなければならない。
+	DraedonDefeat4HyperplaneMatrix: ...内省的で失礼した。あの戦いの後、考えをまとめなければならない。
 	DraedonDefeat5: 君が私の理性を超えていると推論するのは、間違ってはないだろう。
-	DraedonDefeat6: 今は…
+	DraedonDefeat6: 今は...
 	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物だ。きっと使い道が見つかるだろう。
-	DraedonDefeat7: さて、君は暴君のもとへ向かおうとしているようだが、私は手を貸すことはできない。
+	DraedonDefeat7: 今すぐタイラントと顔を合わせたいだろうが、私はそれを支援することはできない。
 	DraedonDefeat7HyperplaneMatrix: 賢く使ってくれ。
-	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからな。
-	DraedonDefeat9: さて、そろそろ私は戻ろう。もう一度私の作品と戦いたいのなら、コードブレイカーから連絡を。
-	DraedonDefeat10: それでは、さようなら。
-	SCalCongratulations: …おめでとう。
+	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからだ。
+	DraedonDefeat9: さて、そろそろ私は戻ろう。もう一度私の作品と戦いたいなら、コードブレイカーから連絡を。
+	DraedonDefeat10: それでは、私は機械のところに戻ろう。
+	SCalCongratulations: ...おめでとう。
 	MultiplayerWarning: InfernumMode: Infernum Modeはシングルプレイ向けのModです。マルチプレイヤーのバグを報告しないでください。
 
 	Death: {
