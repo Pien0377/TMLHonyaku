@@ -8670,7 +8670,7 @@ Items: {
 
 		CorrodedFossil: {
 			DisplayName: 腐食した化石
-			Tooltip: とても頑丈だ
+			Tooltip: とても頑丈
 		}
 
 		CosmiliteBar: {
@@ -8709,7 +8709,7 @@ Items: {
 		}
 
 		DubiousPlating: {
-			DisplayName: 怪しげなメッキ
+			DisplayName: 怪しいメッキ
 			Tooltip: ""
 		}
 
@@ -9312,7 +9312,7 @@ Items: {
 
 		SuspiciousLookingJellyBean: {
 			DisplayName: 怪しげなジェリービーン
-			Tooltip: ジェリービーン！
+			Tooltip: ジ　ェ　リ　ー　ビ　ー　ン　！
 		}
 
 		TundraLeash: {
