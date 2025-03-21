@@ -8644,7 +8644,7 @@ Items: {
 		}
 
 		BloodstoneCore: {
-			DisplayName: ブラッドストーンのコア
+			DisplayName: ブラッドストーンコア
 			Tooltip: ""
 		}
 
@@ -8754,7 +8754,7 @@ Items: {
 		}
 
 		GrandScale: {
-			DisplayName: 大地の鱗
+			DisplayName: グランドスケール
 			Tooltip: 「捕食者の大きな鱗」
 		}
 
@@ -8779,12 +8779,12 @@ Items: {
 		}
 
 		MeldBlob: {
-			DisplayName: 溶けた塊
+			DisplayName: メルドブロブ
 			Tooltip: ""
 		}
 
 		MeldConstruct: {
-			DisplayName: 溶けた構造物
+			DisplayName: メルドブロブトラクト
 			Tooltip: ""
 		}
 
