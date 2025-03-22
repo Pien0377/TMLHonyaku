@@ -20663,7 +20663,7 @@ NPCs: {
 	TinySquid: Tiny Squid
 
 	Cuttlefish: {
-		DisplayName: イカ
+		DisplayName: コウイカ
 	}
 
 	DevilFish: {
@@ -20962,7 +20962,7 @@ NPCs: {
 	}
 
 	DesertNuisanceHeadYoung: {
-		DisplayName: Desert Nuisance
+		DisplayName: デザートヌイサンス
 	}
 
 	DesertScourgeHead: {
@@ -20978,7 +20978,7 @@ NPCs: {
 	}
 
 	Androomba: {
-		DisplayName: アンドロンバ
+		DisplayName: アンドルンバ
 	}
 
 	Nanodroid: {
