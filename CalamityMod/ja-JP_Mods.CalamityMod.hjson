@@ -19495,7 +19495,7 @@ Status: {
 		SlimeGodRun: スライムゴッドは別の日に戦うために逃げていった...
 		CryogenBossText: クライオジェンはイカれている！
 		PyrogenBossText: パイロジェンはイカれている！
-		CalamitasBossText: お前は私の力をっ見くびっている...
+		CalamitasBossText: お前は私の力を見くびっている...
 		CalamitasBossText2: 血族よ生き残れ！
 		CalamitasBossText3: やるではないか...他の奴らとは違う...
 		SandSharkText: 砂の中で何かが蠢いている...
@@ -19503,7 +19503,7 @@ Status: {
 		PlagueBossText: 疫病核ミサイルの一斉攻撃を準備中、発射態勢に入る
 		PlagueBossText2: ミサイル発射　ターゲティングルーチンを開始
 		DeusAltarRejectNightText: 星の神は捧げものを拒絶した。儀式は夜しか行えないようだ...
-		ProfanedBossText: 聖なる炎が翼を焼き尽くす...
+		ProfanedBossText: 翼に聖なる炎が燃えている...
 		GhostBossText2: 老朽化したダンジョンに慟哭がこだまする...
 		GhostBossText3: 大昔に死んだ囚人たちが、熱狂的な復讐を試みる...
 		EdgyBossText: 調子に乗るなよ、ガキ！
@@ -21096,7 +21096,7 @@ NPCs: {
 	}
 
 	BloomSlime: {
-		DisplayName: 花のスライム
+		DisplayName: ブルームスライム
 	}
 
 	Bohldohr: {
@@ -21104,7 +21104,7 @@ NPCs: {
 	}
 
 	Cnidrion: {
-		DisplayName: ナイドリオン
+		DisplayName: シニドリオン
 	}
 
 	CrawlerAmber: {
@@ -21156,7 +21156,7 @@ NPCs: {
 	}
 
 	Eidolist: {
-		DisplayName: 幽玄の信徒
+		DisplayName: エイドリスト
 	}
 
 	FearlessGoldfishWarrior: {
@@ -21164,7 +21164,7 @@ NPCs: {
 	}
 
 	Frogfish: {
-		DisplayName: フロッグフィッシュ
+		DisplayName: カエルアンコウ
 	}
 
 	Horse: {
@@ -21180,15 +21180,15 @@ NPCs: {
 	}
 
 	KingSlimeJewelEmerald: {
-		DisplayName: King Slime Jewel Emerald
+		DisplayName: エメラルドジュエル
 	}
 
 	KingSlimeJewelRuby: {
-		DisplayName: King Slime Jewel Ruby
+		DisplayName: ルビージュエル
 	}
 
 	KingSlimeJewelSapphire: {
-		DisplayName: King Slime Jewel Sapphire
+		DisplayName: サファイアジュエル
 	}
 
 	LavaSlimeNoLavaDrop: {
@@ -21196,11 +21196,11 @@ NPCs: {
 	}
 
 	MantisShrimp: {
-		DisplayName: マンティスシュリンプ
+		DisplayName: エビシャコ
 	}
 
 	OverloadedSoldier: {
-		DisplayName: オーバーローデッドソルジャー
+		DisplayName: オーバーロードソルジャー
 	}
 
 	PerennialSlime: {
@@ -21220,7 +21220,7 @@ NPCs: {
 	}
 
 	ProfanedEnergyBody: {
-		DisplayName: 冒涜された力
+		DisplayName: 冒涜されたエネルギー
 	}
 
 	Rimehound: {
@@ -21252,11 +21252,11 @@ NPCs: {
 	}
 
 	Sunskater: {
-		DisplayName: サンケーター
+		DisplayName: サンスケーター
 	}
 
 	SuperDummyNPC: {
-		DisplayName: スパーダミー
+		DisplayName: スーパーダミー
 	}
 
 	ThiccWaifu: {
@@ -21352,11 +21352,11 @@ NPCs: {
 	}
 
 	PlagueHomingMissile: {
-		DisplayName: 疫病追尾ミサイル
+		DisplayName: プレイグホーミングミサイル
 	}
 
 	PlagueMine: {
-		DisplayName: 疫病地雷
+		DisplayName: プレイグマイン
 	}
 
 	Melter: {
@@ -21392,7 +21392,7 @@ NPCs: {
 	}
 
 	PolterghastHook: {
-		DisplayName: ポルターガスイトフック
+		DisplayName: ポルターガストフック
 	}
 
 	PolterPhantom: {
@@ -21438,7 +21438,7 @@ NPCs: {
 	}
 
 	FlamePillar: {
-		DisplayName: フレームピラー
+		DisplayName: 火柱
 	}
 
 	RavagerBody: {
@@ -21446,7 +21446,7 @@ NPCs: {
 	}
 
 	RockPillar: {
-		DisplayName: ロックピラー
+		DisplayName: 岩柱
 	}
 
 	CosmicLantern: {
@@ -21494,31 +21494,31 @@ NPCs: {
 	}
 
 	AnthozoanCrab: {
-		DisplayName: アンゾゾアンクラブ
+		DisplayName: 直虫ガニ
 	}
 
 	AquaticUrchin: {
-		DisplayName: アクアティックウーチン
+		DisplayName: 水生ウニ
 	}
 
 	BelchingCoral: {
-		DisplayName: ベルチングコーラル
+		DisplayName: ゲップサンゴ
 	}
 
 	Gnasher: {
-		DisplayName: ナッシャー
+		DisplayName: グナッシャー
 	}
 
 	MicrobialCluster: {
-		DisplayName: マイクバイアルクラスター
+		DisplayName: マイクロバイアルクラスター
 	}
 
 	Sulflounder: {
-		DisplayName: サルフラウンダー
+		DisplayName: ヒラメ
 	}
 
 	Toxicatfish: {
-		DisplayName: トキシキャットフィッシュ
+		DisplayName: ナマズ
 	}
 
 	Trasher: {
@@ -21530,7 +21530,7 @@ NPCs: {
 	}
 
 	BlindedAngler: {
-		DisplayName: 光るアンコウ
+		DisplayName: ブラインドアングラー
 	}
 
 	Clam: {
@@ -21538,7 +21538,7 @@ NPCs: {
 	}
 
 	EutrophicRay: {
-		DisplayName: ユートロフォックレイ
+		DisplayName: エウトロピックレイ
 	}
 
 	GhostBell: {
@@ -21573,7 +21573,7 @@ NPCs: {
 	}
 
 	SepulcherHead: {
-		DisplayName: セパルチャー
+		DisplayName: セプルチャー
 	}
 
 	SoulSeekerSupreme: {
@@ -21598,14 +21598,14 @@ NPCs: {
 		DisplayName: 再臨のドラゴン、ヤロン
 	}
 
-	YharonPhase2: 輝ける不死鳥、ヤロン
+	YharonPhase2: 輝く不死鳥、ヤロン
 
 	AndroombaFriendly: {
-		DisplayName: アンドロンバパル
+		DisplayName: 友好的なアンドルンバ
 	}
 
 	DILF: {
-		DisplayName: 大魔道士
+		DisplayName: 大魔法使い
 
 		Census: {
 			SpawnCondition: クライオジェンを倒したあと
@@ -21841,7 +21841,7 @@ NPCs: {
 	}
 
 	THIEF: {
-		DisplayName: 盗賊
+		DisplayName: 山賊
 
 		Census: {
 			SpawnCondition: スケルトロンを倒したあとに、 プラチナコイン [i:PlatinumCoin] を持っている
@@ -21925,7 +21925,7 @@ NPCs: {
 	}
 
 	WITCH: {
-		DisplayName: 硫黄の魔女
+		DisplayName: ブリムストーンウィッチ
 
 		Census: {
 			SpawnCondition: 至高の魔女、カラミタスを倒す
