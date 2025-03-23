@@ -4857,7 +4857,7 @@ Items: {
 				DefaultFunction:
 					'''
 					「何とも共鳴していない...」
-					ブレードを修理することで、共鳴能力が向上したようだ...
+					剣を修理することで、共鳴能力が向上したようだ...
 					'''
 			}
 
@@ -9134,7 +9134,7 @@ Items: {
 			DisplayName: 星光の燃料セル
 			Tooltip:
 				'''
-				アドレナリンモードのダメージを15%増加させ、ダメージ減少を5%増加させる
+				アドレナリンモードのダメージを20%増加させ、ダメージ減少を5%増加させる
 				リベンジェンスドロップ
 				'''
 		}
@@ -10164,7 +10164,7 @@ Items: {
 		}
 
 		ElementalGauntlet: {
-			DisplayName: エレメンタルのガントレット
+			DisplayName: エレメンタルガントレット
 			Tooltip:
 				'''
 				近接攻撃と発射物はヘルファイアを与える
@@ -15620,7 +15620,7 @@ Items: {
 		}
 
 		OmegaHealingPotion: {
-			DisplayName: オメガヒーリングポーション
+			DisplayName: オメガライフポーション
 			Tooltip: ""
 		}
 
@@ -15655,7 +15655,7 @@ Items: {
 		}
 
 		SoaringPotion: {
-			DisplayName: 滑空のポーション
+			DisplayName: 飛翔のポーション
 			Tooltip:
 				'''
 				飛行時間と水平飛行速度が10％向上
@@ -15665,17 +15665,17 @@ Items: {
 		}
 
 		SulphurskinPotion: {
-			DisplayName: 硫黄の肌のポーション
+			DisplayName: 硫黄皮のポーション
 			Tooltip: 硫黄水の影響を軽減する
 		}
 
 		SupremeHealingPotion: {
-			DisplayName: 至高のヒーリングポーション
+			DisplayName: シュプリームライフポーション
 			Tooltip: ""
 		}
 
 		SupremeManaPotion: {
-			DisplayName: 至高のマナポーション
+			DisplayName: シュプリームマナポーション
 			Tooltip: ""
 		}
 
@@ -15690,7 +15690,7 @@ Items: {
 		}
 
 		ZenPotion: {
-			DisplayName: 禅のポーション
+			DisplayName: 静慮のポーション
 			Tooltip: 敵のスポーン率が大幅に減少
 		}
 
@@ -15705,7 +15705,7 @@ Items: {
 				'''
 				ブラッドムーンの間、与ダメージと移動速度が10%増加する
 				自然回復効果が2HP減少し、防御力を4%減少させる
-				同時に4種類以上の酒を飲むと肝臓に悪影響を及ぼすかもしれない
+				同時に3種類以上の酒を飲むと肝臓に悪影響を及ぼすかもしれない
 				[c/B00BA5:「特別で、なおかつスパイシーで...そして血まみれよ！」]
 				'''
 		}
@@ -19498,14 +19498,14 @@ Status: {
 		CalamitasBossText: お前は私の力を見くびっている...
 		CalamitasBossText2: 血族よ生き残れ！
 		CalamitasBossText3: やるではないか...他の奴らとは違う...
-		SandSharkText: 砂の中で何かが蠢いている...
+		SandSharkText: 砂の中で何かがうごめいている...
 		SandSharkText2: 巨大な捕食者が近づいてくる！
-		PlagueBossText: 疫病核ミサイルの一斉攻撃を準備中、発射態勢に入る
+		PlagueBossText: 疫病核ミサイルの一斉攻撃を準備中　発射態勢に入る
 		PlagueBossText2: ミサイル発射　ターゲティングルーチンを開始
 		DeusAltarRejectNightText: 星の神は捧げものを拒絶した。儀式は夜しか行えないようだ...
 		ProfanedBossText: 翼に聖なる炎が燃えている...
-		GhostBossText2: 老朽化したダンジョンに慟哭がこだまする...
-		GhostBossText3: 大昔に死んだ囚人たちが、熱狂的な復讐を試みる...
+		GhostBossText2: 荒廃したダンジョンから叫び声が響き渡る...
+		GhostBossText3: 死んだ者たちが復讐を求めている...
 		EdgyBossText: 調子に乗るなよ、ガキ！
 		EdgyBossText2: 致命的なミスだな！
 		EdgyBossText3: うめぇ...
@@ -19715,24 +19715,24 @@ Status: {
 		SandstormTrigger: 砂漠で風が猛烈に吹き荒れている！
 		SkyOreText: 空がシアン色の光に輝いている...
 		SkeletronAbyssChestNotification: 原初のドライアドが、あなたをその深淵の財宝にふさわしいと認めた....
-		UglyBossText: 沈んだ海が震えている...
+		UglyBossText: 沈んだ海が揺れている...
 		HardmodeOreTier1Text: コバルトとパラジウムの祝福を受けた！
 		HardmodeOreTier2Text: ミスリルとオリハルコンの祝福を受けた！
 		HardmodeOreTier3Text: アダマンタイトとチタンの祝福を受けた！
-		HardmodeOreTier4Text: 地下の聖域が聖別された石で祝福されている！
+		HardmodeOreTier4Text: 聖なる地が聖なる石の祝福を受けた！
 		IceOreText: 氷の洞窟が極寒のエネルギーに満ちている...
 		WetWormBossText: 空が暗くなってきた...
-		PlantOreText: 地下でエネルギーに満ちた植物が生えてきているようだ...
-		SandSharkText3: 砂漠の砂が激しく揺れ動く！
-		AbyssDropsText: 硫黄の海の底が震えている...
+		PlantOreText: 地下にエネルギーを放つ植物性鉱石が形成された...
+		SandSharkText3: 砂漠の砂が激しく揺れる！
+		AbyssDropsText: 硫黄の海の底が揺れている...
 		AstralText: 空から星が落ちてきた！
 		AureusBossText: アストラルの生物が力を強めている...
 		AureusBossText2: ダンジョンからかすかな音が聞こえる...
-		BabyBossText: 疫病がジャングルを侵食している...
+		BabyBossText: ジャングルに疫病が降りかかった...
 		AstralBossText: 星の封印が解かれ、アストラル鉱石を採掘できるようになった！
 		MoonBossText: 冒涜された炎が激しく燃え上がる！
-		FutureOreText: 冷たく暗いエネルギーが宇宙空間に出現した...
-		ProfanedBossText2: ダンジョンから悲鳴が響いている...
+		FutureOreText: 宇宙空間に冷たく暗いエネルギーが物質化した...
+		ProfanedBossText2: ダンジョンから金切り声が響いている...
 		TreeOreText: 化石化した樹皮がジャングルの泥を突き破っている...
 		ProfanedBossText3: 災厄をもたらす存在がブラッドストーンに満たされた...
 		ProfanedBossText4: 冒涜された女神は、純潔への献身を認めた！
@@ -19742,7 +19742,7 @@ Status: {
 		DoGBossText: 極寒の月が明るく輝いている
 		DoGBossText2: 月が不気味に輝く...
 		DargonBossText: 暗黒の太陽が力を表し始める...
-		AuricOreText: 古代の龍の力が洞窟に顕現し、岩を貫いている...
+		AuricOreText: 古代のドラゴンの力が洞窟に顕現し、岩を貫いている...
 	}
 }
 
