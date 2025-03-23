@@ -8954,7 +8954,7 @@ Items: {
 		}
 
 		BabyCannonballJellyfishItem: {
-			DisplayName: キャノンボールジェリーの幼体
+			DisplayName: ホウガンクラゲの幼体
 			Tooltip: ""
 		}
 
@@ -9531,7 +9531,7 @@ Items: {
 		}
 
 		AbyssalAmulet: {
-			DisplayName: 深淵のアミュレット
+			DisplayName: 深淵のお守り
 			Tooltip:
 				'''
 				攻撃は激流デバフを与えるようになる
@@ -9541,7 +9541,7 @@ Items: {
 		}
 
 		AbyssalDivingGear: {
-			DisplayName: 深海の潜水具
+			DisplayName: 深淵の潜水具
 			Tooltip:
 				'''
 				息を切らしている間、深淵の圧力によるダメージを軽減する
@@ -9554,10 +9554,10 @@ Items: {
 		}
 
 		AbyssalDivingSuit: {
-			DisplayName: 深海のダイビングスーツ
+			DisplayName: 深淵のダイビングスーツ
 			Tooltip:
 				'''
-				「深海のダイバー用の装備」
+				「深淵のダイバー用の装備」
 				水中では最大移動速度と加速度が増加するが、水中以外では移動速度が遅くなる
 				潜水服の装甲板の効果で、ダメージ軽減率が15%増加する
 				ダメージが50を超えた場合のみ、装甲はダメージを受ける
@@ -9619,7 +9619,7 @@ Items: {
 		}
 
 		AlchemicalFlask: {
-			DisplayName: 錬金術師のフラスコ
+			DisplayName: 錬金フラスコ
 			Tooltip:
 				'''
 				すべての攻撃で疫病デバフを与え、かつ装備者は疫病デバフから受けるダメージを軽減する
@@ -9629,7 +9629,7 @@ Items: {
 		}
 
 		AlluringBait: {
-			DisplayName: 魅力的な釣り餌
+			DisplayName: 魅惑な釣り餌
 			Tooltip:
 				'''
 				釣りパワーを30増加
@@ -9638,7 +9638,7 @@ Items: {
 		}
 
 		AmalgamatedBrain: {
-			DisplayName: 融合された脳
+			DisplayName: 融合された脳みそ
 			Tooltip:
 				'''
 				ダメージ10%増加
@@ -9666,12 +9666,12 @@ Items: {
 		}
 
 		AmidiasPendant: {
-			DisplayName: 海の王のペンダント
+			DisplayName: アミディアスのペンダント
 			Tooltip: 定期的にプリズムの破片を降らせ、敵を短時間スタンさせる
 		}
 
 		AmidiasSpark: {
-			DisplayName: アミディアスの閃光
+			DisplayName: アミディアスの花火
 			Tooltip: ダメージを受けると火花が散る
 		}
 
@@ -9681,7 +9681,7 @@ Items: {
 		}
 
 		AnechoicPlating: {
-			DisplayName: 無響の装甲板
+			DisplayName: 無響メッキ
 			Tooltip:
 				'''
 				深淵の敵に発見されづらくなる
@@ -9706,7 +9706,7 @@ Items: {
 		}
 
 		AngelTreads: {
-			DisplayName: エンジェルトレッズ
+			DisplayName: エンジェルトレッド
 			Tooltip:
 				'''
 				移動加速度が36%上昇
@@ -9720,7 +9720,7 @@ Items: {
 		}
 
 		AquaticEmblem: {
-			DisplayName: 水の紋章
+			DisplayName: アクアティックエンブレム
 			Tooltip:
 				'''
 				ほとんどの海の敵は友好的になり、水中呼吸を可能にする
@@ -9747,7 +9747,7 @@ Items: {
 		}
 
 		ArchaicPowder: {
-			DisplayName: 古代の粉
+			DisplayName: アーカイックパウダー
 			Tooltip:
 				'''
 				採掘速度が15%上昇
@@ -9756,7 +9756,7 @@ Items: {
 		}
 
 		AsgardianAegis: {
-			DisplayName: アスガルドの護盾
+			DisplayName: アズガーディアンイージス
 			Tooltip:
 				'''
 				ノックバックを無効化する
@@ -9768,7 +9768,7 @@ Items: {
 		}
 
 		AsgardsValor: {
-			DisplayName: アスガルドの盾
+			DisplayName: アスガードバロー
 			Tooltip:
 				'''
 				ノックバックを無効化する
@@ -9788,7 +9788,7 @@ Items: {
 		}
 
 		BadgeofBravery: {
-			DisplayName: 勇気の印
+			DisplayName: 勇気の紋章
 			Tooltip:
 				'''
 				近接攻撃ダメージと近接攻撃クリティカルが10%増加する
@@ -9797,7 +9797,7 @@ Items: {
 		}
 
 		BlazingCore: {
-			DisplayName: 灼熱のコア
+			DisplayName: ブレイジングコア
 			Tooltip:
 				'''
 				冒涜された女神の灼熱のコア
@@ -9812,7 +9812,7 @@ Items: {
 		}
 
 		BloodflareCore: {
-			DisplayName: ブラッドフレアのコア
+			DisplayName: ブラッドフレアコア
 			Tooltip:
 				'''
 				ダメージを受けると、防御力が半分になる
@@ -9822,7 +9822,7 @@ Items: {
 		}
 
 		BloodPact: {
-			DisplayName: 血の契約
+			DisplayName: ブラッドパクト
 			Tooltip:
 				'''
 				最大HPが25%増加する
@@ -9831,7 +9831,7 @@ Items: {
 		}
 
 		BloodstainedGlove: {
-			DisplayName: 血だらけのグローブ
+			DisplayName: 血まみれの手袋
 			Tooltip: ステルス攻撃の装甲貫通力は+8され、HPを2回復する
 		}
 
@@ -9845,7 +9845,7 @@ Items: {
 		}
 
 		BloodyWormTooth: {
-			DisplayName: 血のワームの歯
+			DisplayName: ブラッディワームの歯
 			Tooltip: 近接攻撃ダメージ10%増加
 		}
 
@@ -9911,7 +9911,7 @@ Items: {
 		}
 
 		CoinofDeceit: {
-			DisplayName: 欺瞞のコイン
+			DisplayName: 偽りのコイン
 			Tooltip:
 				'''
 				ステルス攻撃は最大ステルスの85%しか消費しない
@@ -9920,7 +9920,7 @@ Items: {
 		}
 
 		CorrosiveSpine: {
-			DisplayName: 腐食した脊椎
+			DisplayName: 腐食性脊椎
 			Tooltip:
 				'''
 				移動速度5%増加
@@ -9930,7 +9930,7 @@ Items: {
 		}
 
 		CorruptFlask: {
-			DisplayName: 邪悪なフラスコ
+			DisplayName: 不浄のフラスコ
 			Tooltip:
 				'''
 				不浄の大地にいる間、ダメージ軽減率が4%増加し、防御力が+6される
@@ -9949,7 +9949,7 @@ Items: {
 		}
 
 		CrawCarapace: {
-			DisplayName: ザリガニのツメ
+			DisplayName: ハサミの甲羅
 			Tooltip:
 				'''
 				ダメージ5%増加
@@ -9976,7 +9976,7 @@ Items: {
 		}
 
 		CrownJewel: {
-			DisplayName: クラウンジュエル
+			DisplayName: 王冠の宝石
 			Tooltip:
 				'''
 				+1 HP/秒のライフリジェネ
@@ -9986,7 +9986,7 @@ Items: {
 		}
 
 		CryoStone: {
-			DisplayName: 冷たい石
+			DisplayName: クライオストーン
 			Tooltip:
 				'''
 				すべての冷属性デバフダメージを1.5倍にする
@@ -10024,7 +10024,7 @@ Items: {
 		}
 
 		DarkSunRing: {
-			DisplayName: 暗黒の太陽の指輪
+			DisplayName: ダークサンリング
 			Tooltip:
 				'''
 				ダメージ12%増加
@@ -10056,7 +10056,7 @@ Items: {
 		}
 
 		DeificAmulet: {
-			DisplayName: 神格のアミュレット
+			DisplayName: 神格のお守り
 			Tooltip:
 				'''
 				無敵時間を延長し、被ダメージで星を降らせる
@@ -10065,7 +10065,7 @@ Items: {
 		}
 
 		DepthCharm: {
-			DisplayName: 深海のチャーム
+			DisplayName: デプスチャーム
 			Tooltip:
 				'''
 				酸素切れの間、深淵の圧力によるダメージを軽減する
@@ -10118,7 +10118,7 @@ Items: {
 		}
 
 		DynamoStemCells: {
-			DisplayName: ダイナモステムセル
+			DisplayName: ダイナモ幹細胞
 			Tooltip:
 				'''
 				移動速度10%増加
@@ -10128,7 +10128,7 @@ Items: {
 		}
 
 		EclipseMirror: {
-			DisplayName: 日蝕の鏡
+			DisplayName: 日食の鏡
 			Tooltip:
 				'''
 				最大ステルス+10
@@ -10155,7 +10155,7 @@ Items: {
 		}
 
 		ElectriciansGlove: {
-			DisplayName: 電気絶縁手袋
+			DisplayName: 電気用手袋
 			Tooltip:
 				'''
 				ステルス攻撃が敵に命中すると火花を発生させる
@@ -10187,7 +10187,7 @@ Items: {
 		}
 
 		ElysianAegis: {
-			DisplayName: エリュシオンのイージス
+			DisplayName: エリシアンイージス
 			Tooltip:
 				'''
 				ノックバックと燃焼、炎上、聖なる炎のデバフを無効化する
@@ -10207,7 +10207,7 @@ Items: {
 		}
 
 		EtherealExtorter: {
-			DisplayName: 魂の略奪者
+			DisplayName: エーテルエクストーター
 			Tooltip:
 				'''
 				ローグの発射物は、消滅時に爆発して追尾する魂になる
@@ -10216,7 +10216,7 @@ Items: {
 		}
 
 		EtherealTalisman: {
-			DisplayName: エーテルのタリスマン
+			DisplayName: エーテルの魔除け
 			Tooltip:
 				'''
 				魔法ダメージ15%増加、魔法クリティカル確率5%増加、マナ使用量10%減少
@@ -10237,12 +10237,12 @@ Items: {
 		}
 
 		EyeoftheStorm: {
-			DisplayName: アイ・オブ・ザ・ストーム
+			DisplayName: 嵐の目
 			Tooltip: 共に戦う雲のエレメンタルを召喚する
 		}
 
 		FeatherCrown: {
-			DisplayName: フェザークラウン
+			DisplayName: 羽根の王冠
 			Tooltip:
 				'''
 				ローグの弾速が15%増加
@@ -10251,7 +10251,7 @@ Items: {
 		}
 
 		FilthyGlove: {
-			DisplayName: 穢れた手袋
+			DisplayName: 汚れた手袋
 			Tooltip: ステルス攻撃の装甲貫通力が+8され、与えるダメージが8%増加する
 		}
 
@@ -10299,16 +10299,16 @@ Items: {
 		}
 
 		FungalClump: {
-			DisplayName: キノコの塊
+			DisplayName: ファンガルクランプ
 			Tooltip:
 				'''
-				共に戦う真菌の塊を召喚する
+				共に戦うファンガルクランプを召喚する
 				塊は敵に喰らいつき、敵のライフを奪う
 				'''
 		}
 
 		FungalSymbiote: {
-			DisplayName: キノコ・シムビオート
+			DisplayName: ファンガルシムビオート
 			Tooltip:
 				'''
 				足元の芝生にキノコが生える
@@ -10329,7 +10329,7 @@ Items: {
 		}
 
 		GiantShell: {
-			DisplayName: 巨大貝
+			DisplayName: 巨大な貝殻
 			Tooltip:
 				'''
 				ダッシュ速度10%低下
@@ -10348,7 +10348,7 @@ Items: {
 		}
 
 		GladiatorsLocket: {
-			DisplayName: 剣闘士のロケットペンダント
+			DisplayName: グラディエーターのロケット
 			Tooltip:
 				'''
 				敵を倒すと回復オーブを落とす
@@ -10362,7 +10362,7 @@ Items: {
 		}
 
 		GloveOfRecklessness: {
-			DisplayName: 無謀者のグローブ
+			DisplayName: 無鉄砲なグローブ
 			Tooltip:
 				'''
 				攻撃速度が15%増加するが、ダメージとクリティカルが10%減少する
@@ -10372,7 +10372,7 @@ Items: {
 		}
 
 		GrandGelatin: {
-			DisplayName: スーパーゼラチン
+			DisplayName: グランドゼラチン
 			Tooltip:
 				'''
 				移動速度とジャンプ速度が12%増加
@@ -10417,7 +10417,7 @@ Items: {
 		}
 
 		HeartofDarkness: {
-			DisplayName: 暗黒の心臓
+			DisplayName: 闇の心臓
 			Tooltip:
 				'''
 				時間が経つにつれてレイジが増していく
@@ -10427,7 +10427,7 @@ Items: {
 		}
 
 		HeartoftheElements: {
-			DisplayName: ハート・オブ・エレメンタル
+			DisplayName: エレメンタルの心臓
 			Tooltip:
 				'''
 				すべてのエレメンタルを召喚し、共に戦う
@@ -10448,7 +10448,7 @@ Items: {
 		}
 
 		HoneyDew: {
-			DisplayName: 蜂蜜ビール
+			DisplayName: ハニーデュー
 			Tooltip:
 				'''
 				最大ライフ+30
@@ -10482,7 +10482,7 @@ Items: {
 		}
 
 		InkBomb: {
-			DisplayName: インクボム
+			DisplayName: インク爆弾
 			Tooltip:
 				'''
 				命中するとインクの煙に紛れて爆発するインク爆弾を数発投げる
@@ -10492,12 +10492,12 @@ Items: {
 		}
 
 		IronBoots: {
-			DisplayName: 鉄のブーツ
+			DisplayName: アイアンブーツ
 			Tooltip: 液体に沈みやすくなる
 		}
 
 		JellyChargedBattery: {
-			DisplayName: ゼリー充電式バッテリー
+			DisplayName: ゼリー充電地
 			Tooltip:
 				'''
 				最大ミニオン数+1、召喚ダメージ+7%
@@ -10517,7 +10517,7 @@ Items: {
 		}
 
 		LeviathanAmbergris: {
-			DisplayName: リヴァイアサンの竜涎香
+			DisplayName: リヴァイアサンアンバーグリス
 			Tooltip:
 				'''
 				ダッシュ速度20%向上
@@ -10547,7 +10547,7 @@ Items: {
 		}
 
 		LumenousAmulet: {
-			DisplayName: ルメナスのアミュレット
+			DisplayName: 光るお守り
 			Tooltip:
 				'''
 				攻撃は圧潰デバフを与える
@@ -10575,7 +10575,7 @@ Items: {
 		}
 
 		ManaPolarizer: {
-			DisplayName: マナポーラライザー
+			DisplayName: マナポラライザー
 			Tooltip:
 				'''
 				最大マナ50増加、魔法ダメージ6%増加
@@ -10588,7 +10588,7 @@ Items: {
 		}
 
 		MarniteRepulsionShield: {
-			DisplayName: マーナイトの拒絶の盾
+			DisplayName: マーナイトの反発シールド
 			Tooltip:
 				'''
 				背後の敵に高ノックバックのエネルギーで攻撃する
@@ -10607,7 +10607,7 @@ Items: {
 		}
 
 		MoonstoneCrown: {
-			DisplayName: ムーンストーンの冠
+			DisplayName: 月長石の王冠
 			Tooltip:
 				'''
 				ローグの弾速が15%増加
@@ -10661,7 +10661,7 @@ Items: {
 		}
 
 		Nucleogenesis: {
-			DisplayName: ニュークレオジェネシス
+			DisplayName: ヌクレオジェネシス
 			Tooltip:
 				'''
 				ミニオンの最大数を4増加させる
@@ -10690,7 +10690,7 @@ Items: {
 		}
 
 		OceanCrest: {
-			DisplayName: 大海の紋章
+			DisplayName: オーシャンクレスト
 			Tooltip:
 				'''
 				水中でじっとしていると呼吸ができるようになり
@@ -10726,7 +10726,7 @@ Items: {
 		}
 
 		OrnateShield: {
-			DisplayName: 装飾付きの盾
+			DisplayName: オーネイトシールド
 			Tooltip:
 				'''
 				氷のデバフを無効化する
@@ -10769,7 +10769,7 @@ Items: {
 		}
 
 		PlaguedFuelPack: {
-			DisplayName: 汚染された燃料パック
+			DisplayName: 感染した燃料パック
 			Tooltip:
 				'''
 				ローグのダメージが8%増加し、ローグの弾速が15%増加する
@@ -10797,7 +10797,7 @@ Items: {
 		}
 
 		ProfanedSoulCrystal: {
-			DisplayName: 冒涜された魂のクリスタル
+			DisplayName: 冒涜された魂の結晶
 			Tooltip:
 				'''
 				使用者を冒涜された女神の使者に変える
@@ -10854,7 +10854,7 @@ Items: {
 		}
 
 		RadiantOoze: {
-			DisplayName: レディアントオーズ
+			DisplayName: 放射状の液体
 			Tooltip:
 				'''
 				不足しているヘルスに応じてHP+2～+6/秒のライフリジェネを与える
@@ -10863,7 +10863,7 @@ Items: {
 		}
 
 		RaidersTalisman: {
-			DisplayName: 侵略者のタリスマン
+			DisplayName: レイダーズタリスマン
 			Tooltip:
 				'''
 				ステルス攻撃の着地時、ステルス攻撃以外の攻撃に12%のクリティカルボーナスを与える
@@ -10872,7 +10872,7 @@ Items: {
 		}
 
 		RampartofDeities: {
-			DisplayName: 神々の防壁
+			DisplayName: 神々の防盾
 			Tooltip:
 				'''
 				無敵時間を延長し、被ダメージで星を降らせる
@@ -10885,7 +10885,7 @@ Items: {
 		}
 
 		ReaperToothNecklace: {
-			DisplayName: 死神ザメ歯のネックレス
+			DisplayName: 死神ザメの歯のネックレス
 			Tooltip:
 				'''
 				ダメージ15%増加
@@ -10909,7 +10909,7 @@ Items: {
 		}
 
 		RoseStone: {
-			DisplayName: ローズストーン
+			DisplayName: バラの石
 			Tooltip:
 				'''
 				共に戦うブリムストーンエレメンタルを召喚する
@@ -10918,7 +10918,7 @@ Items: {
 		}
 
 		RottenBrain: {
-			DisplayName: 腐った脳
+			DisplayName: 腐った脳みそ
 			Tooltip:
 				'''
 				ライフが75%以下の時、ダメージ10%増加
@@ -10928,7 +10928,7 @@ Items: {
 		}
 
 		RottenDogtooth: {
-			DisplayName: 腐った犬歯
+			DisplayName: 腐った犬の歯
 			Tooltip: ステルス攻撃のダメージが8%増加する
 		}
 
@@ -10947,7 +10947,7 @@ Items: {
 		}
 
 		RuinMedallion: {
-			DisplayName: 遺跡のメダリオン
+			DisplayName: 遺跡のメダル
 			Tooltip:
 				'''
 				ステルス攻撃は最大ステルスの75%しか消費しない
@@ -10956,7 +10956,7 @@ Items: {
 		}
 
 		RustyMedallion: {
-			DisplayName: 錆びたメダリオン
+			DisplayName: 錆びたメダル
 			Tooltip:
 				'''
 				ほとんどの遠距離武器が空から酸の飛沫を放つようになる
@@ -10984,7 +10984,7 @@ Items: {
 		}
 
 		ScuttlersJewel: {
-			DisplayName: 沈没船の宝石
+			DisplayName: スカットラーの宝石
 			Tooltip:
 				'''
 				ステルス攻撃の投射物が破壊されると、ジュエルスパイクを生成する
@@ -11079,12 +11079,12 @@ Items: {
 		}
 
 		SpelunkersAmulet: {
-			DisplayName: 探検家のアミュレット
+			DisplayName: 探検家のお守り
 			Tooltip: 探検家のポーションの効果が発動し、採掘速度10%増加
 		}
 
 		SpiritGlyph: {
-			DisplayName: 霊魂のグリフ
+			DisplayName: スピリットグリフ
 			Tooltip:
 				'''
 				自分のミニオンが敵にヒットするたびにランダムなバフを得る
@@ -11093,7 +11093,7 @@ Items: {
 		}
 
 		StarbusterCore: {
-			DisplayName: スターバーストコア
+			DisplayName: スターバスターコア
 			Tooltip:
 				'''
 				召喚は敵に当たると爆発を起こす
@@ -11102,7 +11102,7 @@ Items: {
 		}
 
 		StarTaintedGenerator: {
-			DisplayName: 汚染されたジェネレーター
+			DisplayName: 星に汚染された発電機
 			Tooltip:
 				'''
 				最大ミニオン数+2、これ以前の装備とはスタックしない
@@ -11113,7 +11113,7 @@ Items: {
 		}
 
 		StatisBlessing: {
-			DisplayName: スタティスの祝福
+			DisplayName: スタティスの恵み
 			Tooltip:
 				'''
 				ミニオンの最大数が2体増加し、召喚ダメージが10%増加する
@@ -11148,7 +11148,7 @@ Items: {
 		}
 
 		StatisVoidSash: {
-			DisplayName: スタティスの深淵の帯
+			DisplayName: スタティスのボイドサッシュ
 			Tooltip:
 				'''
 				ジャンプ速度が12%向上し、オートジャンプできるようになる
@@ -11358,7 +11358,7 @@ Items: {
 		}
 
 		TheTransformer: {
-			DisplayName: 変圧器
+			DisplayName: ザ・トランスフォーマー
 			Tooltip:
 				'''
 				すべての電気系デバフダメージを1.5倍にする
@@ -11369,7 +11369,7 @@ Items: {
 		}
 
 		ToxicHeart: {
-			DisplayName: トキシックハート
+			DisplayName: 毒性の心
 			Tooltip:
 				'''
 				自分の周囲に疫病のオーラを召喚し、近くの敵にダメージを与える
@@ -11379,7 +11379,7 @@ Items: {
 		}
 
 		TrinketofChi: {
-			DisplayName: 氣のトリンケット
+			DisplayName: 氣の装身具
 			Tooltip:
 				'''
 				15秒間被弾しなかった場合、10%のダメージ軽減効果が発動する
@@ -11406,7 +11406,7 @@ Items: {
 		}
 
 		VeneratedLocket: {
-			DisplayName: 崇拝のロケットペンダント
+			DisplayName: 崇拝されたロケット
 			Tooltip:
 				'''
 				ローグダメージ10%増加
@@ -11422,7 +11422,7 @@ Items: {
 		}
 
 		VoidofCalamity: {
-			DisplayName: ヴォイド・オブ・カラミティ
+			DisplayName: 災厄の虚空
 			Tooltip:
 				'''
 				全ダメージ12%増加
@@ -11431,7 +11431,7 @@ Items: {
 		}
 
 		VoidofExtinction: {
-			DisplayName: ヴォイド・オブ・エクスティンクション
+			DisplayName: 消滅の虚空
 			Tooltip:
 				'''
 				クリティカル確率13%増加
@@ -11441,7 +11441,7 @@ Items: {
 		}
 
 		VoltaicJelly: {
-			DisplayName: ビリビリするゼリー
+			DisplayName: ボルタリックゼリー
 			Tooltip:
 				'''
 				最大ミニオン数+1
@@ -11468,12 +11468,12 @@ Items: {
 			Tooltip:
 				'''
 				体力を回復してくれる砂のエレメンタルを召喚する
-				(^_-)-☆
+				(ー▽・)
 				'''
 		}
 
 		WulfrumAcrobaticsPack: {
-			DisplayName: ウルフラムのメカメカしいバックパック
+			DisplayName: ウルフラムアクロバットパック
 			Tooltip:
 				'''
 				装備したフックをウルフラムのスリングショットに変化させる
@@ -11549,7 +11549,7 @@ Items: {
 
 		Wings: {
 			AureateBooster: {
-				DisplayName: 金色のブースター
+				DisplayName: アウレイトブースター
 				Tooltip:
 					'''
 					水平速度: 8.00
@@ -11599,7 +11599,7 @@ Items: {
 			}
 
 			HadalMantle: {
-				DisplayName: ハダルの外套
+				DisplayName: ハダルマントル
 				Tooltip:
 					'''
 					水平速度: 7.75
@@ -12099,7 +12099,7 @@ Items: {
 		}
 
 		BabyCannonballJellyfishBowl: {
-			DisplayName: キャノンボールジェリーの幼体の水槽
+			DisplayName: ホウガンクラゲの幼体の水槽
 			Tooltip: ""
 		}
 
@@ -15407,7 +15407,7 @@ Items: {
 		}
 
 		ElysianArrow: {
-			DisplayName: エリュシオンの矢
+			DisplayName: エリシアンの矢
 			Tooltip: 空から流星を召喚する
 		}
 
@@ -15523,7 +15523,7 @@ Items: {
 
 	Potions: {
 		AnechoicCoating: {
-			DisplayName: 無響性コーティング
+			DisplayName: 無響コーティング剤
 			Tooltip: 深淵で他の生物に発見されづらくなる
 		}
 
@@ -15557,7 +15557,7 @@ Items: {
 		}
 
 		BoundingPotion: {
-			DisplayName: 弾性のポーション
+			DisplayName: バウンディングポーション
 			Tooltip: ジャンプ速度5％アップ、落下ダメージ耐性25ブロック追加、ジャンプの高さアップ
 		}
 
@@ -16062,7 +16062,7 @@ Items: {
 		}
 
 		EidolonTablet: {
-			DisplayName: 幽玄の石板
+			DisplayName: エイドロンの石板
 			Tooltip:
 				'''
 				狂信者を召喚する
@@ -21180,15 +21180,15 @@ NPCs: {
 	}
 
 	KingSlimeJewelEmerald: {
-		DisplayName: エメラルドジュエル
+		DisplayName: エメラルドの宝石
 	}
 
 	KingSlimeJewelRuby: {
-		DisplayName: ルビージュエル
+		DisplayName: ルビーの宝石
 	}
 
 	KingSlimeJewelSapphire: {
-		DisplayName: サファイアジュエル
+		DisplayName: サファイアの宝石
 	}
 
 	LavaSlimeNoLavaDrop: {
