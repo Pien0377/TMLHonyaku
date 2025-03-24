@@ -118,22 +118,22 @@ Items: {
 	}
 
 	CalamitasDefeatMusicBox: {
-		DisplayName: オルゴール (カラミタス - 撃破)
+		DisplayName: オルゴール (シュプリームカラミタス - 撃破)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Acceptance)」を再生する
 	}
 
 	CalamitasPhase1MusicBox: {
-		DisplayName: オルゴール (カラミタス - フェーズ 1)
+		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 1)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Grief)」を再生する
 	}
 
 	CalamitasPhase2MusicBox: {
-		DisplayName: オルゴール (カラミタス - フェーズ 2)
+		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 2)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Lament)」を再生する
 	}
 
 	CalamitasPhase3MusicBox: {
-		DisplayName: オルゴール (カラミタス - フェーズ 3)
+		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 3)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Epiphany)」を再生する
 	}
 
