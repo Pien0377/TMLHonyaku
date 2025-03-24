@@ -38,12 +38,12 @@ Items: {
 	}
 
 	AnahitaMusicBox: {
-		DisplayName: オルゴール (アナヒタ)
+		DisplayName: オルゴール (アナーヒター)
 		Tooltip: DM DOKURO制作の「Siren's War Cry」を再生する
 	}
 
 	AnahitasLureMusicBox: {
-		DisplayName: オルゴール (アナヒタの誘い)
+		DisplayName: オルゴール (アナーヒターの誘い)
 		Tooltip: DM DOKURO制作の「Siren's Call」を再生する
 	}
 
@@ -113,7 +113,7 @@ Items: {
 	}
 
 	CalamitasCloneMusicBox: {
-		DisplayName: オルゴール (カラミタスクローン)
+		DisplayName: オルゴール (カラミタス)
 		Tooltip: DM DOKURO制作の「Raw, Unfiltered Calamity」を再生する
 	}
 
@@ -237,7 +237,7 @@ Items: {
 	}
 
 	PrimordialWyrmMusicBox: {
-		DisplayName: オルゴール (原初のワーム)
+		DisplayName: オルゴール (アダルトエイドロンワーム)
 		Tooltip: DM DOKURO制作の「Threats of the Ocean Floor」を再生する
 	}
 
