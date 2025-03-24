@@ -596,7 +596,7 @@ Buffs: {
 	}
 
 	WeaponImbueCrumbling: {
-		DisplayName: 武器強化：老朽化
+		DisplayName: 武器強化：崩壊
 		Description: 近接攻撃、ムチ、ローグ攻撃がヒットすると敵のダメージ耐性を減少させる
 	}
 
@@ -883,7 +883,7 @@ Buffs: {
 	}
 
 	Crumbling: {
-		DisplayName: 老朽化
+		DisplayName: 崩壊
 		Description: 鎧がボロボロだ...
 	}
 
@@ -2237,7 +2237,7 @@ Items: {
 			}
 
 			EyeofMagnus: {
-				DisplayName: アイ・オブ・マグナス
+				DisplayName: マグナスの目
 				Tooltip:
 					'''
 					敵の防御力を低下させる強力なビームを発射する
@@ -3023,7 +3023,7 @@ Items: {
 			}
 
 			LashesofChaos: {
-				DisplayName: ラーシーズ・オブ・カオス
+				DisplayName: 混沌のまつげ
 				Tooltip: 「世界が燃えるのを見よ...」
 			}
 
@@ -3315,7 +3315,7 @@ Items: {
 			}
 
 			TearsofHeaven: {
-				DisplayName: ティアーズ・オブ・ヘブン
+				DisplayName: 天国の涙
 				Tooltip: ゆっくりと動き、追尾する天の光を放つ
 			}
 
@@ -3342,7 +3342,7 @@ Items: {
 			}
 
 			TheDanceofLight: {
-				DisplayName: ダンス・オブ・ライト
+				DisplayName: 光の舞踏
 				Tooltip:
 					'''
 					光の刃の嵐を敵に浴びせる
@@ -3505,7 +3505,7 @@ Items: {
 			}
 
 			WrathoftheAncients: {
-				DisplayName: レイス・オブ・ジ・エンシェント
+				DisplayName: 古代の怒り
 				Tooltip: カーソル位置にエネルギーパルスを召喚し 一定間隔で追尾する霊を発生させる
 			}
 
@@ -3934,7 +3934,7 @@ Items: {
 			}
 
 			Earth: {
-				DisplayName: アースブレード
+				DisplayName: アース
 				Tooltip:
 					'''
 					攻撃がヒットすると敵の防御力を1下げ、プレイヤーのヘルスを回復する
@@ -4594,7 +4594,7 @@ Items: {
 			}
 
 			SpineOfThanatos: {
-				DisplayName: スパイン・オブ・タナトス
+				DisplayName: タナトスの背骨
 				Tooltip:
 					'''
 					正面に一本、側面に2本金属のムチを放つ
@@ -4943,7 +4943,7 @@ Items: {
 			}
 
 			YateveoBloom: {
-				DisplayName: ヤテベ・オブ・ルーム
+				DisplayName: ヤテベオ・ブルーム
 				Tooltip:
 					'''
 					「ジャングルの植物のすべて」
@@ -6963,7 +6963,7 @@ Items: {
 			}
 
 			JawsOfOblivion: {
-				DisplayName: ジョーズ・オブ・オブリビオン
+				DisplayName: 忘却の顎
 				Tooltip:
 					'''
 					敵に突き刺さる6本の毒牙を投げる
@@ -7486,7 +7486,7 @@ Items: {
 			}
 
 			StarofDestruction: {
-				DisplayName: スター・オブ・デストラクション
+				DisplayName: 破壊の星
 				Tooltip:
 					'''
 					巨大な地雷を投げ、しばらくすると爆発し、追尾するボルトを放つ
@@ -8070,7 +8070,7 @@ Items: {
 			}
 
 			EyeOfNight: {
-				DisplayName: アイ・オブ・ナイト
+				DisplayName: 夜の目
 				Tooltip: 共に戦う病的な眼球を召喚する
 			}
 
@@ -8421,7 +8421,7 @@ Items: {
 			}
 
 			TemporalUmbrella: {
-				DisplayName: テンポラルアンブレラ
+				DisplayName: 時空のカサ
 				Tooltip:
 					'''
 					戦闘を支援する様々なツールを召喚する
@@ -9303,7 +9303,7 @@ Items: {
 			Tooltip:
 				'''
 				ドリルを召喚し、掘り進む
-				破壊の威力は、インベントリにあるツルハシの中で採掘パワーの高いツルハシに比例する
+				破壊の威力は、インベントリにあるつるはしの中で採掘パワーの高いつるはしに比例する
 				これらの土地に生息するすべての生き物を完全に無視して突き進め
 				EPA（環境保護局）やPETA（動物愛護団体）はきっとこう思っているに違いない
 				「このあと、ちょっと話がある...」
@@ -9638,7 +9638,7 @@ Items: {
 		}
 
 		AmalgamatedBrain: {
-			DisplayName: 融合された脳みそ
+			DisplayName: 融合された脳
 			Tooltip:
 				'''
 				ダメージ10%増加
@@ -9953,7 +9953,7 @@ Items: {
 			Tooltip:
 				'''
 				ダメージ5%増加
-				自分に当たった敵はダメージを受け、老朽化を受ける
+				自分に当たった敵はダメージを受け、崩壊を受ける
 				'''
 		}
 
@@ -10918,7 +10918,7 @@ Items: {
 		}
 
 		RottenBrain: {
-			DisplayName: 腐った脳みそ
+			DisplayName: 腐った脳
 			Tooltip:
 				'''
 				ライフが75%以下の時、ダメージ10%増加
@@ -12144,7 +12144,7 @@ Items: {
 		}
 
 		CalamitasRelic: {
-			DisplayName: カラミタスのレリック
+			DisplayName: シュプリームカラミタスのレリック
 			Tooltip: ""
 		}
 
@@ -15595,8 +15595,8 @@ Items: {
 		}
 
 		FlaskOfCrumbling: {
-			DisplayName: 老朽化のフラスコ
-			Tooltip: 近接、鞭、ローグの攻撃は、老朽化を与える
+			DisplayName: 砕きのフラスコ
+			Tooltip: 近接、鞭、ローグの攻撃は、崩壊を与える
 		}
 
 		FlaskOfHolyFlames: {
@@ -17856,7 +17856,7 @@ Items: {
 			}
 
 			HoodOfCalamity: {
-				DisplayName: フード・オブ・カラミティ
+				DisplayName: 災厄のフード
 				Tooltip: ""
 			}
 
@@ -17916,22 +17916,22 @@ Items: {
 			}
 
 			RobesOfCalamity: {
-				DisplayName: ローブ・オブ・カラミタス
+				DisplayName: 災厄のローブ
 				Tooltip: ""
 			}
 
 			SCalBoots: {
-				DisplayName: カラミタスのブーツ
+				DisplayName: シュプリームカラミタスのブーツ
 				Tooltip: ""
 			}
 
 			SCalMask: {
-				DisplayName: カラミタスのフード
+				DisplayName: シュプリームカラミタスのフード
 				Tooltip: ""
 			}
 
 			SCalRobes: {
-				DisplayName: カラミタスのローブ
+				DisplayName: シュプリームカラミタスのローブ
 				Tooltip: ""
 			}
 
@@ -17989,17 +17989,17 @@ Items: {
 		}
 
 		AerialHamaxe: {
-			DisplayName: エリアルハンマーアックス
+			DisplayName: エリアルのハンマーアックス
 			Tooltip: ""
 		}
 
 		AstralHamaxe: {
-			DisplayName: アストラルハンマーアックス
+			DisplayName: アストラルのハンマーアックス
 			Tooltip: ""
 		}
 
 		AstralPickaxe: {
-			DisplayName: アストラルピッケル
+			DisplayName: アストラルのつるはし
 			Tooltip: ""
 		}
 
@@ -18013,17 +18013,17 @@ Items: {
 		}
 
 		BeastialPickaxe: {
-			DisplayName: ビースティアルピッケル
+			DisplayName: 野獣的なつるはし
 			Tooltip: ""
 		}
 
 		BerserkerWaraxe: {
-			DisplayName: 狂戦士の戦斧
+			DisplayName: バーサーカーの戦斧
 			Tooltip: ""
 		}
 
 		BlossomPickaxe: {
-			DisplayName: 開花のツルハシ
+			DisplayName: ブロッサムのつるはし
 			Tooltip: オーリック鉱石の採掘が可能
 		}
 
@@ -18083,12 +18083,12 @@ Items: {
 		}
 
 		Gelpick: {
-			DisplayName: ゼリーツルハシ
+			DisplayName: ゼリーのつるはし
 			Tooltip: ""
 		}
 
 		GenesisPickaxe: {
-			DisplayName: 始まりのツルハシ
+			DisplayName: ジェネシスのつるはし
 			Tooltip: ウエリブルーム鉱石の採掘が可能
 		}
 
@@ -18102,7 +18102,7 @@ Items: {
 		}
 
 		GreatbayPickaxe: {
-			DisplayName: グレートベイツルハシ
+			DisplayName: グレートベイのつるはし
 			Tooltip: デモナイト、クリムタン、メテオライト、シープリズム、シープリズム水晶を採掘できる
 		}
 
@@ -18134,27 +18134,27 @@ Items: {
 		}
 
 		ReefclawHamaxe: {
-			DisplayName: リーフクロウハンマーアックス
+			DisplayName: リーフクロウのハンマーアックス
 			Tooltip: ""
 		}
 
 		SeismicHampick: {
-			DisplayName: サイスミックハンマーツルハシ
+			DisplayName: サイスミックのハンマーつるはし
 			Tooltip:
 				'''
 				リザードレンガの採掘が可能
-				<left> でツルハシとして使用
+				<left> でつるはしとして使用
 				<right> でハンマーとして使用
 				'''
 		}
 
 		ShardlightPickaxe: {
-			DisplayName: シャードライトツルハシ
+			DisplayName: シャードライトのつるはし
 			Tooltip: ""
 		}
 
 		SkyfringePickaxe: {
-			DisplayName: スカイフリンジピッケル
+			DisplayName: スカイフリンジのつるはし
 			Tooltip: ヘルストーンの採掘が可能
 		}
 
@@ -18173,7 +18173,7 @@ Items: {
 		}
 
 		WulfrumDrill: {
-			DisplayName: ウルフラムドリル
+			DisplayName: ウルフラムのドリル
 			Tooltip: ""
 		}
 
@@ -19333,7 +19333,7 @@ Attunement: {
 	}
 
 	FlailBladeAttunement: {
-		Name: ラメンテーションズ・オブ・チェインド
+		Name: フレイルブレードアチューンメント
 		Function:
 			'''
 			複数の鎖刃で連続攻撃する
@@ -20453,13 +20453,13 @@ Misc: {
 		AnyEvilBar: いずれかの悪魔インゴット
 		AnyEvilPowder: いずれかの悪魔の粉
 		Boss2Material: シャドースケールまたは組織サンプル
-		CursedFlameIchor: 呪われた炎またはイコー
+		CursedFlameIchor: 呪われた炎またはイコル
 		AnyEvilWater: いずれかの悪魔の水
 		AnyEvilFlask: いずれかの悪魔のフラスコ
 		AnyEvilBlock: いずれかの悪魔のブロック
 		AnyGoodBlock: いずれかの良いブロック
-		LunarPickaxe: いずれかのルナーピッケル
-		LunarHamaxe: いずれかのルナーハンマーアックス
+		LunarPickaxe: いずれかのルナつるはし
+		LunarHamaxe: いずれかのルナハンマーアックス
 		AnyQuiver: いずれかの矢筒
 		AnyWings: いずれかの翼
 	}
