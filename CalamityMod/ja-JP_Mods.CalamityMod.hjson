@@ -8380,8 +8380,8 @@ Items: {
 			}
 
 			StaffoftheMechworm: {
-				DisplayName: メックワームの杖
-				Tooltip: 共に戦うメックワームを召喚する
+				DisplayName: メカワームの杖
+				Tooltip: 共に戦うメカワームを召喚する
 			}
 
 			StarspawnHelixStaff: {
