@@ -1441,7 +1441,7 @@ Buffs: {
 	}
 
 	TacticalPlagueEngineBuff: {
-		DisplayName: 汚染されたタクティカルエンジン
+		DisplayName: 感染したタクティカルエンジン
 		Description: プレイグジェットが共に戦ってくれる
 	}
 
@@ -2297,7 +2297,7 @@ Items: {
 			}
 
 			YanmeisKnife: {
-				DisplayName: ヤンメイのナイフ
+				DisplayName: ヤンメイの包丁
 				Tooltip:
 					'''
 					ヒットした敵は行動不能になる
@@ -4538,7 +4538,7 @@ Items: {
 			}
 
 			SausageMaker: {
-				DisplayName: ソーセージスピア
+				DisplayName: ソーセージメーカー
 				Tooltip: ヒット時に追尾する血を噴射する
 			}
 
@@ -4688,7 +4688,7 @@ Items: {
 			}
 
 			TaintedBlade: {
-				DisplayName: 汚染された剣
+				DisplayName: テインテッド・ブレード
 				Tooltip: 敵に毒を与える
 			}
 
@@ -4906,7 +4906,7 @@ Items: {
 			}
 
 			Virulence: {
-				DisplayName: ヴィルレンス
+				DisplayName: ビルレンス
 				Tooltip: 疫病の煙を発射する
 			}
 
@@ -6262,7 +6262,7 @@ Items: {
 			}
 
 			Toxibow: {
-				DisplayName: 汚染された弓
+				DisplayName: トキシボウ
 				Tooltip: 木の矢を、ヒットした敵を放射能に汚染させる矢に変える
 			}
 
@@ -7593,7 +7593,7 @@ Items: {
 			}
 
 			TheSyringe: {
-				DisplayName: 汚染された注射器
+				DisplayName: 感染した注射器
 				Tooltip:
 					'''
 					時間経過でダメージが増加する注射器を投げる
@@ -8126,7 +8126,7 @@ Items: {
 			}
 
 			FuelCellBundle: {
-				DisplayName: 小型燃料セル
+				DisplayName: 燃料電池の束
 				Tooltip: 共に戦う小型プレイグブリンガーを召喚する
 			}
 
@@ -8409,7 +8409,7 @@ Items: {
 			}
 
 			TacticalPlagueEngine: {
-				DisplayName: 汚染されたタクティカルエンジン
+				DisplayName: 感染したタクティカルエンジン
 				Tooltip:
 					'''
 					共に戦うプレイグジェットを召喚する
@@ -9456,7 +9456,7 @@ Items: {
 		}
 
 		RadiatingCrystal: {
-			DisplayName: 汚染されたクリスタル
+			DisplayName: 放射結晶
 			Tooltip:
 				'''
 				光を放つペットを召喚する
@@ -10468,7 +10468,7 @@ Items: {
 		}
 
 		InfectedJewel: {
-			DisplayName: 汚染された宝石
+			DisplayName: 感染した宝石
 			Tooltip:
 				'''
 				HP+1/秒のライフリジェネを得る
@@ -12472,7 +12472,7 @@ Items: {
 		}
 
 		PlagueHumidifier: {
-			DisplayName: 汚染された加湿器
+			DisplayName: 感染した加湿器
 			Tooltip: 「空気中に軽い疫病を広める」
 		}
 
@@ -15943,7 +15943,7 @@ Items: {
 
 	SummonItems: {
 		Abombination: {
-			DisplayName: 汚染された通信機
+			DisplayName: ゴリアテ通信機
 			Tooltip:
 				'''
 				ジャングルで使用するとプレイグブリンガーゴリアテを召喚する
@@ -16030,7 +16030,7 @@ Items: {
 		}
 
 		DeathWhistle: {
-			DisplayName: 死の笛
+			DisplayName: デスホイッスル
 			Tooltip:
 				'''
 				ラヴェジャーを召喚する
