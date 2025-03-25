@@ -73,7 +73,7 @@ Items: {
 	}
 
 	AstralCommunicator: {
-		DisplayName: アストラル・コミュニケーター
+		DisplayName: アストラルコミュニケーター
 		Tooltip:
 			'''
 			アストラルに汚染された大地でアストラゲルドンを召喚する
@@ -144,7 +144,7 @@ Items: {
 	}
 
 	AstralsEnd: {
-		DisplayName: 星界の終わり
+		DisplayName: アストラルズ・エンド
 		Tooltip: 異次元の小惑星とその破片を呼び出す
 	}
 
@@ -160,7 +160,7 @@ Items: {
 	}
 
 	InterstellarVolution: {
-		DisplayName: インターステラー・ヴォリューション 
+		DisplayName: インターステラーヴォリューション
 		Tooltip:
 			'''
 			ホーミングする星を投げる
@@ -169,7 +169,7 @@ Items: {
 	}
 
 	ExaltedHorizon: {
-		DisplayName: エグザルト・ホライズン
+		DisplayName: エグザルテッドホライズン
 		Tooltip:
 			'''
 			敵に星の腐敗を蓄積させる追尾するランスを投げる
@@ -178,7 +178,7 @@ Items: {
 	}
 
 	AstralpodStaff: {
-		DisplayName: アストラルポッド・スタッフ
+		DisplayName: アストラルポッドスタッフ
 		Tooltip: レーザーとデスレイを放つアストラルポッドを召喚する
 	}
 
@@ -193,7 +193,7 @@ Items: {
 	}
 
 	AstralLash: {
-		DisplayName: アストラル・ラッシュ
+		DisplayName: アストラルラッシュ
 		Tooltip:
 			'''
 			リーチ： 40.000タイル
@@ -250,7 +250,7 @@ Items: {
 	}
 
 	MetanovaBrick: {
-		DisplayName: メタノヴァ・ピラー
+		DisplayName: メタノヴァピラー
 		Tooltip: ""
 	}
 
@@ -384,7 +384,7 @@ Items: {
 	}
 
 	BreathofGlacies: {
-		DisplayName: ブレス・オブ・グレイシーズ
+		DisplayName: 氷河の息吹
 		Tooltip:
 			'''
 			5発目ごとにルーンサークルを発射する
@@ -395,7 +395,7 @@ Items: {
 	}
 
 	DesertScorcher: {
-		DisplayName: デザート・スコーチャー
+		DisplayName: 砂漠の灼熱
 		Tooltip:
 			'''
 			熱湯を噴射する
@@ -406,7 +406,7 @@ Items: {
 	}
 
 	Ichorthrower: {
-		DisplayName: イコル・スローワー
+		DisplayName: イコルスローワー
 		Tooltip:
 			'''
 			ジェルを発火させ、燃える瘴気に変える
@@ -484,7 +484,7 @@ Items: {
 	}
 
 	ResonantStriker: {
-		DisplayName: レゾナント・ストライカー
+		DisplayName: レゾナントストライカー
 		Tooltip:
 			'''
 			{$Mods.CatalystMod.Tooltips.WhipTooltip}
@@ -512,7 +512,7 @@ Items: {
 	}
 
 	BlossomsBlessing: {
-		DisplayName: 花たちの祝福
+		DisplayName: 花たちの恵み
 		Tooltip:
 			'''
 			{$Mods.CatalystMod.Tooltips.WhipTooltip}
