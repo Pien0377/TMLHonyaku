@@ -9131,7 +9131,7 @@ Items: {
 		}
 
 		StarlightFuelCell: {
-			DisplayName: 星光の燃料セル
+			DisplayName: 星光燃料電池
 			Tooltip:
 				'''
 				アドレナリンモードのダメージを20%増加させ、ダメージ減少を5%増加させる
@@ -18388,7 +18388,7 @@ Items: {
 		}
 
 		AuricQuantumCoolingCell: {
-			DisplayName: オーリック量子冷却セル
+			DisplayName: オーリック量子冷却電池
 			Tooltip:
 				'''
 				コードブレイカーに組み込むことができる最後の部品
@@ -20712,7 +20712,7 @@ NPCs: {
 	}
 
 	SlabCrab: {
-		DisplayName: スラブクラブ
+		DisplayName: スラブガニ
 	}
 
 	ToxicMinnow: {
