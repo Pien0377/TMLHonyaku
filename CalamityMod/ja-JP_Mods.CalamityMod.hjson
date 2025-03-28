@@ -917,7 +917,7 @@ Buffs: {
 	}
 
 	FishAlert: {
-		DisplayName: 発見された
+		DisplayName: 魚の警告
 		Description: 深淵の生物に見つかってしまった！
 	}
 
@@ -19556,13 +19556,13 @@ Status: {
 		DraedonMechdusaEndText2: いや....
 		SCalSummonText: 地獄を楽しんでいるか？
 		SCalStartText: お前は生きていてはいけない存在だ...
-		SCalBH2Text: 少し前に辛うじて私のコピー...贋作を倒したばかりだろう。あんなもの、失敗作と言ってもいいんじゃないか？
-		SCalBH3Text: お前は強大な力を手に入れたが、それを振るうのは自分のためだけだ。
-		SCalBrothersText: 私の家族に会わせてやろう...
+		SCalBH2Text: 少し前にお前は私のドッペルゲンガー...贋作を倒したばかりだろう。あんなもの、失敗作と言ってもいいんじゃないか？
+		SCalBH3Text: お前は強大な力を手に入れたが、その力は誰のためでもなく、自分のために使っている。
+		SCalBrothersText: 私の血族に会わせてやろう...
 		SCalPhase2Text: お前は大いに苦しむことになる。
-		SCalBH4Text: 逃げようなどと考えるのは馬鹿げている。お前は生きている限り、苦しむことになるんだ。
+		SCalBH4Text: 逃げようと思うこと自体が馬鹿げている。生きている限り、苦しむことになるのは当たり前。
 		SCalSeekerRingText: 無謀にも盗み、殺し、力を得た愚か者。誰のことだろうな...
-		SCalBH5Text: 本来、お前には関係のないことだったはずだ。口出しするんじゃない！
+		SCalBH5Text: お前はこの戦いに何の関係もない。誰もお前に発言権を与えなかった！
 		SCalSepulcher2Text: すべてが終わり、最後に残る者がただ一人だとして、それがお前なら、それになんの価値があるんだ？
 		SCalDesparationText1: もうやめろ！
 		SCalDesparationText2: ここで負けたら、私には未来がない。
@@ -20667,11 +20667,11 @@ NPCs: {
 	}
 
 	DevilFish: {
-		DisplayName: デビルフィッシュ
+		DisplayName: アクマウオ
 	}
 
 	DevilFishAlt: {
-		DisplayName: デビルフィッシュ
+		DisplayName: アクマウオ
 	}
 
 	EidolonWyrmHead: {
