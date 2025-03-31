@@ -849,7 +849,7 @@ Items: {
 	}
 
 	RuneofKos: {
-		DeveloperText: シーセレスヴォイドはダンジョンの奥底でしか戦えない
+		DeveloperText: シーセレスボイドはダンジョンの奥底でしか戦えない
 	}
 
 	SandstormsCore: {
@@ -1099,7 +1099,7 @@ Items: {
 	}
 
 	CeaselessVoidRelic: {
-		DisplayName: シーセレスヴォイドのレリック
+		DisplayName: シーセレスボイドのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1204,7 +1204,7 @@ Items: {
 	}
 
 	GiantClamRelic: {
-		DisplayName: 巨大貝のレリック
+		DisplayName: オオシャコガイのレリック
 		Tooltip: GetsChanged
 	}
 
@@ -1475,7 +1475,7 @@ Items: {
 		DisplayName: きらめく軟体動物詰めの缶
 		Tooltip:
 			'''
-			巨大貝を召喚する
+			オオシャコガイを召喚する
 			沈没海でのみ使用可能
 			消費しない
 			'''
