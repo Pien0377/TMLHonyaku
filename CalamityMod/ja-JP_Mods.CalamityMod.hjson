@@ -232,7 +232,7 @@ Buffs: {
 	}
 
 	Vaporfied: {
-		DisplayName: ヴェイパーファイド
+		DisplayName: バイパーファイド
 		Description: 見覚えがのあるアイコンだ...
 	}
 
@@ -833,7 +833,7 @@ Buffs: {
 	}
 
 	ReaverRage: {
-		DisplayName: リーヴァーの怒り
+		DisplayName: リーバーの怒り
 		Description: 怒っている
 	}
 
@@ -1105,7 +1105,7 @@ Buffs: {
 	}
 
 	CosmicViperEngineBuff: {
-		DisplayName: コズミックヴァイパー
+		DisplayName: コズミックバイパー
 		Description: 宇宙のガンシップが共に戦ってくれる
 	}
 
@@ -1700,7 +1700,7 @@ Items: {
 		}
 
 		LoreCeaselessVoid: {
-			DisplayName: シーセレスヴォイド
+			DisplayName: シーセレスボイド
 			Lore:
 				'''
 				封じられたポータルがダンジョン内に存在していた。管理していたカルト集団は、その存在を極秘にしていた。
@@ -2256,7 +2256,7 @@ Items: {
 			}
 
 			RelicOfDeliverance: {
-				DisplayName: レリック・オブ・デリヴァレンス
+				DisplayName: レリック・オブ・デリヴァランス
 				Tooltip:
 					'''
 					<left> を押すと、突進のチャージを開始する
@@ -2867,7 +2867,7 @@ Items: {
 			}
 
 			FatesReveal: {
-				DisplayName: フェイトリヴィール
+				DisplayName: フェイトリベイル
 				Tooltip: 敵の近くに幽霊のような火の玉を生み出し、攻撃する
 			}
 
@@ -3424,7 +3424,7 @@ Items: {
 			}
 
 			VeeringWind: {
-				DisplayName: ヴェーリングウィンド
+				DisplayName: ヴィアリングウィンド
 				Tooltip:
 					'''
 					高いノックバックを持つ風の波を放つ
@@ -3433,7 +3433,7 @@ Items: {
 			}
 
 			Vehemence: {
-				DisplayName: ヴィーエメンス
+				DisplayName: ヴィーヘマンス
 				Tooltip: 地獄のボルトを放ち、何かに当たると爆発してドクロの煙を撒き散らす
 			}
 
@@ -3443,7 +3443,7 @@ Items: {
 			}
 
 			Vesuvius: {
-				DisplayName: ヴェスビオ
+				DisplayName: ヴェスヴィオ
 				Tooltip:
 					'''
 					4つの灼熱の小惑星を召喚する
@@ -3466,7 +3466,7 @@ Items: {
 			}
 
 			VividClarity: {
-				DisplayName: ヴィヴィッドクラリティ
+				DisplayName: ビビッドクラリティ
 				Tooltip:
 					'''
 					カーソルに向かってランダムに5本の光線を発射する
@@ -3476,7 +3476,7 @@ Items: {
 			}
 
 			VoidVortex: {
-				DisplayName: ヴォイドボルテックス
+				DisplayName: ボイドボルテックス
 				Tooltip: カーソルの周囲に超強力な磁気の渦を巻き起こす
 			}
 
@@ -3679,7 +3679,7 @@ Items: {
 			}
 
 			Avalanche: {
-				DisplayName: アヴァランチ
+				DisplayName: アバランチ
 				Tooltip: 敵にヒットすると3秒後に爆発して氷の破片になる氷の爆弾を放つ
 			}
 
@@ -4896,12 +4896,12 @@ Items: {
 			}
 
 			VeinBurster: {
-				DisplayName: ヴェインブラスター
+				DisplayName: ベインブラスター
 				Tooltip: ブロックに付着して爆発する血玉を発射する
 			}
 
 			Violence: {
-				DisplayName: ヴァイオレンス
+				DisplayName: バイオレンス
 				Tooltip: カーソルに追従する槍を投げる
 			}
 
@@ -4911,7 +4911,7 @@ Items: {
 			}
 
 			VoidEdge: {
-				DisplayName: ヴォイドエッジ
+				DisplayName: ボイドエッジ
 				Tooltip:
 					'''
 					深淵の魂を放つ
@@ -4920,7 +4920,7 @@ Items: {
 			}
 
 			VulcaniteLance: {
-				DisplayName: ヴァルカナイトランス
+				DisplayName: バルカナイトランス
 				Tooltip: 敵に当たると爆発し、クリティカルヒットで追尾するフレアを召喚する
 			}
 
@@ -6308,7 +6308,7 @@ Items: {
 			}
 
 			Voidragon: {
-				DisplayName: ヴォイドラゴン
+				DisplayName: ボイドラゴン
 				Tooltip:
 					'''
 					1発ごとに爆発する深淵の炎を発射する
@@ -6535,7 +6535,7 @@ Items: {
 			}
 
 			CorpusAvertor: {
-				DisplayName: コープスアヴァター
+				DisplayName: コープスアヴェーター
 				Tooltip:
 					'''
 					与えたダメージに応じてライフスティールを与える
@@ -6774,7 +6774,7 @@ Items: {
 			}
 
 			FrostcrushValari: {
-				DisplayName: フロストクラッシュヴァラーリ
+				DisplayName: フロストクラッシュヴァラリ
 				Tooltip:
 					'''
 					ブーメランを投げ、命中すると氷柱を発生させる
@@ -7925,7 +7925,7 @@ Items: {
 			}
 
 			CosmicViperEngine: {
-				DisplayName: コズミックヴァイパーエンジン
+				DisplayName: コズミックバイパーエンジン
 				Tooltip:
 					'''
 					共に戦う宇宙のガンシップを召喚する
@@ -8425,7 +8425,7 @@ Items: {
 				Tooltip:
 					'''
 					戦闘を支援する様々なツールを召喚する
-						- 敵を貫くヴァーミリオンアロー
+						- 敵を貫くバーミリオンアロー
 						- 敵を叩き潰すマーマレードハンマー
 						- モンスターを切り裂き、時には木を切り倒すジェイドアックス
 						- 優雅に敵を打ちのめすシアンパラソル
@@ -8469,7 +8469,7 @@ Items: {
 			}
 
 			Vigilance: {
-				DisplayName: ヴィジランス
+				DisplayName: ビジランス
 				Tooltip: 共に戦うソウルシーカーを召喚する
 			}
 
@@ -8496,7 +8496,7 @@ Items: {
 				DisplayName: 深淵の杖
 				Tooltip:
 					'''
-					ヴォイドオーブを発射して攻撃する不吉なオーラを召喚する
+					ボイドオーブを発射して攻撃する不吉なオーラを召喚する
 					オーラが発動している間、ミニオンのダメージが5%増加する
 					使用するにはミニオンのスロットが3つ必要
 					オーラは一度に一つしか出せない
@@ -9338,7 +9338,7 @@ Items: {
 		}
 
 		BloodyVein: {
-			DisplayName: ブラッディヴェイン
+			DisplayName: ブラッディベイン
 			Tooltip: 肉の山を召喚する
 		}
 
@@ -10828,7 +10828,7 @@ Items: {
 			Tooltip:
 				'''
 				遠距離攻撃のクリティカル確率が5%増加
-				4つのヴォイドフィールドを自分の周囲に召喚する
+				4つのボイドフィールドを自分の周囲に召喚する
 				これらを通過した矢は、ダメージが75%増加し、スピードが2倍になる
 				「夜空よりも暗い物質で満たされている」
 				'''
@@ -11038,7 +11038,7 @@ Items: {
 			Tooltip:
 				'''
 				液体に浸かっている時、防御力が5増加
-				ヴィクタイドアーマーを着用している間、移動速度が10%増加し、HP+1/秒のライフリジェネを得る
+				ビクタイドアーマーを着用している間、移動速度が10%増加し、HP+1/秒のライフリジェネを得る
 				'''
 		}
 
@@ -12149,7 +12149,7 @@ Items: {
 		}
 
 		CeaselessVoidRelic: {
-			DisplayName: シーセレスヴォイドのレリック
+			DisplayName: シーセレスボイドのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -12598,7 +12598,7 @@ Items: {
 		}
 
 		CeaselessVoidTrophy: {
-			DisplayName: シーセレスヴォイドのトロフィー
+			DisplayName: シーセレスボイドのトロフィー
 			Tooltip: ""
 		}
 
@@ -14931,7 +14931,7 @@ Items: {
 		}
 
 		Voidstone: {
-			DisplayName: ヴォイドストーン
+			DisplayName: ボイドストーン
 			Tooltip: ""
 		}
 
@@ -15511,12 +15511,12 @@ Items: {
 		}
 
 		VeriumBolt: {
-			DisplayName: ヴェリウムの矢
+			DisplayName: ベリウムボルト
 			Tooltip:
 				'''
 				ヒットした敵にマークをつけ、しばらくしてから追加ダメージを与える
 				このダメージは敵に当たった矢の数に応じてスタックする
-				「逃げられないぞ！」
+				「逃げ場はないぞ！」
 				'''
 		}
 	}
@@ -16195,7 +16195,7 @@ Items: {
 			SpawnInfo: この力は異世界の存在を引き寄せる
 			SpawnVoid:
 				'''
-				シーセレスヴォイドを召喚する
+				シーセレスボイドを召喚する
 				地上にいると発狂する
 				'''
 			SpawnSignus: シグナスを召喚する
@@ -17630,7 +17630,7 @@ Items: {
 			}
 
 			VictideBreastplate: {
-				DisplayName: ヴィクタイドの鎧
+				DisplayName: ビクタイドの鎧
 				Tooltip:
 					'''
 					ダメージ軽減とクリティカル確率が5%増加
@@ -17645,7 +17645,7 @@ Items: {
 			}
 
 			VictideGreaves: {
-				DisplayName: ヴィクタイドの足甲
+				DisplayName: ビクタイドの足甲
 				Tooltip:
 					'''
 					移動速度が8%増加
@@ -17654,13 +17654,13 @@ Items: {
 			}
 
 			VictideHeadMagic: {
-				DisplayName: ヴィクタイドのフード
+				DisplayName: ビクタイドのフード
 				Tooltip: 魔法ダメージ5%増加
 				SetBonus: 液体に浸かっている間、HP+1.5/秒のライフリジェネ、魔法ダメージ10%増加
 			}
 
 			VictideHeadMelee: {
-				DisplayName: ヴィクタイドのシェルメット
+				DisplayName: ビクタイドのシェルメット
 				Tooltip: 近接攻撃ダメージ5%増加
 				SetBonus:
 					'''
@@ -17670,13 +17670,13 @@ Items: {
 			}
 
 			VictideHeadRanged: {
-				DisplayName: ヴィクタイドのコーラルターバン
+				DisplayName: ビクタイドのコーラルターバン
 				Tooltip: 遠距離ダメージ5%増加
 				SetBonus: 液体に浸かっている間、HP+1.5/秒のライフリジェネ、遠距離ダメージが10%増加する
 			}
 
 			VictideHeadRogue: {
-				DisplayName: ヴィクタイドのヘッドクラブ
+				DisplayName: ビクタイドのヘッドクラブ
 				Tooltip: ローグダメージ5%増加
 				SetBonus:
 					'''
@@ -17686,7 +17686,7 @@ Items: {
 			}
 
 			VictideHeadSummon: {
-				DisplayName: ヴィクタイドの仮面
+				DisplayName: ビクタイドの仮面
 				Tooltip: 召喚ダメージ10%増加
 				SetBonus:
 					'''
@@ -17811,7 +17811,7 @@ Items: {
 			}
 
 			CeaselessVoidMask: {
-				DisplayName: シーセレスヴォイドのマスク
+				DisplayName: シーセレスボイドのマスク
 				Tooltip: ""
 			}
 
@@ -18229,7 +18229,7 @@ Items: {
 		}
 
 		CeaselessVoidBag: {
-			DisplayName: トレジャーバッグ(シーセレスヴォイド)
+			DisplayName: トレジャーバッグ(シーセレスボイド)
 			Tooltip: <right>で開く
 		}
 
@@ -20898,7 +20898,7 @@ NPCs: {
 	}
 
 	CeaselessVoid: {
-		DisplayName: シーセレスヴォイド
+		DisplayName: シーセレスボイド
 	}
 
 	DarkEnergy: {
@@ -21380,7 +21380,7 @@ NPCs: {
 	}
 
 	Viruling: {
-		DisplayName: ヴァイルリング
+		DisplayName: ビルリング
 	}
 
 	PhantomFuckYou: {
@@ -22175,7 +22175,7 @@ BossChecklistIntegration: {
 	}
 
 	CeaselessVoid: {
-		EntryName: シーセレスヴォイド
+		EntryName: シーセレスボイド
 		SpawnInfo: ダンジョンで [i:CalamityMod/RuneofKos] を使用する
 		DespawnMessage: "[c/4B0082:古代の空間の裂け目は、未知の場所へと滑り落ちていった...]"
 	}
