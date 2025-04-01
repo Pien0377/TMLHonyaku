@@ -1350,7 +1350,7 @@ Items: {
 	}
 
 	SupremeCalamitasRelic: {
-		DisplayName: シュプリームカラミタスのレリック
+		DisplayName: 至高の魔女カラミタスのレリック
 		Tooltip: GetsChanged
 
 		PersonalMessage: {
