@@ -932,7 +932,7 @@ Buffs: {
 	}
 
 	GlacialState: {
-		DisplayName: 凍結
+		DisplayName: 氷河状態
 		Description: 動けない...
 	}
 
@@ -951,7 +951,7 @@ Buffs: {
 	}
 
 	KamiFlu: {
-		DisplayName: Kami Flu
+		DisplayName: 神のインフルエンザ
 		Description: 無防備で瀕死の状態
 	}
 
@@ -1140,8 +1140,8 @@ Buffs: {
 	}
 
 	DemonshadeSetDevilBuff: {
-		DisplayName: 赤い悪魔
-		Description: 赤い悪魔が共に戦ってくれる
+		DisplayName: レッドデビル
+		Description: レッドデビルが共に戦ってくれる
 	}
 
 	ElementalAxeBuff: {
@@ -4688,7 +4688,7 @@ Items: {
 			}
 
 			TaintedBlade: {
-				DisplayName: テインテッド・ブレード
+				DisplayName: テインテッドブレード
 				Tooltip: 敵に毒を与える
 			}
 
@@ -4862,7 +4862,7 @@ Items: {
 			}
 
 			TrueCausticEdge: {
-				DisplayName: カースティックエッジ
+				DisplayName: コースティックエッジ
 				Tooltip:
 					'''
 					跳ね返る毒のビームを発射
@@ -9076,7 +9076,7 @@ Items: {
 		}
 
 		EtherealCore: {
-			DisplayName: エーテルのコア
+			DisplayName: エーテルコア
 			Tooltip:
 				'''
 				永続的に最大マナを{0}増加させる
@@ -9113,7 +9113,7 @@ Items: {
 		}
 
 		PhantomHeart: {
-			DisplayName: ファントムの心臓
+			DisplayName: 幻の心臓
 			Tooltip:
 				'''
 				永続的に最大マナを{0}増加させる
@@ -9122,7 +9122,7 @@ Items: {
 		}
 
 		RedLightningContainer: {
-			DisplayName: 赤い光のコンテナ
+			DisplayName: 赤い稲妻の容器
 			Tooltip:
 				'''
 				レイジモードの効果時間を1秒延長する
@@ -9264,7 +9264,7 @@ Items: {
 			DisplayName: エクソボックス
 			Tooltip:
 				'''
-				非常に居心地の良い、非常に軽快な空飛ぶエクソのイスを召喚する
+				非常に座り心地の良い、非常に軽快な空飛ぶエクソのイスを召喚する
 				マウントに座ったまま [KEY] を押し続けると、より正確にゆっくりと移動できる
 				「快適なゲーマーは危険なゲーマー」
 				'''
@@ -9294,7 +9294,7 @@ Items: {
 		}
 
 		TheCartofGods: {
-			DisplayName: ゴッドカート
+			DisplayName: カートオブゴッド
 			Tooltip: ""
 		}
 
@@ -9338,12 +9338,12 @@ Items: {
 		}
 
 		BloodyVein: {
-			DisplayName: ブラッディベイン
+			DisplayName: 血まみれの静脈
 			Tooltip: 肉の山を召喚する
 		}
 
 		BrimstoneJewel: {
-			DisplayName: ブリムストーンジュエル
+			DisplayName: ブリムストーンの宝石
 			Tooltip:
 				'''
 				「あの獣を倒した究極の報酬は...
@@ -9352,7 +9352,7 @@ Items: {
 		}
 
 		CharredRelic: {
-			DisplayName: 黒焦げの遺物
+			DisplayName: 焦げた遺物
 			Tooltip: 少量の硫黄を含む
 		}
 
@@ -9367,7 +9367,7 @@ Items: {
 		}
 
 		CosmicPlushie: {
-			DisplayName: コズミックプラシー
+			DisplayName: コズミックなぬいぐるみ
 			Tooltip:
 				'''
 				宇宙を食い尽くす者を召喚する...？
@@ -9401,7 +9401,7 @@ Items: {
 		}
 
 		GeyserShell: {
-			DisplayName: 小さな殻
+			DisplayName: 間欠泉の殻
 			Tooltip: 小さなヤドカリを召喚する
 		}
 
@@ -9416,12 +9416,12 @@ Items: {
 		}
 
 		JoyfulHeart: {
-			DisplayName: ジョイフルハート
-			Tooltip: 妙に温かい...禁断の生物を呼び寄せるかもしれない
+			DisplayName: 喜びの心
+			Tooltip: 少し温かい...禁断の生物を呼び寄せるかもしれない
 		}
 
 		Levi: {
-			DisplayName: レビ
+			DisplayName: リヴァイ
 			Tooltip: ペットのリヴァイアサンの赤ちゃんを召喚する
 		}
 
@@ -9436,7 +9436,7 @@ Items: {
 		}
 
 		McNuggets: {
-			DisplayName: チキンマックナゲット
+			DisplayName: マックナゲット
 			Tooltip: 「このチキンナゲットは君のものじゃない！」
 		}
 
@@ -9446,7 +9446,7 @@ Items: {
 		}
 
 		PlagueCaller: {
-			DisplayName: プレイグコーラー
+			DisplayName: プレイグ通信機
 			Tooltip: 疫病を呼ぶ者を召喚する
 		}
 
@@ -10947,7 +10947,7 @@ Items: {
 		}
 
 		RuinMedallion: {
-			DisplayName: 遺跡のメダル
+			DisplayName: 遺跡のメダリオン
 			Tooltip:
 				'''
 				ステルス攻撃は最大ステルスの75%しか消費しない
@@ -10956,7 +10956,7 @@ Items: {
 		}
 
 		RustyMedallion: {
-			DisplayName: 錆びたメダル
+			DisplayName: 錆びたメダリオン
 			Tooltip:
 				'''
 				ほとんどの遠距離武器が空から酸の飛沫を放つようになる
@@ -16114,7 +16114,7 @@ Items: {
 		}
 
 		NecroplasmicBeacon: {
-			DisplayName: ネクロプラズムのビーコン
+			DisplayName: ネクロプラズムビーコン
 			Tooltip:
 				'''
 				ダンジョンで使用するとポルターガストを召喚する
@@ -20737,7 +20737,7 @@ NPCs: {
 	}
 
 	CragmawMire: {
-		DisplayName: クラグモーマイヤー
+		DisplayName: クラグマウマイア
 	}
 
 	FlakCrab: {
@@ -20757,11 +20757,11 @@ NPCs: {
 	}
 
 	NuclearTerror: {
-		DisplayName: ニュークリーアテラー
+		DisplayName: ニュークリアテラー
 	}
 
 	NuclearToad: {
-		DisplayName: 核カエル
+		DisplayName: 核ヒキガエル
 	}
 
 	Orthocera: {
