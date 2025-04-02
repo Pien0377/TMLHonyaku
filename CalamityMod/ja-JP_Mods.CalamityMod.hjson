@@ -3635,7 +3635,7 @@ Items: {
 			}
 
 			ArkoftheElements: {
-				DisplayName: アーク・オブ・ジ・エレメント
+				DisplayName: アーク・オブ・ジ・エレメンツ
 				Tooltip:
 					'''
 					[COMBO]
@@ -4594,7 +4594,7 @@ Items: {
 			}
 
 			SpineOfThanatos: {
-				DisplayName: タナトスの背骨
+				DisplayName: スパインオブタナトス
 				Tooltip:
 					'''
 					正面に一本、側面に2本金属のムチを放つ
@@ -8853,7 +8853,7 @@ Items: {
 		}
 
 		RottenMatter: {
-			DisplayName: 真・シャドウスケール
+			DisplayName: 腐った物質
 			Tooltip: ""
 		}
 
@@ -10427,7 +10427,7 @@ Items: {
 		}
 
 		HeartoftheElements: {
-			DisplayName: エレメンタルの心臓
+			DisplayName: エレメンツのハート
 			Tooltip:
 				'''
 				すべてのエレメンタルを召喚し、共に戦う
@@ -16017,7 +16017,7 @@ Items: {
 		}
 
 		CryoKey: {
-			DisplayName: 凍りついた鍵
+			DisplayName: クライオキー
 			GFBName: アチアチの鍵
 			Tooltip:
 				'''
@@ -19334,7 +19334,7 @@ Attunement: {
 	}
 
 	FlailBladeAttunement: {
-		Name: フレイルブレードアチューンメント
+		Name: ラメンテーションズオブチェインド
 		Function:
 			'''
 			複数の鎖刃で連続攻撃する
