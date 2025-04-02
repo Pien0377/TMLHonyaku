@@ -17499,7 +17499,7 @@ Items: {
 			}
 
 			MolecularManipulator: {
-				DisplayName: モラキュラーマニピュレーター
+				DisplayName: 分子マニピュレーター
 				Tooltip:
 					'''
 					NPCのステータスを歪ませる高速の無効弾を発射する
@@ -17546,7 +17546,7 @@ Items: {
 			}
 
 			NullificationPistol: {
-				DisplayName: ヌルフィケーションピストル
+				DisplayName: 無効化ピストル
 				Tooltip:
 					'''
 					NPCのステータスを歪ませる高速の無効弾を発射する
