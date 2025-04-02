@@ -2795,7 +2795,7 @@ Items: {
 			}
 
 			EidolicWail: {
-				DisplayName: 幽玄の慟哭
+				DisplayName: エイドリックウェイル
 				Tooltip:
 					'''
 					時間経過で強化される音波を発射する
@@ -2805,7 +2805,7 @@ Items: {
 # むやみに訳すとおかしくなりそうなのでとりあえずこのままに。訳すとしたら幽玄のスピーカー？あたりがいいかも。案募集。
 
 			EidolonStaff: {
-				DisplayName: 幽玄の杖
+				DisplayName: エイドロンスタッフ
 				Tooltip: 氷塊と太古の光を放つ
 			}
 
