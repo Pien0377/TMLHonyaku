@@ -7839,7 +7839,7 @@ Items: {
 			}
 
 			CalamarisLament: {
-				DisplayName: カラマリのラメント
+				DisplayName: カラマリの哀歌
 				Tooltip: "[GFB]"
 				TooltipNormal:
 					'''
@@ -8371,7 +8371,7 @@ Items: {
 			}
 
 			StaffOfNecrosteocytes: {
-				DisplayName: 壊死の杖
+				DisplayName: 壊死骨細胞の杖
 				Tooltip:
 					'''
 					共に戦う小さな骸骨を召喚する
@@ -9629,7 +9629,7 @@ Items: {
 		}
 
 		AlluringBait: {
-			DisplayName: 魅惑な釣り餌
+			DisplayName: 魅惑のエサ
 			Tooltip:
 				'''
 				釣りパワーを30増加
@@ -9836,7 +9836,7 @@ Items: {
 		}
 
 		BloodyWormScarf: {
-			DisplayName: 血のワームのスカーフ
+			DisplayName: 血まみれのワームスカーフ
 			Tooltip:
 				'''
 				ダメージ10%軽減
@@ -15966,16 +15966,16 @@ Items: {
 		}
 
 		BloodwormItem: {
-			DisplayName: 血のワーム
+			DisplayName: ブラッドワーム
 			Tooltip:
 				'''
-				硫黄の海で釣り餌として使った場合、オールドデュークを釣り上げることができる
+				硫黄の海で餌として使った場合、オールドデュークを釣り上げることができる
 				硫黄の海の外に出ると発狂する
 				'''
 		}
 
 		BloodyWormFood: {
-			DisplayName: 血のワームの餌
+			DisplayName: 血まみれのワームのエサ
 			Tooltip:
 				'''
 				真紅で使用するとパーフォレーターハイヴを召喚する
@@ -16219,7 +16219,7 @@ Items: {
 				硫黄の海で使用するとアクアティックスカージを召喚する
 				硫黄の海の外に出ると発狂する
 				消費されない
-				「大物を釣るための大きな餌。海の怪物には気をつけろ」
+				「大物を釣るための大きなエサ。海の怪物には気をつけろ」
 				'''
 		}
 
@@ -19115,7 +19115,7 @@ Items: {
 		}
 
 		GrandMarquisBait: {
-			DisplayName: グランドマーキスの釣り餌
+			DisplayName: 大侯爵の
 			Tooltip: ""
 		}
 	}
@@ -19501,8 +19501,8 @@ Status: {
 		CalamitasBossText3: やるではないか...他の奴らとは違う...
 		SandSharkText: 砂の中で何かがうごめいている...
 		SandSharkText2: 巨大な捕食者が近づいてくる！
-		PlagueBossText: 疫病核ミサイルの一斉攻撃を準備中　発射態勢に入る
-		PlagueBossText2: ミサイル発射　ターゲティングルーチンを開始
+		PlagueBossText: 疫病核弾道ミサイル発射準備！！！
+		PlagueBossText2: ミサイル発射！ターゲティングルーチンを開始！
 		DeusAltarRejectNightText: 星の神は捧げものを拒絶した。儀式は夜しか行えないようだ...
 		ProfanedBossText: 翼に聖なる炎が燃えている...
 		GhostBossText2: 荒廃したダンジョンから叫び声が響き渡る...
@@ -20915,15 +20915,15 @@ NPCs: {
 	}
 
 	CalamityEye: {
-		DisplayName: カラミティアイ
+		DisplayName: 災厄の目玉
 	}
 
 	RenegadeWarlock: {
-		DisplayName: レネゲードウォーロック
+		DisplayName: 教団暗殺者
 	}
 
 	DespairStone: {
-		DisplayName: ディスペアーストーン
+		DisplayName: 絶望の石
 	}
 
 	HeatSpirit: {
@@ -20935,11 +20935,11 @@ NPCs: {
 	}
 
 	Scryllar: {
-		DisplayName: スクライラー
+		DisplayName: スクリラー
 	}
 
 	ScryllarRage: {
-		DisplayName: スクライラー
+		DisplayName: スクリラー
 	}
 
 	SoulSlurper: {
