@@ -113,27 +113,27 @@ Items: {
 	}
 
 	CalamitasCloneMusicBox: {
-		DisplayName: オルゴール (カラミタス)
+		DisplayName: オルゴール (カラミタスクローン)
 		Tooltip: DM DOKURO制作の「Raw, Unfiltered Calamity」を再生する
 	}
 
 	CalamitasDefeatMusicBox: {
-		DisplayName: オルゴール (シュプリームカラミタス - 撃破)
+		DisplayName: オルゴール (カラミタス - 撃破)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Acceptance)」を再生する
 	}
 
 	CalamitasPhase1MusicBox: {
-		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 1)
+		DisplayName: オルゴール (カラミタス - フェーズ 1)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Grief)」を再生する
 	}
 
 	CalamitasPhase2MusicBox: {
-		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 2)
+		DisplayName: オルゴール (カラミタス - フェーズ 2)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Lament)」を再生する
 	}
 
 	CalamitasPhase3MusicBox: {
-		DisplayName: オルゴール (シュプリームカラミタス - フェーズ 3)
+		DisplayName: オルゴール (カラミタス - フェーズ 3)
 		Tooltip: DM DOKURO制作の「Stained, Brutal Calamity (Epiphany)」を再生する
 	}
 
@@ -143,7 +143,7 @@ Items: {
 	}
 
 	CeaselessVoidMusicBox: {
-		DisplayName: オルゴール (シーセレスヴォイド)
+		DisplayName: オルゴール (シーセレスボイド)
 		Tooltip: DM DOKURO制作の「Servants of the Scourge (Type V)」を再生する
 	}
 
