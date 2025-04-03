@@ -18875,7 +18875,7 @@ Items: {
 		}
 
 		Havocfish: {
-			DisplayName: カオスウオ
+			DisplayName: カオスフィッシュ
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
@@ -18973,7 +18973,7 @@ Items: {
 		}
 
 		FishofEleum: {
-			DisplayName: エレウムの魚
+			DisplayName: エレウムフィッシュ
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
