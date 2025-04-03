@@ -3982,7 +3982,7 @@ Items: {
 			}
 
 			EutrophicScimitar: {
-				DisplayName: ユートロシックシミター
+				DisplayName: ユートロフィックシミター
 				Tooltip: 敵をスタンさせる2本のビームを放つ
 			}
 
@@ -5050,7 +5050,7 @@ Items: {
 			}
 
 			Archerfish: {
-				DisplayName: アーチャーフィッシュ
+				DisplayName: テッポウウオ
 				Tooltip: マスケット銃の弾を水流に変える
 			}
 
@@ -7412,7 +7412,7 @@ Items: {
 			}
 
 			SkyfinBombers: {
-				DisplayName: フィッシュボンバーズ
+				DisplayName: スカイフィンボンバーズ
 				Tooltip:
 					'''
 					下にいる敵に追尾する核を発射する
@@ -9153,7 +9153,7 @@ Items: {
 		}
 
 		BleachBall: {
-			DisplayName: 漂白されたベル
+			DisplayName: 漂白剤ボール
 			Tooltip: このアイテムをインベントリで右クリックすると、アクアティックスカージが出現しなくなる
 		}
 
@@ -12051,17 +12051,17 @@ Items: {
 		}
 
 		EutrophicGlass: {
-			DisplayName: ユートロフィックの草
+			DisplayName: 富栄養化した草
 			Tooltip: ""
 		}
 
 		EutrophicSand: {
-			DisplayName: ユートロフィックの砂
+			DisplayName: 富栄養化した砂
 			Tooltip: ""
 		}
 
 		HardenedEutrophicSand: {
-			DisplayName: 硬化したユートロフィックの砂
+			DisplayName: 硬化した富栄養化した砂
 			Tooltip: ""
 		}
 
@@ -12339,7 +12339,7 @@ Items: {
 		}
 
 		EutrophicShelf: {
-			DisplayName: ユートロフィックシェルフ
+			DisplayName: 富栄養化した棚
 			Tooltip: 何かいいものが作れそうだ
 		}
 
@@ -13438,97 +13438,97 @@ Items: {
 		}
 
 		EutrophicBathtub: {
-			DisplayName: ユートロフィックの浴槽
+			DisplayName: 富栄養化した浴槽
 			Tooltip: ""
 		}
 
 		EutrophicBed: {
-			DisplayName: ユートロフィックのベッド
+			DisplayName: 富栄養化したベッド
 			Tooltip: ""
 		}
 
 		EutrophicBench: {
-			DisplayName: ユートロフィックの台
+			DisplayName: 富栄養化した台
 			Tooltip: ""
 		}
 
 		EutrophicBookcase: {
-			DisplayName: ユートロフィックの本棚
+			DisplayName: 富栄養化した本棚
 			Tooltip: ""
 		}
 
 		EutrophicCandelabra: {
-			DisplayName: ユートロフィックの燭台
+			DisplayName: 富栄養化した燭台
 			Tooltip: ""
 		}
 
 		EutrophicCandle: {
-			DisplayName: ユートロフィックの蝋燭
+			DisplayName: 富栄養化した蝋燭
 			Tooltip: ""
 		}
 
 		EutrophicChair: {
-			DisplayName: ユートロフィックのイス
+			DisplayName: 富栄養化したイス
 			Tooltip: ""
 		}
 
 		EutrophicChandelier: {
-			DisplayName: ユートロフィックのシャンデリア
+			DisplayName: 富栄養化したシャンデリア
 			Tooltip: ""
 		}
 
 		EutrophicChest: {
-			DisplayName: ユートロフィックの宝箱
+			DisplayName: 富栄養化した宝箱
 			Tooltip: ""
 		}
 
 		EutrophicClock: {
-			DisplayName: ユートロフィックの時計
+			DisplayName: 富栄養化した時計
 			Tooltip: ""
 		}
 
 		EutrophicDoor: {
-			DisplayName: ユートロフィックのドア
+			DisplayName: 富栄養化したドア
 			Tooltip: ""
 		}
 
 		EutrophicDresser: {
-			DisplayName: ユートロフィックのドレッサー
+			DisplayName: 富栄養化したドレッサー
 			Tooltip: ""
 		}
 
 		EutrophicLamp: {
-			DisplayName: ユートロフィックのランプ
+			DisplayName: 富栄養化したランプ
 			Tooltip: ""
 		}
 
 		EutrophicLantern: {
-			DisplayName: ユートロフィックのランタン
+			DisplayName: 富栄養化したランタン
 			Tooltip: ""
 		}
 
 		EutrophicPiano: {
-			DisplayName: ユートロフィックのピアノ
+			DisplayName: 富栄養化したピアノ
 			Tooltip: ""
 		}
 
 		EutrophicPlatform: {
-			DisplayName: ユートロフィックの足場
+			DisplayName: 富栄養化した足場
 			Tooltip: ""
 		}
 
 		EutrophicSink: {
-			DisplayName: ユートロフィックのシンク
+			DisplayName: 富栄養化したシンク
 			Tooltip: 水源としてカウントされる
 		}
 
 		EutrophicTable: {
-			DisplayName: ユートロフィックのテーブル
+			DisplayName: 富栄養化したテーブル
 			Tooltip: ""
 		}
 
 		EutrophicWorkBench: {
-			DisplayName: ユートロフィックの作業台
+			DisplayName: 富栄養化した作業台
 			Tooltip: ""
 		}
 
@@ -14867,12 +14867,12 @@ Items: {
 		}
 
 		PyreMantle: {
-			DisplayName: 薪の外套
+			DisplayName: 薪のマントル
 			Tooltip: ""
 		}
 
 		PyreMantleMolten: {
-			DisplayName: 溶けた薪の外套
+			DisplayName: 溶けた薪のマントル
 			Tooltip: ""
 		}
 
@@ -15072,12 +15072,12 @@ Items: {
 		}
 
 		EutrophicSandWall: {
-			DisplayName: 危険なユートロフィックの砂の壁
+			DisplayName: 危険な富栄養化した砂の壁
 			Tooltip: ""
 		}
 
 		EutrophicSandWallSafe: {
-			DisplayName: ユートロフィックの砂の壁
+			DisplayName: 富栄養化した砂の壁
 			Tooltip: ""
 		}
 
@@ -16096,7 +16096,7 @@ Items: {
 		}
 
 		CausticTear: {
-			DisplayName: 腐食の涙
+			DisplayName: 苛性の涙
 			Tooltip:
 				'''
 				硫黄の海に酸性雨を降らせる
@@ -16224,7 +16224,7 @@ Items: {
 		}
 
 		Starcore: {
-			DisplayName: 星核
+			DisplayName: スターコア
 			Tooltip:
 				'''
 				アストラルビーコンでアストラムデウスを召喚するが、消費されない
@@ -16788,7 +16788,7 @@ Items: {
 			}
 
 			TitanHeartMantle: {
-				DisplayName: タイタンハートの外套
+				DisplayName: タイタンハートのマント
 				Tooltip:
 					'''
 					45%の確率でローグアイテムを消費しない
@@ -17510,7 +17510,7 @@ Items: {
 			}
 
 			MarniteArchitectToga: {
-				DisplayName: マーナイトの建築用外套
+				DisplayName: マーナイトの建築用トーガ
 				Tooltip: ブロックの配置速度が50%向上
 			}
 
@@ -18060,7 +18060,7 @@ Items: {
 		}
 
 		TorrentialTear: {
-			DisplayName: 苛性の涙
+			DisplayName: 豪雨の涙
 			Tooltip:
 				'''
 				雨を召喚する
@@ -18771,12 +18771,12 @@ Items: {
 		CaughtInSunkenSea: "'沈没海で釣れる'"
 
 		AldebaranAlewife: {
-			DisplayName: アルデバランのエールワイフ
+			DisplayName: アルデバランエールワイフ
 			Tooltip: 「魚の形をした星のようなもの」
 		}
 
 		ArcturusAstroidean: {
-			DisplayName: アークトゥルスアストリディアン
+			DisplayName: アークトゥルス・アストロディアン
 			Tooltip: アストラル汚染地帯または硫黄の海で使用すると、釣りパワーが増加する
 		}
 
@@ -18796,12 +18796,12 @@ Items: {
 		}
 
 		ProcyonidPrawn: {
-			DisplayName: プロシオニドプラウン
+			DisplayName: プロシオニドエビ
 			Tooltip: ""
 		}
 
 		TwinklingPollox: {
-			DisplayName: ツウィンクリングポロックス
+			DisplayName: きらめくポルックス
 			Tooltip: 「鱗が水晶のように輝いている」
 		}
 
@@ -18842,17 +18842,17 @@ Items: {
 		}
 
 		CoastalDemonfish: {
-			DisplayName: コアスタルデーモンフィッシュ
+			DisplayName: 海岸の鬼魚
 			Tooltip: 「ツノに触れると呪われる！」
 		}
 
 		CragBullhead: {
-			DisplayName: クラグブルヘッド
+			DisplayName: 岩山のブルヘッド
 			Tooltip: 「その鱗は灼熱のように熱い」
 		}
 
 		DragoonDrizzlefish: {
-			DisplayName: ドラグーンディズルフィッシュ
+			DisplayName: 竜騎兵シグレウオ
 			Tooltip:
 				'''
 				精度の低い火の玉を発射する
@@ -18875,7 +18875,7 @@ Items: {
 		}
 
 		Havocfish: {
-			DisplayName: カオスフィッシュ
+			DisplayName: カオスウオ
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
@@ -18890,17 +18890,17 @@ Items: {
 		}
 
 		Slurpfish: {
-			DisplayName: スラップフィッシュ
+			DisplayName: ススリウオ
 			QuestDescription: 地獄の底にあるって言われてる古代遺跡の魚が欲しいんだけど、流石に危険すぎてさ...というわけで、キミが行ってきて！
 		}
 
 		EutrophicCrate: {
-			DisplayName: ユートロフィッククレート
+			DisplayName: 富栄養化したクレート
 			Tooltip: <right>で開く
 		}
 
 		EutrophicSandfish: {
-			DisplayName: ユートロフィックサンドフィッシュ
+			DisplayName: 富栄養化したハタハタ
 			QuestDescription: 砂漠に住むトカゲが地下深くに逃げ込んだらどうなるか、見たことある？ボクはあるよ！でも、ツルツルしすぎてて、捕まえられそうにないんだ。ボクがペットとして飼えるように、キミが取ってきて！
 		}
 
@@ -18915,7 +18915,7 @@ Items: {
 		}
 
 		PrismaticGuppy: {
-			DisplayName: プリズマティックグッピー
+			DisplayName: プリズム状グッピー
 			Tooltip: 「これを水槽に入れるのは狂気の沙汰だ...」
 		}
 
@@ -18940,7 +18940,7 @@ Items: {
 		}
 
 		Serpentuna: {
-			DisplayName: サーペンツナ
+			DisplayName: ヘビマグロ
 			QuestDescription: 最近、ウミヘビを椅子の上に置いて誰かをビックリさせるのにハマってるんだ。というわけで、いたずらに使うからウミヘビを捕まえてきて！期限は明日ね。
 		}
 
@@ -18954,17 +18954,17 @@ Items: {
 		}
 
 		SunkenSailfish: {
-			DisplayName: サンケンセイルフィッシュ
+			DisplayName: 沈没したバショウカジキ
 			Tooltip: 時速60マイルでズーム
 		}
 
 		SurfClam: {
-			DisplayName: サーフクラム
+			DisplayName: ホッキガイ
 			QuestDescription: 貝って珍味として扱われることもあるらしいよ。噂だと、砂漠の地下の大きな海にたくさん棲みついてるらしくて...だから、ボクのために獲ってきてほしいんだ。そうすれば、キミは料理の腕を磨けるし、ボクはおなかいっぱいになれるでしょ?
 		}
 
 		EnchantedStarfish: {
-			DisplayName: エンチャントされたスターフィッシュ
+			DisplayName: エンチャントされたヒトデ
 			Tooltip:
 				'''
 				永久に最大マナを20増加
@@ -18973,27 +18973,27 @@ Items: {
 		}
 
 		FishofEleum: {
-			DisplayName: フィッシュ・オブ・エレウム
+			DisplayName: エレウムの魚
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
 		FishofFlight: {
-			DisplayName: フィッシュ・オブ・フライト
+			DisplayName: 飛翔の魚
 			Tooltip: <right> を押してソウルを取り出す
 		}
 
 		FishofLight: {
-			DisplayName: フィッシュ・オブ・ライト
+			DisplayName: 光の魚
 			Tooltip: <right> を押してソウルを取り出す
 		}
 
 		FishofNight: {
-			DisplayName: フィッシュ・オブ・ナイト
+			DisplayName: 夜の魚
 			Tooltip: <right> を押してソウルを取り出す
 		}
 
 		GlimmeringGemfish: {
-			DisplayName: グリマーリングジェムフィッシュ
+			DisplayName: きらめく宝石魚
 			Tooltip: <right> を押して宝石を取り出す
 		}
 
@@ -19017,7 +19017,7 @@ Items: {
 		}
 
 		StuffedFish: {
-			DisplayName: スタッフドフィッシュ
+			DisplayName: 詰め物入り魚
 			Tooltip: <right> を押してハーブと種を取り出す
 		}
 
@@ -20372,9 +20372,9 @@ Bestiary: {
 	Toxicatfish: かつては獲物以外に脅威を与えない魚だったが、ドレイドンの古い実験で生じた核廃棄物により肉体と精神が腐敗した。近づくすべてのものを攻撃するようになってしまい、このかつて繁栄していた種は今や絶滅寸前である。
 	Trasher: 子供を丸呑みにできるほどの大きな口を持っているが、これらのクロコダイルは単なる清掃者として行動する。捕食者の食事の残骸や骨を食べることでエネルギーを節約し、脅威を感じない限り最大速度で動くことはほとんどない。
 	BabyGhostBell: 戦争中、膨大な電力が必要だったイルメリス軍によって大量に飼育されたゴーストベルの幼生である。しかし、その努力は無駄に終わり、王国は焼却され、崩壊した。
-	BlindedAngler: 通常の感覚をほとんど持たない捕食者であり、生物音波の一種を用いて周囲を「見る」ことができる。背中の輝く結晶は海の煌めくプリズムを頼りにする獲物を引き寄せ、炎に向かう蛾のように近づかせる。
+	BlindedAngler: 通常の感覚をほとんど持たない捕食者であり、生物音波の一種を用いて周囲を「見る」ことができる。背中の輝く結晶は海のきらめくプリズムを頼りにする獲物を引き寄せ、炎に向かう蛾のように近づかせる。
 	Clam: かつてはイルメリアン海の上層部に住んでいたが、大焼却の後に移動を余儀なくされた。その適応力と強靭さのおかげで種は生き延びたが、運もまた重要な要素だった。
-	EutrophicRay: ユートロフィックレイはゴーストベルと共生関係を形成している。このエイはゴーストベルから得たエネルギーを筋肉の電気刺激に活用し、驚異的な速度で移動できるようにしている。
+	EutrophicRay: 富栄養化したエイはゴーストベルと共生関係を形成している。このエイはゴーストベルから得たエネルギーを筋肉の電気刺激に活用し、驚異的な速度で移動できるようにしている。
 	GhostBell: 高電圧のクラゲであり、その触れるだけでほとんどの生物を無力化させる力を持つ。イルメリス軍はゴーストベルが発生する電気を利用して海を電撃で守り、ヤリムの軍勢を海境に近づけさせなかった。
 	GiantClam: 周囲の魔力を真珠として結晶化する能力を持つ貝である。成長するにつれて真珠も大きくなり、成体になると「オオシャコガイ」と分類され、蓄えた魔力をある程度利用できるようになる。
 	PrismBack: 美しいプリズムと穏やかな性質のおかげで、イルメリスの外でも何世紀にもわたりペットとして飼われてきた動物である。その動きは非常に遅くかさばるため通常の狩りには向かないが、背中の海のプリズムが小さな魚を引き寄せる役割を果たしている。
