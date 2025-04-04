@@ -21459,7 +21459,7 @@ NPCs: {
 	}
 
 	Signus: {
-		DisplayName: 破壊者の使徒、シグナス
+		DisplayName: デバウラーの使者、シグナス
 	}
 
 	CorruptSlimeSpawn: {
@@ -22303,7 +22303,7 @@ BossChecklistIntegration: {
 	}
 
 	Signus: {
-		EntryName: 破壊者の使徒、シグナス
+		EntryName: デバウラーの使者、シグナス
 		SpawnInfo: 地底世界で [i:CalamityMod/RuneofKos] を使用する
 		DespawnMessage: "[c/BA55D3:シグナスは不可解なことに、かつていた場所からいなくなった...]"
 	}
