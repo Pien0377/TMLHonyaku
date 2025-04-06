@@ -3361,7 +3361,7 @@ Items: {
 			}
 
 			TheSwarmer: {
-				DisplayName: ザ・スワーマー
+				DisplayName: ザ・スウォーマー
 				Tooltip: ミツバチとスズメバチの大群を放つ
 			}
 
@@ -12195,7 +12195,7 @@ Items: {
 		}
 
 		GreatSandSharkRelic: {
-			DisplayName: グレートサンドシャークのレリック
+			DisplayName: ホホスナザメのレリック
 			Tooltip: ""
 		}
 
@@ -12639,7 +12639,7 @@ Items: {
 		}
 
 		GreatSandSharkTrophy: {
-			DisplayName: グレートサンドシャークのトロフィー
+			DisplayName: ホホスナザメのトロフィー
 			Tooltip: ""
 		}
 
@@ -16427,7 +16427,7 @@ Items: {
 			}
 
 			FathomSwarmerBoots: {
-				DisplayName: ファソムスワーマーの足甲
+				DisplayName: ファソムスウォーマーの足甲
 				Tooltip:
 					'''
 					召喚ダメージ4%増加
@@ -16437,7 +16437,7 @@ Items: {
 			}
 
 			FathomSwarmerBreastplate: {
-				DisplayName: ファソムスワーマーの鎧
+				DisplayName: ファソムスウォーマーの鎧
 				Tooltip:
 					'''
 					ダメージ軽減率6%増加
@@ -16448,7 +16448,7 @@ Items: {
 			}
 
 			FathomSwarmerVisage: {
-				DisplayName: ファソムスワーマーの面
+				DisplayName: ファソムスウォーマーの面
 				Tooltip:
 					'''
 					召喚ダメージ5%増加
@@ -20879,7 +20879,7 @@ NPCs: {
 	}
 
 	Bumblefuck2: {
-		DisplayName: ドラコニックスワーマー
+		DisplayName: ドラコニックスウォーマー
 	}
 
 	CalamitasClone: {
@@ -21035,7 +21035,7 @@ NPCs: {
 	}
 
 	GreatSandShark: {
-		DisplayName: グレートサンドシャーク
+		DisplayName: ホホスナザメ
 	}
 
 	DankCreeper: {
@@ -21265,7 +21265,7 @@ NPCs: {
 	}
 
 	WildBumblefuck: {
-		DisplayName: ドラコニックスワーマー
+		DisplayName: ドラコニックスウォーマー
 	}
 
 	WulfrumAmplifier: {
