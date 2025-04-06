@@ -342,7 +342,7 @@ Buffs: {
 	}
 
 	ChibiiDoGBuff: {
-		DisplayName: チビ・デバウラー
+		DisplayName: チビデバウラー
 		Description: 何？他の誰かを期待していたのか？
 	}
 
@@ -412,7 +412,7 @@ Buffs: {
 	}
 
 	MiniMindBuff: {
-		DisplayName: ミニ・マインド
+		DisplayName: ミニマインド
 		Description: 全知全能
 	}
 
@@ -427,7 +427,7 @@ Buffs: {
 	}
 
 	PlaguebringerBabBuff: {
-		DisplayName: プレイグブリンガー・ベイビー
+		DisplayName: プレイグブリンガーベイビー
 		Description: プレイグブリンガーの赤ちゃんはあなたを女王だと思っているようだ...
 	}
 
@@ -1030,7 +1030,7 @@ Buffs: {
 	}
 
 	BabySlimeGodBuff: {
-		DisplayName: ミニ・スライムゴッド
+		DisplayName: ミニスライムゴッド
 		Description: スライムゴッドが共に戦ってくれる
 	}
 
@@ -1491,17 +1491,17 @@ Buffs: {
 	}
 
 	PinkJellyRegen: {
-		DisplayName: ピンクジェリー・リジェネ
+		DisplayName: ピンクゼリーリジェネ
 		Description: HP+2/秒のライフリジェネを得る
 	}
 
 	GreenJellyRegen: {
-		DisplayName: グリーンジェリー・リジェネ
+		DisplayName: グリーンゼリーリジェネ
 		Description: 2.5HP/秒のライフリジェネを得る
 	}
 
 	AbsorberRegen: {
-		DisplayName: リジェネガ
+		DisplayName: リジェネラガ
 		Description:
 			'''
 			自然の力に祝福されている
@@ -2256,7 +2256,7 @@ Items: {
 			}
 
 			RelicOfDeliverance: {
-				DisplayName: レリック・オブ・デリヴァランス
+				DisplayName: レリックオブデリヴァランス
 				Tooltip:
 					'''
 					<left> を押すと、突進のチャージを開始する
@@ -2267,7 +2267,7 @@ Items: {
 			}
 
 			RelicOfResilience: {
-				DisplayName: レリック・オブ・レジリエンス
+				DisplayName: レリックオブレジリエンス
 				Tooltip:
 					'''
 					マウスの位置にアーティファクトを召喚する
@@ -3699,7 +3699,7 @@ Items: {
 			}
 
 			BallOFugu: {
-				DisplayName: ボール・オ・フグ
+				DisplayName: ボールオブフグ
 				Tooltip: 追尾する針を吐く魚を放つ
 			}
 
