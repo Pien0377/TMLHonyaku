@@ -2622,7 +2622,7 @@ Items: {
 			}
 
 			ArcticBearPaw: {
-				DisplayName: 北極グマのツメ
+				DisplayName: ホッキョクグマの足
 				Tooltip:
 					'''
 					ブロックを貫通する神秘的なツメを放つ
@@ -3090,7 +3090,7 @@ Items: {
 			}
 
 			NuclearFury: {
-				DisplayName: ニュークリアフューリー
+				DisplayName: 核の怒り
 				Tooltip: 宇宙の台風の奔流をもたらす
 			}
 
@@ -3111,7 +3111,7 @@ Items: {
 			}
 
 			PhantasmalFury: {
-				DisplayName: ファンタズムフューリー
+				DisplayName: 幻影の怒り
 				Tooltip: 幻影の魔法を放ち、爆発させる
 			}
 
@@ -3496,7 +3496,7 @@ Items: {
 			}
 
 			WintersFury: {
-				DisplayName: ウィンターズフューリー
+				DisplayName: 冬の怒り
 				Tooltip:
 					'''
 					カーソルに向かって氷のオーブと氷の破片を発射する
@@ -4224,7 +4224,7 @@ Items: {
 			}
 
 			IridescentExcalibur: {
-				DisplayName: イリデセントエクスカリバー
+				DisplayName: 虹色のエクスカリバー
 				Tooltip:
 					'''
 					敵を凍らせ、ヒット時にプレイヤーを回復させる
@@ -5927,7 +5927,7 @@ Items: {
 			}
 
 			PristineFury: {
-				DisplayName: ピュアフューリーズ
+				DisplayName: プリスティンフューリー
 				Tooltip:
 					'''
 					螺旋状の熱線を放つ
@@ -10617,7 +10617,7 @@ Items: {
 		}
 
 		Nanotech: {
-			DisplayName: ナノテック
+			DisplayName: ナノテクノロジー
 			Tooltip:
 				'''
 				ローグの攻撃が追尾するナノブレードを生み出す
@@ -18400,7 +18400,7 @@ Items: {
 		}
 
 		CodebreakerBase: {
-			DisplayName: コードブレイカーのベース
+			DisplayName: コードブレイカーの基盤
 			Tooltip: ""
 		}
 
