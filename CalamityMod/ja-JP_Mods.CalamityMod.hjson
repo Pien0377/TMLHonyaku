@@ -162,7 +162,7 @@ Buffs: {
 	}
 
 	Dragonfire: {
-		DisplayName: 竜の炎
+		DisplayName: ドラゴンの炎
 		Description: 燃え盛る炎に包まれている
 	}
 
@@ -232,7 +232,7 @@ Buffs: {
 	}
 
 	Vaporfied: {
-		DisplayName: ヴェイパーファイド
+		DisplayName: バイパーファイド
 		Description: 見覚えがのあるアイコンだ...
 	}
 
@@ -342,7 +342,7 @@ Buffs: {
 	}
 
 	ChibiiDoGBuff: {
-		DisplayName: チビ・デバウアー
+		DisplayName: チビデバウラー
 		Description: 何？他の誰かを期待していたのか？
 	}
 
@@ -412,7 +412,7 @@ Buffs: {
 	}
 
 	MiniMindBuff: {
-		DisplayName: ミニ・マインド
+		DisplayName: ミニマインド
 		Description: 全知全能
 	}
 
@@ -427,18 +427,18 @@ Buffs: {
 	}
 
 	PlaguebringerBabBuff: {
-		DisplayName: プレイグブリンガー・ベイビー
+		DisplayName: プレイグブリンガーベイビー
 		Description: プレイグブリンガーの赤ちゃんはあなたを女王だと思っているようだ...
 	}
 
 	RadiatorBuff: {
 		DisplayName: ラジエーター
-		Description: 放射能に汚染されているが...可愛い
+		Description: 放射能があるが...可愛い
 	}
 
 	ReaverOrbBuff: {
-		DisplayName: リーヴァーオーブ
-		Description: リーヴァーオーブが周りを照らしてくれる
+		DisplayName: リーバーオーブ
+		Description: リーバーオーブが周りを照らしてくれる
 	}
 
 	SparksBuff: {
@@ -452,7 +452,7 @@ Buffs: {
 	}
 
 	YharonSonBuff: {
-		DisplayName: ヤーロンの息子
+		DisplayName: ヤロンの息子
 		Description: 彼の夕食には手を出すな！
 	}
 
@@ -517,7 +517,7 @@ Buffs: {
 	}
 
 	AstralInjectionBuff: {
-		DisplayName: 星の注射
+		DisplayName: アストラルの注射
 		Description: マナが回復する
 	}
 
@@ -596,7 +596,7 @@ Buffs: {
 	}
 
 	WeaponImbueCrumbling: {
-		DisplayName: 武器強化：老朽化
+		DisplayName: 武器強化：崩壊
 		Description: 近接攻撃、ムチ、ローグ攻撃がヒットすると敵のダメージ耐性を減少させる
 	}
 
@@ -833,7 +833,7 @@ Buffs: {
 	}
 
 	ReaverRage: {
-		DisplayName: リーヴァーの怒り
+		DisplayName: リーバーの怒り
 		Description: 怒っている
 	}
 
@@ -883,7 +883,7 @@ Buffs: {
 	}
 
 	Crumbling: {
-		DisplayName: 老朽化
+		DisplayName: 崩壊
 		Description: 鎧がボロボロだ...
 	}
 
@@ -917,7 +917,7 @@ Buffs: {
 	}
 
 	FishAlert: {
-		DisplayName: 発見された
+		DisplayName: 魚の警告
 		Description: 深淵の生物に見つかってしまった！
 	}
 
@@ -932,7 +932,7 @@ Buffs: {
 	}
 
 	GlacialState: {
-		DisplayName: 凍結
+		DisplayName: 氷河状態
 		Description: 動けない...
 	}
 
@@ -951,7 +951,7 @@ Buffs: {
 	}
 
 	KamiFlu: {
-		DisplayName: Kami Flu
+		DisplayName: 神のインフルエンザ
 		Description: 無防備で瀕死の状態
 	}
 
@@ -1030,7 +1030,7 @@ Buffs: {
 	}
 
 	BabySlimeGodBuff: {
-		DisplayName: ミニ・スライムゴッド
+		DisplayName: ミニスライムゴッド
 		Description: スライムゴッドが共に戦ってくれる
 	}
 
@@ -1061,7 +1061,7 @@ Buffs: {
 
 	BrittleStar: {
 		DisplayName: 脆い星
-		Description: もろい星が共に戦ってくれる
+		Description: 脆い星が共に戦ってくれる
 	}
 
 	CalamarisLamentBuff: {
@@ -1105,7 +1105,7 @@ Buffs: {
 	}
 
 	CosmicViperEngineBuff: {
-		DisplayName: コズミックヴァイパー
+		DisplayName: コズミックバイパー
 		Description: 宇宙のガンシップが共に戦ってくれる
 	}
 
@@ -1140,8 +1140,8 @@ Buffs: {
 	}
 
 	DemonshadeSetDevilBuff: {
-		DisplayName: 赤い悪魔
-		Description: 赤い悪魔が共に戦ってくれる
+		DisplayName: レッドデビル
+		Description: レッドデビルが共に戦ってくれる
 	}
 
 	ElementalAxeBuff: {
@@ -1176,7 +1176,7 @@ Buffs: {
 
 	FieryDraconidBuff: {
 		DisplayName: 灼熱のドラゴン
-		Description: 燃える竜が共に戦ってくれる
+		Description: 燃えるドラゴンが共に戦ってくれる
 	}
 
 	FleshBallBuff: {
@@ -1441,7 +1441,7 @@ Buffs: {
 	}
 
 	TacticalPlagueEngineBuff: {
-		DisplayName: 汚染されたタクティカルエンジン
+		DisplayName: 感染したタクティカルエンジン
 		Description: プレイグジェットが共に戦ってくれる
 	}
 
@@ -1476,8 +1476,8 @@ Buffs: {
 	}
 
 	WaterWaifu: {
-		DisplayName: アナヒタ
-		Description: アナヒタが共に戦ってくれる
+		DisplayName: アナーヒター
+		Description: アナーヒターが共に戦ってくれる
 	}
 
 	WitherBlossomsBuff: {
@@ -1491,17 +1491,17 @@ Buffs: {
 	}
 
 	PinkJellyRegen: {
-		DisplayName: ピンクジェリー・リジェネ
+		DisplayName: ピンクゼリーリジェネ
 		Description: HP+2/秒のライフ自然回復を得る
 	}
 
 	GreenJellyRegen: {
-		DisplayName: グリーンジェリー・リジェネ
+		DisplayName: グリーンゼリーリジェネ
 		Description: 2.5HP/秒のライフ自然回復を得る
 	}
 
 	AbsorberRegen: {
-		DisplayName: リジェネガ
+		DisplayName: リジェネラガ
 		Description:
 			'''
 			自然の力に祝福されている
@@ -1538,7 +1538,7 @@ Items: {
 			Lore:
 				'''
 				深海には視覚を持たない裂け目が数多く存在するが、この裂け目は地質学的に驚異的だ。それは不気味なほど海岸の近くに位置している。
-				何億年もの地殻変動があっても、この裂け目は封じられたり潰されたりすることはなかった。孤立した深淵は、アナヒタや他の隠遁した海の生物たちの、議論の余地はあるが平穏な住処だ。
+				何億年もの地殻変動があっても、この裂け目は封じられたり潰されたりすることはなかった。孤立した深淵は、アナーヒターや他の隠遁した海の生物たちの、議論の余地はあるが平穏な住処だ。
 				ここで私は、生命の女神シルヴァの遺骸を処分した。神々の中でも彼女は死を受け入れることを拒んだ。
 				私の願いは彼女が忘れ去られることだったが、彼女の執念と意志の力は驚異的だった。彼女の影響力は拡散し、その圧倒的な圧力の穴を、豊かな植物と動物で満たしていった。
 				彼女の大きな根は、途方もない密度の石を引き裂き、制御不能なほどに成長している。
@@ -1558,7 +1558,7 @@ Items: {
 		}
 
 		LoreArchmage: {
-			DisplayName: 大魔道士
+			DisplayName: 大魔導士
 			Lore:
 				'''
 				まだ生きていたのか...カラミタスに殺されたと思っていたが、彼女は彼の命を助けるために大魔道師を封印したようだ。
@@ -1570,14 +1570,14 @@ Items: {
 		}
 
 		LoreAstralInfection: {
-			DisplayName: 星の汚染
+			DisplayName: アストラル感染
 			Lore:
 				'''
 				この夢のような風景は、君の土地にあるありふれた腐敗とほとんど同じだ。
 				詳細なプロセスは不明だが、星々も死ぬことがある。その残骸が放置されると、やがて膨れ上がり、腐り果てる。通常、何らかの秩序が維持される。
 				これは生命の循環に似ている。宇宙の存在たちは、計り知れない虚無を探索し、腐肉を拾い、清潔な骨だけを残す。
-				汚染自体は、宇宙からの攪乱だ。それは独自の意志を持ち、生命や土地にその意志を投影する。
-				宇宙の真の姿を理解できる者には汚染に対して耐性がある。彼らは、あるべき真理に打たれることはなく、ましてや膿のようなものに呑まれることなどない。
+				感染自体は、宇宙からの攪乱だ。それは独自の意志を持ち、生命や土地にその意志を投影する。
+				宇宙の真の姿を理解できる者には感染に対して耐性がある。彼らは、あるべき真理に打たれることはなく、ましてや膿のようなものに呑まれることなどない。
 				'''
 		}
 
@@ -1585,9 +1585,9 @@ Items: {
 			DisplayName: アストラムアウレウス
 			Lore:
 				'''
-				現実的なドレイドンは、アストラルの汚染の原因を突き止め、分析するためにこの機械を派遣した。
+				現実的なドレイドンは、アストラル感染の原因を突き止め、分析するためにこの機械を派遣した。
 				名目上は偵察用だが、アウレウスは重武装で、どんな地形にも対応できる。
-				少なくとも汚染に同化されるまでは、素晴らしい性能を見せていた。
+				少なくとも感染に同化されるまでは、素晴らしい性能を見せていた。
 				知恵のある精神は、感染に抵抗できるだけの意志力を持っている。
 				しかし......どんな精巧なシリコンであろうと、その手が届かないわけではない。ドレイドンは自らの創造物が従属することを望んでいたのだ。
 				この実験が終わった今、次に彼が注目するのは間違いなく君自身だ。気を付けろ。
@@ -1700,7 +1700,7 @@ Items: {
 		}
 
 		LoreCeaselessVoid: {
-			DisplayName: シースレスヴォイド
+			DisplayName: シーセレスボイド
 			Lore:
 				'''
 				封じられたポータルがダンジョン内に存在していた。管理していたカルト集団は、その存在を極秘にしていた。
@@ -1781,7 +1781,7 @@ Items: {
 		}
 
 		LoreDevourerofGods: {
-			DisplayName: デバウアー・オブ・ゴッド
+			DisplayName: デバウラーオブゴッド
 			Lore:
 				'''
 				悪名高き、この世のものとは思えないほどの大食漢。彼の壮大な称号は自らが授けたものだが、実際、真実であったため定着した。 
@@ -1795,15 +1795,15 @@ Items: {
 		}
 
 		LoreDragonfolly: {
-			DisplayName: ドラゴンフォーリー
+			DisplayName: ドラゴンフォリー
 			Lore:
 				'''
-				竜の時代の終焉に、「不純な」ドラゴン種族についての記録が残されている。
+				ドラゴンの時代の終焉に、「不純な」ドラゴン種族についての記録が残されている。
 				ワイバーン、バシリスク、ピグロンなどがその例だが、それらがどのように生まれたのかについては未だ謎のままだ。
 				今日に至るまで、学者たちは、これらの生物の真の名前や血統についていまだに議論を続けている。
 				名前はともかく、初期の派生種は先祖の持つ強大な力を維持していたことは明らかだ。
 				当然のように、彼らは残酷な神の命令により、そのほとんどが絶滅に追い込まれた。
-				フィッシュロン、フォーリー、そして深淵の竜のみが、神々の狩猟から生き残った。
+				フィッシュロン、フォリー、そして深淵のワームのみが、神々の狩猟から生き残った。
 				現在、これらはすべて消極的であったり、逆に非常に攻撃的であったりする。彼らがそのように進化してしまったことは、悲劇的と言わざるを得ない。
 				'''
 		}
@@ -1822,7 +1822,7 @@ Items: {
 		}
 
 		LoreEaterofWorlds: {
-			DisplayName: イーター・オブ・ワールド
+			DisplayName: イーターオブワールド
 			Lore:
 				'''
 				強大な存在は、必ずその壮大さと恐怖を伴う伝説を呼び起こすものだ。この巨大なワームも例外ではない。
@@ -1906,15 +1906,15 @@ Items: {
 		}
 
 		LoreLeviathanAnahita: {
-			DisplayName: リヴァイアサンとアナヒタ
+			DisplayName: リヴァイアサンとアナーヒター
 			Lore:
 				'''
 				彼女は世界中の海を支配すると主張しているが、実際には深海の臆病者である。
-				アナヒタのようなエレメンタルは周囲にとって重大な脅威となる。他のエレメンタルも例外ではない。
-				アナヒタはシルヴァの植物が深淵に侵食したことで、故郷から追い出された。
-				彼女のそばにいる巨大な獣については諸説ある。ある者はアナヒタ自身がリヴァイアサンを召喚したと言っていた。
+				アナーヒターのようなエレメンタルは周囲にとって重大な脅威となる。他のエレメンタルも例外ではない。
+				アナーヒターはシルヴァの植物が深淵に侵食したことで、故郷から追い出された。
+				彼女のそばにいる巨大な獣については諸説ある。ある者はアナーヒター自身がリヴァイアサンを召喚したと言っていた。
 				どの説を信じるかはともかく、彼らは死してなお離れることはない。
-				その揺るぎない忠誠心...まるでヤーロンのようだ...
+				その揺るぎない忠誠心...まるでヤロンのようだ...
 				'''
 		}
 
@@ -1936,7 +1936,7 @@ Items: {
 			Lore:
 				'''
 				それはおそらく、この星で最も古い平凡な生命体の一つだった。
-				最初のフィッシュロンが目撃されたのは竜の時代の中期。何とも異国情緒に満ちているではないか！
+				最初のフィッシュロンが目撃されたのはドラゴンの時代の中期。何とも異国情緒に満ちているではないか！
 				フィッシュロンは純血のオーリックドラゴンから派生した一種だった。
 				その古さと荘厳さから、多くの歴史家は彼らが伝説上の海の怪物の起源だと確信している。
 				この公爵の狡猾さは明白だ。何世紀もの狩猟を逃れ、入念な暗殺をも生き延びた。
@@ -1956,7 +1956,7 @@ Items: {
 		}
 
 		LorePlaguebringerGoliath: {
-			DisplayName: プレイグブリンガーゴライアス
+			DisplayName: プレイグブリンガーゴリアテ
 			Lore:
 				'''
 				無垢なる女王が、無惨な姿に変えられた。この仕打ちは自然への冒涜に他ならない。
@@ -1993,7 +1993,7 @@ Items: {
 				牢獄に収容していた多くの囚人たちが、看守とともに死んでいた。
 				その呪われた壁の中では、誰も安息を知ることはできない。彼らの魂は無形の怪物へと変貌したのだ。
 				怒りに燃え、悲嘆に沈み、狂気に叫ぶ。その混沌たる集合体は制御不能だった。
-				竜の教団は激怒し、その指導者は私にここを封鎖し、亡霊を自ら討つよう要求した。
+				ドラゴンの教団は激怒し、その指導者は私にここを封鎖し、亡霊を自ら討つよう要求した。
 				私は応えなかった。外の世界には、もはや耳を貸さなくなっていたのだ。
 				君は、私のようにはなるな。
 				'''
@@ -2003,7 +2003,7 @@ Items: {
 			DisplayName: 前兆
 			Lore:
 				'''
-				かつて「竜の時代」と呼ばれる時代において、偉大なるドラゴンたちはテラリアをあらゆる脅威から守っていた。
+				かつて「ドラゴンの時代」と呼ばれる時代において、偉大なるドラゴンたちはテラリアをあらゆる脅威から守っていた。
 				しかし、星の彼方より現れた異形の巨獣が、ドラゴンたちを襲った。
 				全力を尽くして戦ったドラゴンたちはその怪物を傷つけ、弱体化させることには成功したものの、完全に滅ぼすことはできなかった。
 				選択肢を失った彼らは、その怪物を元の姿の影も形もないまでに破壊し、封印するほかなかった。
@@ -2027,7 +2027,7 @@ Items: {
 		}
 
 		LoreProvidence: {
-			DisplayName: 冒涜された女神、プロヴィデンス
+			DisplayName: 冒涜された女神、プロビデンス
 			Lore:
 				'''
 				素晴らしい日だ。
@@ -2079,10 +2079,10 @@ Items: {
 			DisplayName: 鎮魂歌
 			Lore:
 				'''
-				光の竜が命尽きようとしているとき、ある僧侶が訪れた。その日に何が起きたのか、ほとんど知られていない。
+				光のドラゴンが命尽きようとしているとき、ある僧侶が訪れた。その日に何が起きたのか、ほとんど知られていない。
 				多くはその死が安らかだったと言う。だが真実は、ゼラトロスのオーリックソウルが完全に喰らわれただけであった。
 				僧侶は立ち上がり、原初の光をまとい、自らを原初の神「ゼロック」と名乗った。
-				竜が巣で眠るとき、その力は解放され、いつの日か戻ると言われている。
+				ドラゴンが巣で眠るとき、その力は解放され、いつの日か戻ると言われている。
 				しかし、ゼロックは誓いを捨て、その円環を断ち切り、比類なき裏切り者となった。
 				その噂は瞬く間に広まった。 オーリックソウルを自分のものにしようと、多くの人々がそれに続こうとした。
 				お分かりかもしれないが...善意であろうと悪意であろうと、すべての神は罪人だ。彼ら全員が大虐殺に加担している。
@@ -2110,7 +2110,7 @@ Items: {
 			Lore:
 				'''
 				ある古代のカルトに捕まり、その古代の図書館に侵入した罰として呪われた不運な老人。
-				彼らはかつて私の友人だった。リーダーは竜に取り憑かれており、竜を蘇らせるという夢を抱いている。
+				彼らはかつて私の友人だった。リーダーはドラゴンに取り憑かれており、ドラゴンを蘇らせるという夢を抱いている。
 				その場所の壁そのものも呪われており、魔法はすでに消え去り、兵士たちは朽ち果てている。
 				彼らのくすんだ本から学べるとは思わない方が良いだろう。それらは誤った狂信に基づいて書かれている。
 				'''
@@ -2191,7 +2191,7 @@ Items: {
 		}
 
 		LoreWallofFlesh: {
-			DisplayName: ウォール・オブ・フレッシュ
+			DisplayName: ウォールオブフレッシュ
 			Lore:
 				'''
 				殺された神のエッセンスを封じ込めることは簡単なことではない。これはそれを実現したおぞましい構造物だ。
@@ -2204,23 +2204,23 @@ Items: {
 		}
 
 		LoreYharon: {
-			DisplayName: 再臨の不死鳥、ヤーロン
+			DisplayName: 再臨の不死鳥、ヤロン
 			Lore:
 				'''
-				竜の時代は無惨にも終わりを迎え、すべてが風に舞う灰と化した...
-				ヤーロンはオーリックドラゴンの最後の生き残りだった。彼は不死鳥の力も携えている。
+				ドラゴンの時代は無惨にも終わりを迎え、すべてが風に舞う灰と化した...
+				ヤロンはオーリックドラゴンの最後の生き残りだった。彼は不死鳥の力も携えている。
 				神々は彼を同胞と共に抹殺したと思っていたが、彼の卵は巣に隠されていた。
 				私は、彼が孵化したときにそのオーリックソウルを喰らい、神の王として永遠に君臨するつもりだった。
 
 				[c/FCA92B:運命は弱者のものだ]
 
 				私は彼らの気まぐれを拒絶し、その計画を覆した。その結果、反逆罪で処刑を宣告された。
-				奴らの卑屈で取り入る豚どもは、ヤーロンの卵と私を地獄の溶岩に投げ込んだ。
-				その激しい熱は私に恐ろしい傷を負わせたが、ヤーロンを新たに誕生させた。彼は炎に包まれながら蘇り、私の命を救った。
+				奴らの卑屈で取り入る豚どもは、ヤロンの卵と私を地獄の溶岩に投げ込んだ。
+				その激しい熱は私に恐ろしい傷を負わせたが、ヤロンを新たに誕生させた。彼は炎に包まれながら蘇り、私の命を救った。
 				その日から、私たちの魂は一つとなった。彼はゼラトロスの物語と、その同胞の虐殺について私に語ってくれた。
-				私は彼に正義を誓い、それから戦争が始まった。ヤーロンは希望の灯火としてすべてを導いた。
+				私は彼に正義を誓い、それから戦争が始まった。ヤロンは希望の灯火としてすべてを導いた。
 				だが今、その希望はとうに枯れ果てた。私はかつての英雄の面影もない、ただの抜け殻にすぎない。
-				ヤーロンはまだ再び戻ってくるのかもしれないが...彼は......彼は私に別れを告げたのだ。
+				ヤロンはまだ再び戻ってくるのかもしれないが...彼は......彼は私に別れを告げたのだ。
 				'''
 		}
 	}
@@ -2237,7 +2237,7 @@ Items: {
 			}
 
 			EyeofMagnus: {
-				DisplayName: アイ・オブ・マグナス
+				DisplayName: マグナスの目
 				Tooltip:
 					'''
 					敵の防御力を低下させる強力なビームを発射する
@@ -2256,7 +2256,7 @@ Items: {
 			}
 
 			RelicOfDeliverance: {
-				DisplayName: レリック・オブ・デリヴァレンス
+				DisplayName: 救済の遺跡
 				Tooltip:
 					'''
 					<left> を押すと、突進のチャージを開始する
@@ -2267,7 +2267,7 @@ Items: {
 			}
 
 			RelicOfResilience: {
-				DisplayName: レリック・オブ・レジリエンス
+				DisplayName: 回復力の遺物
 				Tooltip:
 					'''
 					マウスの位置にアーティファクトを召喚する
@@ -2292,12 +2292,12 @@ Items: {
 			}
 
 			StarStruckWater: {
-				DisplayName: 星の水
-				Tooltip: ブロックにアストラルの汚染を広げる
+				DisplayName: スターストラックウォーター
+				Tooltip: ブロックにアストラル感染を広げる
 			}
 
 			YanmeisKnife: {
-				DisplayName: ヤンメイのナイフ
+				DisplayName: ヤンメイの包丁
 				Tooltip:
 					'''
 					ヒットした敵は行動不能になる
@@ -2442,7 +2442,7 @@ Items: {
 				DisplayName: パルスドラゴン
 				Tooltip:
 					'''
-					ダメージを与える電界を放つ2つのメカニカルな竜の頭を投げる
+					ダメージを与える電界を放つ2つのメカニカルなドラゴンの頭を投げる
 					[c/1FFBFF:「ヤリムはこの武器を製作するにあたって、昔のドラゴンをモデルにするよう特別に要求した」]
 					[c/1FFBFF:「くだらないな...」]
 					'''
@@ -2588,7 +2588,7 @@ Items: {
 			}
 
 			AnahitasArpeggio: {
-				DisplayName: アナヒタのアルペジオ
+				DisplayName: アナーヒターのアルペジオ
 				Tooltip: 敵を混乱させるゆっくりと動く音符を放つ
 			}
 
@@ -2622,7 +2622,7 @@ Items: {
 			}
 
 			ArcticBearPaw: {
-				DisplayName: 北極グマのツメ
+				DisplayName: ホッキョクグマの足
 				Tooltip:
 					'''
 					ブロックを貫通する神秘的なツメを放つ
@@ -2728,11 +2728,11 @@ Items: {
 				DisplayName: サンゴスポウト
 				Tooltip:
 					'''
-					ショットガンのように珊瑚の破片を放つ
+					ショットガンのようにサンゴの破片を放つ
 					攻撃ボタンを押し続けてると範囲を狭めることができる
 					フルチャージすると、敵にくっつく大きめのサンゴの塊を発射する
-					敵にくっついた珊瑚の塊は一定時間経つと剥がれ落ち、拾うと150マナ回復する
-					珊瑚の塊を拾うと、サンゴのダメージとチャージ速度を増加させるバフが付与される
+					敵にくっついたサンゴの塊は一定時間経つと剥がれ落ち、拾うと150マナ回復する
+					サンゴの塊を拾うと、サンゴのダメージとチャージ速度を増加させるバフが付与される
 					[c/5C95A1:「知識は重要であり、古の海の王国の多くの書記官たちは、それをどんな犠牲を払っても保存しなければならないことを理解していた]
 					[c/5C95A1:　彼らの図書館は他のものよりも大規模であった...なぜなら、水に強い石の板で埋め尽くされていたからである」]
 					'''
@@ -2795,7 +2795,7 @@ Items: {
 			}
 
 			EidolicWail: {
-				DisplayName: 幽玄の慟哭
+				DisplayName: エイドリックウェイル
 				Tooltip:
 					'''
 					時間経過で強化される音波を発射する
@@ -2805,7 +2805,7 @@ Items: {
 # むやみに訳すとおかしくなりそうなのでとりあえずこのままに。訳すとしたら幽玄のスピーカー？あたりがいいかも。案募集。
 
 			EidolonStaff: {
-				DisplayName: 幽玄の杖
+				DisplayName: エイドロンの杖
 				Tooltip: 氷塊と太古の光を放つ
 			}
 
@@ -2867,7 +2867,7 @@ Items: {
 			}
 
 			FatesReveal: {
-				DisplayName: フェイトリヴィール
+				DisplayName: フェイトリベイル
 				Tooltip: 敵の近くに幽霊のような火の玉を生み出し、攻撃する
 			}
 
@@ -3023,7 +3023,7 @@ Items: {
 			}
 
 			LashesofChaos: {
-				DisplayName: ラーシーズ・オブ・カオス
+				DisplayName: 混沌のむち
 				Tooltip: 「世界が燃えるのを見よ...」
 			}
 
@@ -3090,7 +3090,7 @@ Items: {
 			}
 
 			NuclearFury: {
-				DisplayName: ニュークリアフューリー
+				DisplayName: 核の怒り
 				Tooltip: 宇宙の台風の奔流をもたらす
 			}
 
@@ -3107,11 +3107,11 @@ Items: {
 
 			ParasiticSceptor: {
 				DisplayName: パラサイトセプター
-				Tooltip: 敵にまとわりつく放射能に汚染されたヒルを放ち、ヒットした敵は時間経過とともにダメージが増加する
+				Tooltip: 敵にまとわりつく放射能のヒルを放ち、ヒットした敵は時間経過とともにダメージが増加する
 			}
 
 			PhantasmalFury: {
-				DisplayName: ファンタズムフューリー
+				DisplayName: 幻影の怒り
 				Tooltip: 幻影の魔法を放ち、爆発させる
 			}
 
@@ -3284,7 +3284,7 @@ Items: {
 			}
 
 			StaffofBlushie: {
-				DisplayName: ブルーシーの杖
+				DisplayName: ブルーシースタッフ
 				Tooltip: 「マウスを握りしめ、待て、待ち続けろ...青魔法の力を信じるんだ」
 			}
 
@@ -3315,7 +3315,7 @@ Items: {
 			}
 
 			TearsofHeaven: {
-				DisplayName: ティアーズ・オブ・ヘブン
+				DisplayName: 天国の涙
 				Tooltip: ゆっくりと動き、追尾する天の光を放つ
 			}
 
@@ -3342,7 +3342,7 @@ Items: {
 			}
 
 			TheDanceofLight: {
-				DisplayName: ダンス・オブ・ライト
+				DisplayName: 光の舞踏
 				Tooltip:
 					'''
 					光の刃の嵐を敵に浴びせる
@@ -3361,7 +3361,7 @@ Items: {
 			}
 
 			TheSwarmer: {
-				DisplayName: ザ・スワーマー
+				DisplayName: ザ・スウォーマー
 				Tooltip: ミツバチとスズメバチの大群を放つ
 			}
 
@@ -3424,7 +3424,7 @@ Items: {
 			}
 
 			VeeringWind: {
-				DisplayName: ヴェーリングウインド
+				DisplayName: ヴィアリングウィンド
 				Tooltip:
 					'''
 					高いノックバックを持つ風の波を放つ
@@ -3433,7 +3433,7 @@ Items: {
 			}
 
 			Vehemence: {
-				DisplayName: ヴィーエメンス
+				DisplayName: ヴィーヘマンス
 				Tooltip: 地獄のボルトを放ち、何かに当たると爆発してドクロの煙を撒き散らす
 			}
 
@@ -3443,7 +3443,7 @@ Items: {
 			}
 
 			Vesuvius: {
-				DisplayName: ヴェスビオ
+				DisplayName: ヴェスヴィオ
 				Tooltip:
 					'''
 					4つの灼熱の小惑星を召喚する
@@ -3466,7 +3466,7 @@ Items: {
 			}
 
 			VividClarity: {
-				DisplayName: ヴィヴィッドクラリティ
+				DisplayName: ビビッドクラリティ
 				Tooltip:
 					'''
 					カーソルに向かってランダムに5本の光線を発射する
@@ -3476,7 +3476,7 @@ Items: {
 			}
 
 			VoidVortex: {
-				DisplayName: ヴォイドボルテックス
+				DisplayName: ボイドボルテックス
 				Tooltip: カーソルの周囲に超強力な磁気の渦を巻き起こす
 			}
 
@@ -3491,12 +3491,12 @@ Items: {
 			}
 
 			Wingman: {
-				DisplayName: ウイングマン
+				DisplayName: ウィングマン
 				Tooltip: レーザービームを発射する
 			}
 
 			WintersFury: {
-				DisplayName: ウィンターズフューリー
+				DisplayName: 冬の怒り
 				Tooltip:
 					'''
 					カーソルに向かって氷のオーブと氷の破片を発射する
@@ -3505,7 +3505,7 @@ Items: {
 			}
 
 			WrathoftheAncients: {
-				DisplayName: レイス・オブ・ジ・エンシェント
+				DisplayName: 古代の怒り
 				Tooltip: カーソル位置にエネルギーパルスを召喚し 一定間隔で追尾する霊を発生させる
 			}
 
@@ -3607,7 +3607,7 @@ Items: {
 			}
 
 			ArkoftheCosmos: {
-				DisplayName: アーク・オブ・ザ・コスモス
+				DisplayName: アーク・オブ・ジ・コスモス
 				Tooltip:
 					'''
 					[COMBO]
@@ -3679,7 +3679,7 @@ Items: {
 			}
 
 			Avalanche: {
-				DisplayName: アヴァランチ
+				DisplayName: アバランチ
 				Tooltip: 敵にヒットすると3秒後に爆発して氷の破片になる氷の爆弾を放つ
 			}
 
@@ -3699,7 +3699,7 @@ Items: {
 			}
 
 			BallOFugu: {
-				DisplayName: ボール・オ・フグ
+				DisplayName: ボールオブフグ
 				Tooltip: 追尾する針を吐く魚を放つ
 			}
 
@@ -3758,7 +3758,7 @@ Items: {
 			}
 
 			BrinyBaron: {
-				DisplayName: フライニーバロン
+				DisplayName: ブリニーバロン
 				Tooltip:
 					'''
 					敵に攻撃すると、海の竜巻が出現する
@@ -3910,7 +3910,7 @@ Items: {
 				DisplayName: ドラコニック・デストラクション
 				Tooltip:
 					'''
-					竜の剣のビームを発射し、敵にヒットすると分裂する
+					ドラゴンの剣のビームを発射し、敵にヒットすると分裂する
 					その後、ビームが上下に飛んで敵を切り刻む
 					'''
 			}
@@ -3934,7 +3934,7 @@ Items: {
 			}
 
 			Earth: {
-				DisplayName: アースブレード
+				DisplayName: アース
 				Tooltip:
 					'''
 					攻撃がヒットすると敵の防御力を1下げ、プレイヤーのライフを回復する
@@ -3982,7 +3982,7 @@ Items: {
 			}
 
 			EutrophicScimitar: {
-				DisplayName: ユートロシックシミター
+				DisplayName: ユートロフィックシミター
 				Tooltip: 敵をスタンさせる2本のビームを放つ
 			}
 
@@ -4096,7 +4096,7 @@ Items: {
 			}
 
 			GaelsGreatsword: {
-				DisplayName: ゲールの大剣
+				DisplayName: ガエルの大剣
 				Tooltip:
 					'''
 					一振り目は追尾するガイコツを放つ
@@ -4214,7 +4214,7 @@ Items: {
 			}
 
 			IllustriousKnives: {
-				DisplayName: アラストリアスナイフ
+				DisplayName: イラストリアスナイフ
 				Tooltip: 使用者を回復させる追尾ナイフを投げつける
 			}
 
@@ -4224,7 +4224,7 @@ Items: {
 			}
 
 			IridescentExcalibur: {
-				DisplayName: イリデセントエクスカリバー
+				DisplayName: 虹色のエクスカリバー
 				Tooltip:
 					'''
 					敵を凍らせ、ヒット時にプレイヤーを回復させる
@@ -4312,7 +4312,7 @@ Items: {
 				Tooltip:
 					'''
 					強大な敵をも切り裂く高周波ブレード
-					この剣を解き放つために、デバウアー・オブ・ゴッドを倒し、己の価値を証明せよ
+					この剣を解き放つために、デバウラーオブゴッドを倒し、己の価値を証明せよ
 					[c/F41A31:「オーケー、いざ参る！」]
 					'''
 			}
@@ -4368,7 +4368,7 @@ Items: {
 			}
 
 			OmegaBiomeBlade: {
-				DisplayName: トゥルーバイオームブレード
+				DisplayName: 真・バイオームブレード
 				Tooltip:
 					'''
 					[FUNC]
@@ -4538,7 +4538,7 @@ Items: {
 			}
 
 			SausageMaker: {
-				DisplayName: ソーセージスピア
+				DisplayName: ソーセージメーカー
 				Tooltip: ヒット時に追尾する血を噴射する
 			}
 
@@ -4594,7 +4594,7 @@ Items: {
 			}
 
 			SpineOfThanatos: {
-				DisplayName: スパイン・オブ・タナトス
+				DisplayName: スパインオブタナトス
 				Tooltip:
 					'''
 					正面に一本、側面に2本金属のムチを放つ
@@ -4688,7 +4688,7 @@ Items: {
 			}
 
 			TaintedBlade: {
-				DisplayName: 汚染された剣
+				DisplayName: テインテッドブレード
 				Tooltip: 敵に毒を与える
 			}
 
@@ -4772,9 +4772,9 @@ Items: {
 				DisplayName: ザ・マイクロウェーブ
 				Tooltip:
 					'''
-					近くの敵を毒の霧で汚染する
+					近くの敵を放射線で焼き尽くす
 					極めて機敏なヨーヨー
-					「料理に、アストラルの汚染をひとつまみ」
+					「料理に、アストラル感染をひとつまみ」
 					'''
 			}
 
@@ -4823,12 +4823,12 @@ Items: {
 			}
 
 			TriactisTruePaladinianMageHammerofMightMelee: {
-				DisplayName: トリアクティスのトゥルーパラディンハンマー
+				DisplayName: トリアクティスの真・パラディアンメイジハンマー・オブ・マイト
 				Tooltip: 敵に当たると爆発する
 			}
 
 			TrueArkoftheAncients: {
-				DisplayName: トゥルーアーク・オブ・ジ・エンシェント
+				DisplayName: アーク・オブ・ジ・エンシェント
 				Tooltip:
 					'''
 					[PARRY]
@@ -4862,7 +4862,7 @@ Items: {
 			}
 
 			TrueCausticEdge: {
-				DisplayName: トゥルーコースティックエッジ
+				DisplayName: コースティックエッジ
 				Tooltip:
 					'''
 					跳ね返る毒のビームを発射
@@ -4896,22 +4896,22 @@ Items: {
 			}
 
 			VeinBurster: {
-				DisplayName: ヴェインブラスター
+				DisplayName: ベインブラスター
 				Tooltip: ブロックに付着して爆発する血玉を発射する
 			}
 
 			Violence: {
-				DisplayName: ヴァイオレンス
+				DisplayName: バイオレンス
 				Tooltip: カーソルに追従する槍を投げる
 			}
 
 			Virulence: {
-				DisplayName: ヴィルレンス
+				DisplayName: ビルレンス
 				Tooltip: 疫病の煙を発射する
 			}
 
 			VoidEdge: {
-				DisplayName: 虚無の剣
+				DisplayName: ボイドエッジ
 				Tooltip:
 					'''
 					深淵の魂を放つ
@@ -4920,12 +4920,12 @@ Items: {
 			}
 
 			VulcaniteLance: {
-				DisplayName: ヴァルカナイトランス
+				DisplayName: バルカナイトランス
 				Tooltip: 敵に当たると爆発し、クリティカルヒットで追尾するフレアを召喚する
 			}
 
 			WindBlade: {
-				DisplayName: ウインドブレード
+				DisplayName: ウィンドブレード
 				Tooltip: 敵を吸い込む竜巻を放つ
 			}
 
@@ -4943,7 +4943,7 @@ Items: {
 			}
 
 			YateveoBloom: {
-				DisplayName: ヤテベ・オブ・ルーム
+				DisplayName: ヤテベオ・ブルーム
 				Tooltip:
 					'''
 					「ジャングルの植物のすべて」
@@ -4989,7 +4989,7 @@ Items: {
 				Tooltip:
 					'''
 					一度に6本の矢の奔流を放つ
-					木製の矢をサメ、豪雨、台風の矢に変換する
+					木の矢をサメ、豪雨、台風の矢に変換する
 					'''
 			}
 
@@ -5021,7 +5021,7 @@ Items: {
 					'''
 					[c/9c0b0b:憎悪に満ちたショットガンの弾幕を発射...おまけつき]
 					[c/ac14ba:右クリックで呪いのライフル弾を使用する]
-					[c/454545:「クトゥルフの瞳、ヤーロンの牙によって...」]
+					[c/454545:「クトゥルフの瞳、ヤロンの牙によって...」]
 					'''
 			}
 
@@ -5050,7 +5050,7 @@ Items: {
 			}
 
 			Archerfish: {
-				DisplayName: アーチャーフィッシュ
+				DisplayName: テッポウウオ
 				Tooltip: マスケット銃の弾を水流に変える
 			}
 
@@ -5117,7 +5117,7 @@ Items: {
 
 			Barinautical: {
 				DisplayName: バリノーティカル
-				Tooltip: 木製の矢を爆発する3本の電気ボルトの矢に変換する
+				Tooltip: 木の矢を爆発する3本の電気ボルトの矢に変換する
 			}
 
 			BarracudaGun: {
@@ -5293,7 +5293,7 @@ Items: {
 
 			CorrodedCaustibow: {
 				DisplayName: 腐食の毒弓
-				Tooltip: 木製の矢を、放射線のオーラを放つ、強力な砲弾に変える
+				Tooltip: 木の矢を、放射線のオーラを放つ、強力な砲弾に変える
 			}
 
 			CrackshotColt: {
@@ -5326,12 +5326,12 @@ Items: {
 			}
 
 			DeadSunsWind: {
-				DisplayName: デッドサンズウインド
+				DisplayName: デッドサンズウィンド
 				Tooltip: 70%の確率で弾薬を消費しない
 			}
 
 			Deathwind: {
-				DisplayName: デスウインド
+				DisplayName: デスウィンド
 				Tooltip:
 					'''
 					4本の矢を放つ
@@ -5456,11 +5456,11 @@ Items: {
 			}
 
 			FlarewingBow: {
-				DisplayName: フレアウイングキャノン
+				DisplayName: フレアウィングの弓
 				Tooltip:
 					'''
 					3本の矢を放つ
-					木の矢は黒曜石のコウモリになり、敵を攻撃した後、返ってくる
+					木の矢を跳ね返る黒曜石のコウモリに変える
 					'''
 			}
 
@@ -5541,7 +5541,7 @@ Items: {
 			}
 
 			HavocsBreath: {
-				DisplayName: ハボックスブレス
+				DisplayName: カオスブレス
 				Tooltip: 50%の確率で弾薬を消費しない
 			}
 
@@ -5731,7 +5731,7 @@ Items: {
 			}
 
 			MolecularManipulator: {
-				DisplayName: モラキュラーマニピュレーター
+				DisplayName: 分子マニピュレーター
 				Tooltip:
 					'''
 					NPCのステータスを歪ませる高速の無効弾を発射する
@@ -5778,7 +5778,7 @@ Items: {
 			}
 
 			NullificationPistol: {
-				DisplayName: ヌルフィケーションピストル
+				DisplayName: 無効化ピストル
 				Tooltip:
 					'''
 					NPCのステータスを歪ませる高速の無効弾を発射する
@@ -6181,7 +6181,7 @@ Items: {
 			}
 
 			Svantechnical: {
-				DisplayName: サバンテクニカル
+				DisplayName: スヴァンテクニカル
 				Tooltip:
 					'''
 					カーソルを追尾する分裂するビームを放つ
@@ -6216,7 +6216,7 @@ Items: {
 
 			TheMaelstrom: {
 				DisplayName: ミールストーム
-				Tooltip: 水中で爆発するリーパーシャークを発射する
+				Tooltip: 水中で爆発する死神ザメを発射する
 			}
 
 			ThePack: {
@@ -6262,8 +6262,8 @@ Items: {
 			}
 
 			Toxibow: {
-				DisplayName: 汚染された弓
-				Tooltip: 木の矢を、ヒットした敵を放射能に汚染させる矢に変える
+				DisplayName: トキシボウ
+				Tooltip: 木の矢を放射線を浴びせる矢に変える
 			}
 
 			TyrannysEnd: {
@@ -6308,7 +6308,7 @@ Items: {
 			}
 
 			Voidragon: {
-				DisplayName: ヴォイドラゴン
+				DisplayName: ボイドラゴン
 				Tooltip:
 					'''
 					1発ごとに爆発する深淵の炎を発射する
@@ -6364,8 +6364,8 @@ Items: {
 				DisplayName: アルファウイルス
 				Tooltip:
 					'''
-					オーラを放つ汚染装置を投げ、そのオーラに入った敵にダメージを与える
-					ステルス攻撃は汚染装置の動きを遅くし、プレイグシーカーの攻撃回数を増加させる
+					オーラを放つプレイグ細胞を投げ、そのオーラに入った敵にダメージを与える
+					ステルス攻撃はプレイグ細胞の動きが遅くなり、飛行中に渦巻くプレイグシーカーのオーラが蓄積される
 					'''
 			}
 
@@ -6399,7 +6399,7 @@ Items: {
 			}
 
 			BallisticPoisonBomb: {
-				DisplayName: バリスティックポイズンボム
+				DisplayName: 弾道毒爆弾
 				Tooltip:
 					'''
 					トゲと毒煙を撒き散らす粘着爆弾を投げる
@@ -6408,7 +6408,7 @@ Items: {
 			}
 
 			BlastBarrel: {
-				DisplayName: タル爆弾
+				DisplayName: 樽爆弾
 				Tooltip:
 					'''
 					壁にぶつかると爆発する樽を投げる
@@ -6418,7 +6418,7 @@ Items: {
 			}
 
 			BlazingStar: {
-				DisplayName: 灼熱の手裏剣
+				DisplayName: 灼熱手裏剣
 				Tooltip:
 					'''
 					最大3本の手裏剣を投げる
@@ -6529,13 +6529,13 @@ Items: {
 				DisplayName: 汚染された胆汁入りの瓶
 				Tooltip:
 					'''
-					緑色の放射能に汚染された胆汁の入った瓶を投げる
+					緑色の放射線に汚染された胆汁の入った瓶を投げる
 					ステルス攻撃は爆発をより激しく、強力にする
 					'''
 			}
 
 			CorpusAvertor: {
-				DisplayName: コープスアヴァター
+				DisplayName: コープスアヴェーター
 				Tooltip:
 					'''
 					与えたダメージに応じてライフスティールを与える
@@ -6963,13 +6963,13 @@ Items: {
 			}
 
 			JawsOfOblivion: {
-				DisplayName: ジョーズ・オブ・オブリビオン
+				DisplayName: 忘却のジョーズ
 				Tooltip:
 					'''
 					敵に突き刺さる6本の毒牙を投げる
 					この毒は敵に刺さった歯が多いほどスタックする
 					ステルス攻撃は、歯が砕けるような衝撃波を発生させる
-					「この船じゃ小さすぎる...」
+					「大型船を呼ぼう」
 					'''
 			}
 
@@ -7038,7 +7038,7 @@ Items: {
 			}
 
 			LunarKunai: {
-				DisplayName: ルナークナイ
+				DisplayName: ルナクナイ
 				Tooltip:
 					'''
 					重力を無視するクナイを3本放つ
@@ -7412,7 +7412,7 @@ Items: {
 			}
 
 			SkyfinBombers: {
-				DisplayName: フィッシュボンバーズ
+				DisplayName: スカイフィン爆撃機
 				Tooltip:
 					'''
 					下にいる敵に追尾する核を発射する
@@ -7451,7 +7451,7 @@ Items: {
 				Tooltip:
 					'''
 					敵に取り付き、時間経過とともにダメージを与える
-					ステルス攻撃は一度に5つのハマグリを投げ、時間の経過とともにダメージが増加する
+					ステルス攻撃は一度に5つの貝を投げ、時間の経過とともにダメージが増加する
 					'''
 			}
 
@@ -7475,18 +7475,18 @@ Items: {
 			}
 
 			SpentFuelContainer: {
-				DisplayName: 使用済み燃料コンテナ
+				DisplayName: 使用済み燃料容器
 				Tooltip:
 					'''
 					核爆発を引き起こす微量のプルトニウムが入った燃料容器を投げる
 					下にブロックがない場合、爆発は起こらない
-					ステルス攻撃は、爆発が消滅した後にも汚染エリアが残る
+					ステルス攻撃は、爆発が消滅した後にも残留エリアが残る
 					「戦争は...決して変わらない」
 					'''
 			}
 
 			StarofDestruction: {
-				DisplayName: スター・オブ・デストラクション
+				DisplayName: 破壊の星
 				Tooltip:
 					'''
 					巨大な地雷を投げ、しばらくすると爆発し、追尾するボルトを放つ
@@ -7496,7 +7496,7 @@ Items: {
 			}
 
 			StellarKnife: {
-				DisplayName: 星のナイフ
+				DisplayName: ステラナイフ
 				Tooltip:
 					'''
 					ある程度の高さで止まり、敵に飛んでいくナイフを投げる
@@ -7593,7 +7593,7 @@ Items: {
 			}
 
 			TheSyringe: {
-				DisplayName: 汚染された注射器
+				DisplayName: 感染した注射器
 				Tooltip:
 					'''
 					時間経過でダメージが増加する注射器を投げる
@@ -7717,7 +7717,7 @@ Items: {
 			}
 
 			Wrathwing: {
-				DisplayName: ラースウイング
+				DisplayName: ラースウィング
 				Tooltip:
 					'''
 					常に火を噴き続ける、追尾する有翼の槍を投げる
@@ -7823,7 +7823,7 @@ Items: {
 			}
 
 			BrittleStarStaff: {
-				DisplayName: もろいヒトデの杖
+				DisplayName: 脆いヒトデの杖
 				Tooltip:
 					'''
 					共に戦う小さなヒトデを召喚する
@@ -7839,7 +7839,7 @@ Items: {
 			}
 
 			CalamarisLament: {
-				DisplayName: カラマリのラメント
+				DisplayName: カラマリの哀歌
 				Tooltip: "[GFB]"
 				TooltipNormal:
 					'''
@@ -7880,7 +7880,7 @@ Items: {
 				DisplayName: 嘆きの残り火
 				Tooltip:
 					'''
-					共に戦う魔女の兄弟を召喚する
+					共に戦う魔女の血族を召喚する
 					彼らは一瞬こちらを見た後、プレイヤーに突進してくる
 					彼らはプレイヤーと敵の両方にダメージを与えることができる
 					[c/C61B40:「己が罪を作り出し、]
@@ -7925,7 +7925,7 @@ Items: {
 			}
 
 			CosmicViperEngine: {
-				DisplayName: コズミックヴァイパーエンジン
+				DisplayName: コズミックバイパーエンジン
 				Tooltip:
 					'''
 					共に戦う宇宙のガンシップを召喚する
@@ -8059,7 +8059,7 @@ Items: {
 				DisplayName: 終焉の監視者
 				Tooltip:
 					'''
-					共に戦う小さいカラミタスクローンとその兄弟たちを召喚する
+					共に戦う小さいカラミタスクローンとその血族たちを召喚する
 					このグループは2つのミニオンスロットを使用する
 					'''
 			}
@@ -8070,7 +8070,7 @@ Items: {
 			}
 
 			EyeOfNight: {
-				DisplayName: アイ・オブ・ナイト
+				DisplayName: アイオブナイト
 				Tooltip: 共に戦う病的な眼球を召喚する
 			}
 
@@ -8089,7 +8089,7 @@ Items: {
 					上部のアイコンはメカの武器で、カーソルに巨大な斬撃を繰り出すか、3本のレーザーを発射する
 					上部のアイコンをクリックして、巨大なエネルギーブレード「Regicide」と強力なガウスライフルを切り替える
 					ボスが生存している間にマウントから降りると、一時的に移動が制限される
-					[c/87CEEB:「さあ、奴らに報いを」]
+					[c/87CEEB:「さあ、今度はあいつらの番だ」]
 					'''
 			}
 
@@ -8126,7 +8126,7 @@ Items: {
 			}
 
 			FuelCellBundle: {
-				DisplayName: 小型燃料セル
+				DisplayName: 燃料電池の束
 				Tooltip: 共に戦う小型プレイグブリンガーを召喚する
 			}
 
@@ -8371,7 +8371,7 @@ Items: {
 			}
 
 			StaffOfNecrosteocytes: {
-				DisplayName: 壊死の杖
+				DisplayName: 壊死骨細胞の杖
 				Tooltip:
 					'''
 					共に戦う小さな骸骨を召喚する
@@ -8380,8 +8380,8 @@ Items: {
 			}
 
 			StaffoftheMechworm: {
-				DisplayName: メックワームの杖
-				Tooltip: 共に戦うメックワームを召喚する
+				DisplayName: メカワームの杖
+				Tooltip: 共に戦うメカワームを召喚する
 			}
 
 			StarspawnHelixStaff: {
@@ -8409,7 +8409,7 @@ Items: {
 			}
 
 			TacticalPlagueEngine: {
-				DisplayName: 汚染されたタクティカルエンジン
+				DisplayName: 感染したタクティカルエンジン
 				Tooltip:
 					'''
 					共に戦うプレイグジェットを召喚する
@@ -8421,11 +8421,11 @@ Items: {
 			}
 
 			TemporalUmbrella: {
-				DisplayName: テンポラルアンブレラ
+				DisplayName: 時空のカサ
 				Tooltip:
 					'''
 					戦闘を支援する様々なツールを召喚する
-						- 敵を貫くヴァーミリオンアロー
+						- 敵を貫くバーミリオンアロー
 						- 敵を叩き潰すマーマレードハンマー
 						- モンスターを切り裂き、時には木を切り倒すジェイドアックス
 						- 優雅に敵を打ちのめすシアンパラソル
@@ -8469,7 +8469,7 @@ Items: {
 			}
 
 			Vigilance: {
-				DisplayName: ヴィジランス
+				DisplayName: ビジランス
 				Tooltip: 共に戦うソウルシーカーを召喚する
 			}
 
@@ -8496,7 +8496,7 @@ Items: {
 				DisplayName: 深淵の杖
 				Tooltip:
 					'''
-					ヴォイドオーブを発射して攻撃する不吉なオーラを召喚する
+					ボイドオーブを発射して攻撃する不吉なオーラを召喚する
 					オーラが発動している間、ミニオンのダメージが5%増加する
 					使用するにはミニオンのスロットが3つ必要
 					オーラは一度に一つしか出せない
@@ -8535,7 +8535,7 @@ Items: {
 			}
 
 			YharonsKindleStaff: {
-				DisplayName: ヤーロンの杖
+				DisplayName: ヤロンの杖
 				Tooltip:
 					'''
 					灼熱のドラゴンを召喚し、共に戦う
@@ -8579,17 +8579,17 @@ Items: {
 
 	Materials: {
 		AerialiteBar: {
-			DisplayName: エアリアライトのインゴット
+			DisplayName: エリアライトのインゴット
 			Tooltip: ""
 		}
 
 		AncientBoneDust: {
-			DisplayName: 古代の骨の灰
+			DisplayName: 古代の骨粉
 			Tooltip: ""
 		}
 
 		ArmoredShell: {
-			DisplayName: アーマードシェル
+			DisplayName: 装甲の殻
 			Tooltip: ""
 		}
 
@@ -8634,7 +8634,7 @@ Items: {
 		}
 
 		BloodSample: {
-			DisplayName: 血のサンプル
+			DisplayName: 血液サンプル
 			Tooltip: ""
 		}
 
@@ -8644,7 +8644,7 @@ Items: {
 		}
 
 		BloodstoneCore: {
-			DisplayName: ブラッドストーンのコア
+			DisplayName: ブラッドストーンコア
 			Tooltip: ""
 		}
 
@@ -8659,7 +8659,7 @@ Items: {
 		}
 
 		CoreofHavoc: {
-			DisplayName: ハボックのコア
+			DisplayName: カオスのコア
 			Tooltip: ""
 		}
 
@@ -8670,7 +8670,7 @@ Items: {
 
 		CorrodedFossil: {
 			DisplayName: 腐食した化石
-			Tooltip: とても頑丈だ
+			Tooltip: とても頑丈
 		}
 
 		CosmiliteBar: {
@@ -8694,27 +8694,27 @@ Items: {
 		}
 
 		DemonicBoneAsh: {
-			DisplayName: デモニックボーンの灰
+			DisplayName: 魔骨の灰
 			Tooltip: ""
 		}
 
 		DepthCells: {
-			DisplayName: 深海細胞
+			DisplayName: デプスセル
 			Tooltip: 「深海生物の細胞」
 		}
 
 		DivineGeode: {
-			DisplayName: 神聖なるジオード
+			DisplayName: 神のジオード
 			Tooltip: 「聖なるエネルギーの結晶」
 		}
 
 		DubiousPlating: {
-			DisplayName: 怪しげな装甲板
+			DisplayName: 怪しいメッキ
 			Tooltip: ""
 		}
 
 		EffulgentFeather: {
-			DisplayName: 光り輝く羽
+			DisplayName: 光り輝く羽根
 			Tooltip: 「ふわふわとした金色のエネルギーを放っている」
 		}
 
@@ -8734,7 +8734,7 @@ Items: {
 		}
 
 		EssenceofHavoc: {
-			DisplayName: ハボックのエッセンス
+			DisplayName: カオスのエッセンス
 			Tooltip: 「荒涼とした生物のエッセンス」
 		}
 
@@ -8749,22 +8749,22 @@ Items: {
 		}
 
 		GalacticaSingularity: {
-			DisplayName: 銀河の特異点
+			DisplayName: ギャラクティシンギュラリティ
 			Tooltip: 「宇宙の欠片」
 		}
 
 		GrandScale: {
-			DisplayName: 大地の鱗
+			DisplayName: グランドスケール
 			Tooltip: 「捕食者の大きな鱗」
 		}
 
 		InfectedArmorPlating: {
-			DisplayName: 汚染された装甲板
+			DisplayName: 感染した装甲板
 			Tooltip: ""
 		}
 
 		LifeAlloy: {
-			DisplayName: 生命の合金
+			DisplayName: ライフアロイ
 			Tooltip: ""
 		}
 
@@ -8779,17 +8779,17 @@ Items: {
 		}
 
 		MeldBlob: {
-			DisplayName: 溶けた塊
+			DisplayName: メルドブロブ
 			Tooltip: ""
 		}
 
 		MeldConstruct: {
-			DisplayName: 溶けた構造物
+			DisplayName: メルドブロブトラクト
 			Tooltip: ""
 		}
 
 		MiracleMatter: {
-			DisplayName: 奇跡の物質
+			DisplayName: ミラクルマター
 			Tooltip:
 				'''
 				「そのとらえどころのない物体には計り知れない可能性が秘められている」
@@ -8803,12 +8803,12 @@ Items: {
 		}
 
 		MurkyPaste: {
-			DisplayName: 濁った塊
+			DisplayName: 泥状のペースト
 			Tooltip: ""
 		}
 
 		MysteriousCircuitry: {
-			DisplayName: 神秘的な電気回路
+			DisplayName: 謎の回路
 			Tooltip: ""
 		}
 
@@ -8848,8 +8848,8 @@ Items: {
 		}
 
 		ReaperTooth: {
-			DisplayName: リーパーの歯
-			Tooltip: 「ダイヤモンドを加工するのに十分な鋭さだ」
+			DisplayName: 死神ザメの歯
+			Tooltip: 「ダイヤモンドを切るのに十分な鋭さだ」
 		}
 
 		RottenMatter: {
@@ -8858,7 +8858,7 @@ Items: {
 		}
 
 		RuinousSoul: {
-			DisplayName: 荒廃した魂
+			DisplayName: 遺跡の魂
 			Tooltip: 「遠い過去の破片」
 		}
 
@@ -8878,27 +8878,27 @@ Items: {
 		}
 
 		SolarVeil: {
-			DisplayName: ソーラーベール
+			DisplayName: 太陽のベール
 			Tooltip: 「遮光性のある布」
 		}
 
 		StarblightSoot: {
-			DisplayName: 星痕の煤
+			DisplayName: スターダストの煤
 			Tooltip: ""
 		}
 
 		StormlionMandible: {
-			DisplayName: ストームリオンの下顎
+			DisplayName: ストームリオンの顎
 			Tooltip: ""
 		}
 
 		SulphuricScale: {
-			DisplayName: 硫黄の鱗
+			DisplayName: 硫黄鱗
 			Tooltip: ""
 		}
 
 		SuspiciousScrap: {
-			DisplayName: 疑惑のスクラップ
+			DisplayName: 怪しいスクラップ
 			Tooltip: 「より大きなものの一部であるように見えるが...」
 		}
 
@@ -8908,7 +8908,7 @@ Items: {
 		}
 
 		TrapperBulb: {
-			DisplayName: 食虫植物
+			DisplayName: トラッパーのつぼみ
 			Tooltip: ""
 		}
 
@@ -8923,12 +8923,12 @@ Items: {
 		}
 
 		UnholyCore: {
-			DisplayName: 不道徳なコア
+			DisplayName: 不浄なコア
 			Tooltip: ""
 		}
 
 		UnholyEssence: {
-			DisplayName: 不道徳なエッセンス
+			DisplayName: 不浄なエッセンス
 			Tooltip: 「冒涜された生物のエッセンス」
 		}
 
@@ -8938,14 +8938,14 @@ Items: {
 		}
 
 		YharonSoulFragment: {
-			DisplayName: ヤーロンの魂の断片
+			DisplayName: ヤロンの魂の断片
 			Tooltip: 「ドラコニックオーリックの魂の破片」
 		}
 	}
 
 	Misc: {
 		AndroombaItem: {
-			DisplayName: アンドロンバ
+			DisplayName: アンドルンバ
 			Tooltip:
 				'''
 				 <right>を押すと、溶液を挿入する
@@ -8954,7 +8954,7 @@ Items: {
 		}
 
 		BabyCannonballJellyfishItem: {
-			DisplayName: キャノンボールジェリーの幼体
+			DisplayName: ホウガンクラゲの幼体
 			Tooltip: ""
 		}
 
@@ -8964,7 +8964,7 @@ Items: {
 		}
 
 		BabyGhostBellItem: {
-			DisplayName: ベビーゴーストベル
+			DisplayName: ゴーストベルの幼体
 			Tooltip: ""
 		}
 
@@ -9067,7 +9067,7 @@ Items: {
 		}
 
 		ElectrolyteGelPack: {
-			DisplayName: 電解ジェルパック
+			DisplayName: 電解質ジェルパック
 			Tooltip:
 				'''
 				アドレナリンモードのダメージを15%増加させ、ダメージ減少を5%増加させる
@@ -9076,7 +9076,7 @@ Items: {
 		}
 
 		EtherealCore: {
-			DisplayName: エーテルのコア
+			DisplayName: エーテルコア
 			Tooltip:
 				'''
 				永続的に最大マナを{0}増加させる
@@ -9094,7 +9094,7 @@ Items: {
 		}
 
 		MiracleFruit: {
-			DisplayName: 奇跡のフルーツ
+			DisplayName: ミラクルフルーツ
 			Tooltip:
 				'''
 				永続的に最大ライフを{0}増加させる
@@ -9113,7 +9113,7 @@ Items: {
 		}
 
 		PhantomHeart: {
-			DisplayName: ファントムの心臓
+			DisplayName: 幻の心臓
 			Tooltip:
 				'''
 				永続的に最大マナを{0}増加させる
@@ -9122,7 +9122,7 @@ Items: {
 		}
 
 		RedLightningContainer: {
-			DisplayName: 赤い光のコンテナ
+			DisplayName: 赤い稲妻の容器
 			Tooltip:
 				'''
 				レイジモードの効果時間を1秒延長する
@@ -9131,7 +9131,7 @@ Items: {
 		}
 
 		StarlightFuelCell: {
-			DisplayName: 星光の燃料セル
+			DisplayName: 星光燃料電池
 			Tooltip:
 				'''
 				アドレナリンモードのダメージを20%増加させ、ダメージ減少を5%増加させる
@@ -9153,8 +9153,8 @@ Items: {
 		}
 
 		BleachBall: {
-			DisplayName: 漂白されたベル
-			Tooltip: このアイテムをインベントリで右クリックすると、アクアティック・スカージが出現しなくなる
+			DisplayName: 漂白剤ボール
+			Tooltip: このアイテムをインベントリで右クリックすると、アクアティックスカージが出現しなくなる
 		}
 
 		BrokenWaterFilter: {
@@ -9164,7 +9164,7 @@ Items: {
 
 		SirenproofEarMuffs: {
 			DisplayName: 防水ヘッドホン
-			Tooltip: このアイテムをインベントリで右クリックすると、近くにアナヒタが出現しなくなる
+			Tooltip: このアイテムをインベントリで右クリックすると、近くにアナーヒターが出現しなくなる
 		}
 
 		VoodooDemonVoodooDoll: {
@@ -9264,7 +9264,7 @@ Items: {
 			DisplayName: エクソボックス
 			Tooltip:
 				'''
-				非常に居心地の良い、非常に軽快な空飛ぶエクソのイスを召喚する
+				非常に座り心地の良い、非常に軽快な空飛ぶエクソのイスを召喚する
 				マウントに座ったまま [KEY] を押し続けると、より正確にゆっくりと移動できる
 				「快適なゲーマーは危険なゲーマー」
 				'''
@@ -9294,7 +9294,7 @@ Items: {
 		}
 
 		TheCartofGods: {
-			DisplayName: ゴッドカート
+			DisplayName: カートオブゴッド
 			Tooltip: ""
 		}
 
@@ -9303,7 +9303,7 @@ Items: {
 			Tooltip:
 				'''
 				ドリルを召喚し、掘り進む
-				破壊の威力は、インベントリにあるツルハシの中で採掘パワーの高いツルハシに比例する
+				破壊の威力は、インベントリにあるツルハシの中で採掘パワーの高いつるはしに比例する
 				これらの土地に生息するすべての生き物を完全に無視して突き進め
 				EPA（環境保護局）やPETA（動物愛護団体）はきっとこう思っているに違いない
 				「このあと、ちょっと話がある...」
@@ -9312,7 +9312,7 @@ Items: {
 
 		SuspiciousLookingJellyBean: {
 			DisplayName: 怪しげなジェリービーン
-			Tooltip: ジェリービーン！
+			Tooltip: ジ　ェ　リ　ー　ビ　ー　ン　！
 		}
 
 		TundraLeash: {
@@ -9338,12 +9338,12 @@ Items: {
 		}
 
 		BloodyVein: {
-			DisplayName: ブラッディヴェイン
+			DisplayName: 血まみれの静脈
 			Tooltip: 肉の山を召喚する
 		}
 
 		BrimstoneJewel: {
-			DisplayName: ブリムストーンジュエル
+			DisplayName: ブリムストーンの宝石
 			Tooltip:
 				'''
 				「あの獣を倒した究極の報酬は...
@@ -9352,7 +9352,7 @@ Items: {
 		}
 
 		CharredRelic: {
-			DisplayName: 黒焦げの遺物
+			DisplayName: 焦げた遺物
 			Tooltip: 少量の硫黄を含む
 		}
 
@@ -9367,11 +9367,11 @@ Items: {
 		}
 
 		CosmicPlushie: {
-			DisplayName: コズミックプラシー
+			DisplayName: 宇宙のぬいぐるみ
 			Tooltip:
 				'''
 				宇宙を食い尽くす者を召喚する...？
-				友好的な赤い悪魔を抑制する
+				友好的なレッドデビルを抑制する
 				鋭利なものが含まれている可能性がある
 				'''
 		}
@@ -9387,8 +9387,8 @@ Items: {
 		}
 
 		ForgottenDragonEgg: {
-			DisplayName: 忘れられた竜の卵
-			Tooltip: ヤーロンの息子、アカトを召喚する
+			DisplayName: 忘れられたドラゴンの卵
+			Tooltip: ヤロンの息子、アカトを召喚する
 		}
 
 		FoxDrive: {
@@ -9401,7 +9401,7 @@ Items: {
 		}
 
 		GeyserShell: {
-			DisplayName: 小さな殻
+			DisplayName: 間欠泉の殻
 			Tooltip: 小さなヤドカリを召喚する
 		}
 
@@ -9416,12 +9416,12 @@ Items: {
 		}
 
 		JoyfulHeart: {
-			DisplayName: ジョイフルハート
+			DisplayName: 喜びのハート
 			Tooltip: 妙に温かい...禁断の生物を呼び寄せるかもしれない
 		}
 
 		Levi: {
-			DisplayName: レビ
+			DisplayName: リヴァイ
 			Tooltip: ペットのリヴァイアサンの赤ちゃんを召喚する
 		}
 
@@ -9446,7 +9446,7 @@ Items: {
 		}
 
 		PlagueCaller: {
-			DisplayName: プレイグコーラー
+			DisplayName: プレイグ通信機
 			Tooltip: 疫病を呼ぶ者を召喚する
 		}
 
@@ -9456,7 +9456,7 @@ Items: {
 		}
 
 		RadiatingCrystal: {
-			DisplayName: 汚染されたクリスタル
+			DisplayName: 放射結晶
 			Tooltip:
 				'''
 				光を放つペットを召喚する
@@ -9531,7 +9531,7 @@ Items: {
 		}
 
 		AbyssalAmulet: {
-			DisplayName: 深淵のアミュレット
+			DisplayName: 深淵のお守り
 			Tooltip:
 				'''
 				攻撃は激流デバフを与えるようになる
@@ -9541,7 +9541,7 @@ Items: {
 		}
 
 		AbyssalDivingGear: {
-			DisplayName: 深海の潜水具
+			DisplayName: 深淵の潜水具
 			Tooltip:
 				'''
 				息を切らしている間、深淵の圧力によるダメージを軽減する
@@ -9554,7 +9554,7 @@ Items: {
 		}
 
 		AbyssalDivingSuit: {
-			DisplayName: 深海のダイビングスーツ
+			DisplayName: 深淵のダイビングスーツ
 			Tooltip:
 				'''
 				「深海のダイバー用の装備」
@@ -9619,7 +9619,7 @@ Items: {
 		}
 
 		AlchemicalFlask: {
-			DisplayName: 錬金術師のフラスコ
+			DisplayName: 錬金術のフラスコ
 			Tooltip:
 				'''
 				すべての攻撃で疫病デバフを与え、かつ装備者は疫病デバフから受けるダメージを軽減する
@@ -9629,7 +9629,7 @@ Items: {
 		}
 
 		AlluringBait: {
-			DisplayName: 魅力的な釣り餌
+			DisplayName: 魅惑のエサ
 			Tooltip:
 				'''
 				釣りパワーを30増加
@@ -9666,12 +9666,12 @@ Items: {
 		}
 
 		AmidiasPendant: {
-			DisplayName: 海の王のペンダント
+			DisplayName: アミディアスのペンダント
 			Tooltip: 定期的にプリズムの破片を降らせ、敵を短時間スタンさせる
 		}
 
 		AmidiasSpark: {
-			DisplayName: アミディアスの閃光
+			DisplayName: アミディアスの花火
 			Tooltip: ダメージを受けると火花が散る
 		}
 
@@ -9681,7 +9681,7 @@ Items: {
 		}
 
 		AnechoicPlating: {
-			DisplayName: 無響の装甲板
+			DisplayName: 無響メッキ
 			Tooltip:
 				'''
 				深淵の敵に発見されづらくなる
@@ -9706,7 +9706,7 @@ Items: {
 		}
 
 		AngelTreads: {
-			DisplayName: エンジェルトレッズ
+			DisplayName: エンジェルトレッド
 			Tooltip:
 				'''
 				移動加速度が36%上昇
@@ -9720,7 +9720,7 @@ Items: {
 		}
 
 		AquaticEmblem: {
-			DisplayName: 水の紋章
+			DisplayName: アクアティックエンブレム
 			Tooltip:
 				'''
 				ほとんどの海の敵は友好的になり、水中呼吸を可能にする
@@ -9747,7 +9747,7 @@ Items: {
 		}
 
 		ArchaicPowder: {
-			DisplayName: 古代の粉
+			DisplayName: 古代の粉末
 			Tooltip:
 				'''
 				採掘速度が15%上昇
@@ -9756,7 +9756,7 @@ Items: {
 		}
 
 		AsgardianAegis: {
-			DisplayName: アスガルドの護盾
+			DisplayName: アズガーディアンイージス
 			Tooltip:
 				'''
 				ノックバックを無効化する
@@ -9768,7 +9768,7 @@ Items: {
 		}
 
 		AsgardsValor: {
-			DisplayName: アスガルドの盾
+			DisplayName: アスガルドバロー
 			Tooltip:
 				'''
 				ノックバックを無効化する
@@ -9788,7 +9788,7 @@ Items: {
 		}
 
 		BadgeofBravery: {
-			DisplayName: 勇気の印
+			DisplayName: 勇気の紋章
 			Tooltip:
 				'''
 				近接攻撃ダメージと近接攻撃クリティカルが10%増加する
@@ -9797,7 +9797,7 @@ Items: {
 		}
 
 		BlazingCore: {
-			DisplayName: 灼熱のコア
+			DisplayName: ブレイジングコア
 			Tooltip:
 				'''
 				冒涜された女神の灼熱のコア
@@ -9812,7 +9812,7 @@ Items: {
 		}
 
 		BloodflareCore: {
-			DisplayName: ブラッドフレアのコア
+			DisplayName: ブラッドフレアコア
 			Tooltip:
 				'''
 				ダメージを受けると、防御力が半分になる
@@ -9831,12 +9831,12 @@ Items: {
 		}
 
 		BloodstainedGlove: {
-			DisplayName: 血だらけのグローブ
+			DisplayName: 血まみれの手袋
 			Tooltip: ステルス攻撃の装甲貫通力は+8され、HPを2回復する
 		}
 
 		BloodyWormScarf: {
-			DisplayName: 血のワームのスカーフ
+			DisplayName: 血まみれのワームスカーフ
 			Tooltip:
 				'''
 				ダメージ10%軽減
@@ -9845,7 +9845,7 @@ Items: {
 		}
 
 		BloodyWormTooth: {
-			DisplayName: 血のワームの歯
+			DisplayName: ブラッディワームの歯
 			Tooltip: 近接攻撃ダメージ10%増加
 		}
 
@@ -9875,7 +9875,7 @@ Items: {
 		}
 
 		Calamity: {
-			DisplayName: 災厄
+			DisplayName: カラミティ
 			Tooltip:
 				'''
 				魔女の炎でカーソルを燃え上がらせ、燃え盛るオーラで包み込む
@@ -9911,7 +9911,7 @@ Items: {
 		}
 
 		CoinofDeceit: {
-			DisplayName: 欺瞞のコイン
+			DisplayName: 偽りのコイン
 			Tooltip:
 				'''
 				ステルス攻撃は最大ステルスの85%しか消費しない
@@ -9920,7 +9920,7 @@ Items: {
 		}
 
 		CorrosiveSpine: {
-			DisplayName: 腐食した脊椎
+			DisplayName: 腐食性脊椎
 			Tooltip:
 				'''
 				移動速度5%増加
@@ -9930,7 +9930,7 @@ Items: {
 		}
 
 		CorruptFlask: {
-			DisplayName: 邪悪なフラスコ
+			DisplayName: 不浄のフラスコ
 			Tooltip:
 				'''
 				不浄の大地にいる間、ダメージ軽減率が4%増加し、防御力が+6される
@@ -9949,11 +9949,11 @@ Items: {
 		}
 
 		CrawCarapace: {
-			DisplayName: ザリガニのツメ
+			DisplayName: ハサミの甲羅
 			Tooltip:
 				'''
 				ダメージ5%増加
-				自分に当たった敵はダメージを受け、老朽化を受ける
+				自分に当たった敵はダメージを受け、崩壊を受ける
 				'''
 		}
 
@@ -9976,7 +9976,7 @@ Items: {
 		}
 
 		CrownJewel: {
-			DisplayName: クラウンジュエル
+			DisplayName: 王冠の宝石
 			Tooltip:
 				'''
 				+1 HP/秒のライフ自然回復
@@ -9986,7 +9986,7 @@ Items: {
 		}
 
 		CryoStone: {
-			DisplayName: 冷たい石
+			DisplayName: クライオストーン
 			Tooltip:
 				'''
 				すべての冷属性デバフダメージを1.5倍にする
@@ -10024,7 +10024,7 @@ Items: {
 		}
 
 		DarkSunRing: {
-			DisplayName: 暗黒の太陽の指輪
+			DisplayName: ダークサンリング
 			Tooltip:
 				'''
 				ダメージ12%増加
@@ -10056,7 +10056,7 @@ Items: {
 		}
 
 		DeificAmulet: {
-			DisplayName: 神格のアミュレット
+			DisplayName: 神格のお守り
 			Tooltip:
 				'''
 				無敵時間を延長し、被ダメージで星を降らせる
@@ -10065,7 +10065,7 @@ Items: {
 		}
 
 		DepthCharm: {
-			DisplayName: 深海のチャーム
+			DisplayName: デプスチャーム
 			Tooltip:
 				'''
 				酸素切れの間、深淵の圧力によるダメージを軽減する
@@ -10106,29 +10106,29 @@ Items: {
 		}
 
 		DragonScales: {
-			DisplayName: 竜の鱗
+			DisplayName: ドラゴンの鱗
 			Tooltip:
 				'''
 				ローグの攻撃は火の玉を放つ
 				ステルス攻撃で火の竜巻を発生させる
 				最大移動速度と加速度+10
 				ドラゴンの炎を無効化
-				「生きている竜だけが真の宝の在処を知っている...」
+				「生きているドラゴンだけが真の宝の在処を知っている...」
 				'''
 		}
 
 		DynamoStemCells: {
-			DisplayName: ダイナモステムセル
+			DisplayName: ダイナモ幹細胞
 			Tooltip:
 				'''
 				移動速度10%増加
 				遠距離武器はミニスウォーマーを放つことがある
-				竜の炎と帯電デバフを無効化する
+				ドラゴンの炎と帯電デバフを無効化する
 				'''
 		}
 
 		EclipseMirror: {
-			DisplayName: 日蝕の鏡
+			DisplayName: 日食の鏡
 			Tooltip:
 				'''
 				最大ステルス+10
@@ -10155,7 +10155,7 @@ Items: {
 		}
 
 		ElectriciansGlove: {
-			DisplayName: 電気絶縁手袋
+			DisplayName: 電気用手袋
 			Tooltip:
 				'''
 				ステルス攻撃が敵に命中すると火花を発生させる
@@ -10164,7 +10164,7 @@ Items: {
 		}
 
 		ElementalGauntlet: {
-			DisplayName: エレメンタルのガントレット
+			DisplayName: エレメンタルガントレット
 			Tooltip:
 				'''
 				近接攻撃と発射物はヘルファイアを与える
@@ -10187,7 +10187,7 @@ Items: {
 		}
 
 		ElysianAegis: {
-			DisplayName: エリュシオンのイージス
+			DisplayName: エリシアンイージス
 			Tooltip:
 				'''
 				ノックバックと燃焼、炎上、聖なる炎のデバフを無効化する
@@ -10207,7 +10207,7 @@ Items: {
 		}
 
 		EtherealExtorter: {
-			DisplayName: 魂の略奪者
+			DisplayName: エーテルエクストーター
 			Tooltip:
 				'''
 				ローグの発射物は、消滅時に爆発して追尾する魂になる
@@ -10216,7 +10216,7 @@ Items: {
 		}
 
 		EtherealTalisman: {
-			DisplayName: エーテルのタリスマン
+			DisplayName: エーテルの魔除け
 			Tooltip:
 				'''
 				魔法ダメージ15%増加、魔法クリティカル確率5%増加、マナ使用量10%減少
@@ -10237,12 +10237,12 @@ Items: {
 		}
 
 		EyeoftheStorm: {
-			DisplayName: アイ・オブ・ザ・ストーム
+			DisplayName: 嵐の目
 			Tooltip: 共に戦う雲のエレメンタルを召喚する
 		}
 
 		FeatherCrown: {
-			DisplayName: フェザークラウン
+			DisplayName: 羽根の王冠
 			Tooltip:
 				'''
 				ローグの弾速が15%増加
@@ -10251,7 +10251,7 @@ Items: {
 		}
 
 		FilthyGlove: {
-			DisplayName: 穢れた手袋
+			DisplayName: 汚れた手袋
 			Tooltip: ステルス攻撃の装甲貫通力が+8され、与えるダメージが8%増加する
 		}
 
@@ -10299,16 +10299,16 @@ Items: {
 		}
 
 		FungalClump: {
-			DisplayName: キノコの塊
+			DisplayName: ファンガルクランプ
 			Tooltip:
 				'''
-				共に戦う真菌の塊を召喚する
+				共に戦うファンガルクランプを召喚する
 				塊は敵に喰らいつき、敵のライフを奪う
 				'''
 		}
 
 		FungalSymbiote: {
-			DisplayName: キノコ・シムビオート
+			DisplayName: ファンガルシムビオート
 			Tooltip:
 				'''
 				足元の芝生にキノコが生える
@@ -10329,7 +10329,7 @@ Items: {
 		}
 
 		GiantShell: {
-			DisplayName: 巨大貝
+			DisplayName: 巨大な貝殻
 			Tooltip:
 				'''
 				ダッシュ速度10%低下
@@ -10348,7 +10348,7 @@ Items: {
 		}
 
 		GladiatorsLocket: {
-			DisplayName: 剣闘士のロケットペンダント
+			DisplayName: グラディエーターのロケット
 			Tooltip:
 				'''
 				敵を倒すと回復オーブを落とす
@@ -10362,7 +10362,7 @@ Items: {
 		}
 
 		GloveOfRecklessness: {
-			DisplayName: 無謀者のグローブ
+			DisplayName: 無鉄砲なグローブ
 			Tooltip:
 				'''
 				攻撃速度が15%増加するが、ダメージとクリティカルが10%減少する
@@ -10372,7 +10372,7 @@ Items: {
 		}
 
 		GrandGelatin: {
-			DisplayName: スーパーゼラチン
+			DisplayName: グランドゼラチン
 			Tooltip:
 				'''
 				移動速度とジャンプ速度が12%増加
@@ -10417,7 +10417,7 @@ Items: {
 		}
 
 		HeartofDarkness: {
-			DisplayName: 暗黒の心臓
+			DisplayName: 闇の心臓
 			Tooltip:
 				'''
 				時間が経つにつれてレイジが増していく
@@ -10427,7 +10427,7 @@ Items: {
 		}
 
 		HeartoftheElements: {
-			DisplayName: ハート・オブ・エレメンタル
+			DisplayName: エレメンツのハート
 			Tooltip:
 				'''
 				すべてのエレメンタルを召喚し、共に戦う
@@ -10448,7 +10448,7 @@ Items: {
 		}
 
 		HoneyDew: {
-			DisplayName: 蜂蜜ビール
+			DisplayName: ハニーデュー
 			Tooltip:
 				'''
 				最大ライフ+30
@@ -10459,7 +10459,7 @@ Items: {
 		}
 
 		HowlsHeart: {
-			DisplayName: ハウルの心臓
+			DisplayName: ハウルの心
 			Tooltip:
 				'''
 				共に戦ってくれる魔法使いのハウル、道を照らす火の悪魔のカルシファー、そして後をついてくるカブ頭のカブを召喚する
@@ -10468,7 +10468,7 @@ Items: {
 		}
 
 		InfectedJewel: {
-			DisplayName: 汚染された宝石
+			DisplayName: 感染した宝石
 			Tooltip:
 				'''
 				HP+1/秒のライフ自然回復を得る
@@ -10482,7 +10482,7 @@ Items: {
 		}
 
 		InkBomb: {
-			DisplayName: インクボム
+			DisplayName: インク爆弾
 			Tooltip:
 				'''
 				命中するとインクの煙に紛れて爆発するインク爆弾を数発投げる
@@ -10492,12 +10492,12 @@ Items: {
 		}
 
 		IronBoots: {
-			DisplayName: 鉄のブーツ
+			DisplayName: アイアンブーツ
 			Tooltip: 液体に沈みやすくなる
 		}
 
 		JellyChargedBattery: {
-			DisplayName: ゼリー充電式バッテリー
+			DisplayName: ゼリー充電地
 			Tooltip:
 				'''
 				最大ミニオン数+1、召喚ダメージ+7%
@@ -10517,7 +10517,7 @@ Items: {
 		}
 
 		LeviathanAmbergris: {
-			DisplayName: リヴァイアサンの竜涎香
+			DisplayName: リヴァイアサンアンバーグリス
 			Tooltip:
 				'''
 				ダッシュ速度20%向上
@@ -10547,7 +10547,7 @@ Items: {
 		}
 
 		LumenousAmulet: {
-			DisplayName: ルメナスのアミュレット
+			DisplayName: 光るお守り
 			Tooltip:
 				'''
 				攻撃は圧潰デバフを与える
@@ -10557,7 +10557,7 @@ Items: {
 		}
 
 		LuxorsGift: {
-			DisplayName: ルクソールのギフト
+			DisplayName: ルクソールの贈り物
 			Tooltip:
 				'''
 				武器は、ダメージタイプに応じて固有の発射物を発射する
@@ -10575,7 +10575,7 @@ Items: {
 		}
 
 		ManaPolarizer: {
-			DisplayName: マナポーラライザー
+			DisplayName: マナポラライザー
 			Tooltip:
 				'''
 				最大マナ50増加、魔法ダメージ6%増加
@@ -10588,7 +10588,7 @@ Items: {
 		}
 
 		MarniteRepulsionShield: {
-			DisplayName: マーナイトの拒絶の盾
+			DisplayName: マーナイトの反発シールド
 			Tooltip:
 				'''
 				背後の敵に高ノックバックのエネルギーで攻撃する
@@ -10607,7 +10607,7 @@ Items: {
 		}
 
 		MoonstoneCrown: {
-			DisplayName: ムーンストーンの冠
+			DisplayName: 月長石の王冠
 			Tooltip:
 				'''
 				ローグの弾速が15%増加
@@ -10617,7 +10617,7 @@ Items: {
 		}
 
 		Nanotech: {
-			DisplayName: ナノテック
+			DisplayName: ナノテクノロジー
 			Tooltip:
 				'''
 				ローグの攻撃が追尾するナノブレードを生み出す
@@ -10645,7 +10645,7 @@ Items: {
 			Tooltip:
 				'''
 				ライフが50%以下の時のダメージが20%増加
-				リーヴァーアーマーを着用している間、すべての攻撃で酸の毒を与える
+				リーバーアーマーを着用している間、すべての攻撃で酸の毒を与える
 				「復讐」
 				'''
 		}
@@ -10654,7 +10654,7 @@ Items: {
 			DisplayName: 核燃料棒
 			Tooltip:
 				'''
-				ミニオンが敵に当たると放射能雲を放つ
+				ミニオンが敵に当たると放射能オーラを放つ
 				最大ミニオン数+1
 				被曝を無効化
 				'''
@@ -10690,7 +10690,7 @@ Items: {
 		}
 
 		OceanCrest: {
-			DisplayName: 大海の紋章
+			DisplayName: オーシャンクレスト
 			Tooltip:
 				'''
 				水中でじっとしていると呼吸ができるようになり
@@ -10726,7 +10726,7 @@ Items: {
 		}
 
 		OrnateShield: {
-			DisplayName: 装飾付きの盾
+			DisplayName: オーネイトシールド
 			Tooltip:
 				'''
 				氷のデバフを無効化する
@@ -10769,7 +10769,7 @@ Items: {
 		}
 
 		PlaguedFuelPack: {
-			DisplayName: 汚染された燃料パック
+			DisplayName: 感染した燃料パック
 			Tooltip:
 				'''
 				ローグのダメージが8%増加し、ローグの弾速が15%増加する
@@ -10780,7 +10780,7 @@ Items: {
 		}
 
 		ProfanedSoulArtifact: {
-			DisplayName: 冒涜された魂の遺物
+			DisplayName: 冒涜された魂の結晶
 			Tooltip:
 				'''
 				攻撃の守護者を召喚し、ミニオンのスロットを1増やす
@@ -10828,7 +10828,7 @@ Items: {
 			Tooltip:
 				'''
 				遠距離攻撃のクリティカル確率が5%増加
-				4つのヴォイドフィールドを自分の周囲に召喚する
+				4つのボイドフィールドを自分の周囲に召喚する
 				これらを通過した矢は、ダメージが75%増加し、スピードが2倍になる
 				「夜空よりも暗い物質で満たされている」
 				'''
@@ -10854,7 +10854,7 @@ Items: {
 		}
 
 		RadiantOoze: {
-			DisplayName: レディアントオーズ
+			DisplayName: 放射状の液体
 			Tooltip:
 				'''
 				不足しているライフに応じてHP+2～+6/秒のライフ自然回復を与える
@@ -10863,7 +10863,7 @@ Items: {
 		}
 
 		RaidersTalisman: {
-			DisplayName: 侵略者のタリスマン
+			DisplayName: 侵略者の魔除け
 			Tooltip:
 				'''
 				ステルス攻撃の着地時、ステルス攻撃以外の攻撃に12%のクリティカルボーナスを与える
@@ -10872,7 +10872,7 @@ Items: {
 		}
 
 		RampartofDeities: {
-			DisplayName: 神々の防壁
+			DisplayName: 神々の防盾
 			Tooltip:
 				'''
 				無敵時間を延長し、被ダメージで星を降らせる
@@ -10885,7 +10885,7 @@ Items: {
 		}
 
 		ReaperToothNecklace: {
-			DisplayName: リーパートゥースのネックレス
+			DisplayName: 死神ザメの歯のネックレス
 			Tooltip:
 				'''
 				ダメージ15%増加
@@ -10909,7 +10909,7 @@ Items: {
 		}
 
 		RoseStone: {
-			DisplayName: ローズストーン
+			DisplayName: バラの石
 			Tooltip:
 				'''
 				共に戦うブリムストーンエレメンタルを召喚する
@@ -10928,7 +10928,7 @@ Items: {
 		}
 
 		RottenDogtooth: {
-			DisplayName: 腐った犬歯
+			DisplayName: 腐った犬の歯
 			Tooltip: ステルス攻撃のダメージが8%増加する
 		}
 
@@ -10984,7 +10984,7 @@ Items: {
 		}
 
 		ScuttlersJewel: {
-			DisplayName: 沈没船の宝石
+			DisplayName: スカットラーの宝石
 			Tooltip:
 				'''
 				ステルス攻撃の投射物が破壊されると、ジュエルスパイクを生成する
@@ -11038,7 +11038,7 @@ Items: {
 			Tooltip:
 				'''
 				液体に浸かっている時、防御力が5増加
-				ヴィクタイドアーマーを着用している間、移動速度が10%増加し、HP+1/秒のライフ自然回復を得る
+				ビクタイドアーマーを着用している間、移動速度が10%増加し、HP+1/秒のライフ自然回復を得る
 				'''
 		}
 
@@ -11079,12 +11079,12 @@ Items: {
 		}
 
 		SpelunkersAmulet: {
-			DisplayName: 探検家のアミュレット
+			DisplayName: 探検家のお守り
 			Tooltip: 探検家のポーションの効果が発動し、採掘速度10%増加
 		}
 
 		SpiritGlyph: {
-			DisplayName: 霊魂のグリフ
+			DisplayName: スピリットグリフ
 			Tooltip:
 				'''
 				自分のミニオンが敵にヒットするたびにランダムなバフを得る
@@ -11093,7 +11093,7 @@ Items: {
 		}
 
 		StarbusterCore: {
-			DisplayName: スターバーストコア
+			DisplayName: スターバスターコア
 			Tooltip:
 				'''
 				召喚は敵に当たると爆発を起こす
@@ -11102,7 +11102,7 @@ Items: {
 		}
 
 		StarTaintedGenerator: {
-			DisplayName: 汚染されたジェネレーター
+			DisplayName: 星に汚染された発電機
 			Tooltip:
 				'''
 				最大ミニオン数+2、これ以前の装備とはスタックしない
@@ -11113,7 +11113,7 @@ Items: {
 		}
 
 		StatisBlessing: {
-			DisplayName: スタティスの祝福
+			DisplayName: スタティスの恵み
 			Tooltip:
 				'''
 				ミニオンの最大数が2体増加し、召喚ダメージが10%増加する
@@ -11148,7 +11148,7 @@ Items: {
 		}
 
 		StatisVoidSash: {
-			DisplayName: スタティスの深淵の帯
+			DisplayName: スタティスのボイドサッシュ
 			Tooltip:
 				'''
 				ジャンプ速度が12%向上し、オートジャンプできるようになる
@@ -11344,7 +11344,7 @@ Items: {
 		}
 
 		TheSponge: {
-			DisplayName: スポンジ
+			DisplayName: ジ・スポンジ
 			Tooltip:
 				'''
 				最大180ダメージを吸収するバリアを展開
@@ -11358,7 +11358,7 @@ Items: {
 		}
 
 		TheTransformer: {
-			DisplayName: 変圧器
+			DisplayName: ザ・トランスフォーマー
 			Tooltip:
 				'''
 				すべての電気系デバフダメージを1.5倍にする
@@ -11369,7 +11369,7 @@ Items: {
 		}
 
 		ToxicHeart: {
-			DisplayName: トキシックハート
+			DisplayName: 毒性の心
 			Tooltip:
 				'''
 				自分の周囲に疫病のパルスを発生させ、近くの敵にダメージを与え疫病に感染させる
@@ -11380,7 +11380,7 @@ Items: {
 		}
 
 		TrinketofChi: {
-			DisplayName: 氣のトリンケット
+			DisplayName: 氣の装身具
 			Tooltip:
 				'''
 				15秒間被弾しなかった場合、10%のダメージ軽減効果が発動する
@@ -11407,7 +11407,7 @@ Items: {
 		}
 
 		VeneratedLocket: {
-			DisplayName: 崇拝のロケットペンダント
+			DisplayName: 崇拝されたロケット
 			Tooltip:
 				'''
 				ローグダメージ10%増加
@@ -11423,7 +11423,7 @@ Items: {
 		}
 
 		VoidofCalamity: {
-			DisplayName: ヴォイド・オブ・カラミティ
+			DisplayName: 災厄の虚空
 			Tooltip:
 				'''
 				全ダメージ12%増加
@@ -11432,7 +11432,7 @@ Items: {
 		}
 
 		VoidofExtinction: {
-			DisplayName: ヴォイド・オブ・エクスティンクション
+			DisplayName: 消滅の虚空
 			Tooltip:
 				'''
 				クリティカル確率13%増加
@@ -11442,7 +11442,7 @@ Items: {
 		}
 
 		VoltaicJelly: {
-			DisplayName: ビリビリするゼリー
+			DisplayName: ボルタリックゼリー
 			Tooltip:
 				'''
 				最大ミニオン数+1
@@ -11469,12 +11469,12 @@ Items: {
 			Tooltip:
 				'''
 				体力を回復してくれる砂のエレメンタルを召喚する
-				(^_-)-☆
+				(ー▽・)
 				'''
 		}
 
 		WulfrumAcrobaticsPack: {
-			DisplayName: ウルフラムのメカメカしいバックパック
+			DisplayName: ウルフラムアクロバットパック
 			Tooltip:
 				'''
 				装備したフックをウルフラムのスリングショットに変化させる
@@ -11497,11 +11497,11 @@ Items: {
 		}
 
 		YharimsGift: {
-			DisplayName: ヤリムのギフト
+			DisplayName: ヤリムの贈り物
 			Tooltip:
 				'''
 				被弾後、炎の流星が降り注ぐ
-				竜の粉塵を残しながら移動できる
+				ドラゴンの粉塵を残しながら移動できる
 				ダメージと移動速度が15%増加
 				「神をも殺す力がこの遺物の中で脈打っている」
 				'''
@@ -11550,7 +11550,7 @@ Items: {
 
 		Wings: {
 			AureateBooster: {
-				DisplayName: 金色のブースター
+				DisplayName: アウレイトブースター
 				Tooltip:
 					'''
 					水平速度: 8.00
@@ -11600,7 +11600,7 @@ Items: {
 			}
 
 			HadalMantle: {
-				DisplayName: ハダルの外套
+				DisplayName: ハダルマントル
 				Tooltip:
 					'''
 					水平速度: 7.75
@@ -12051,17 +12051,17 @@ Items: {
 		}
 
 		EutrophicGlass: {
-			DisplayName: ユートロフィックの草
+			DisplayName: 富栄養化した草
 			Tooltip: ""
 		}
 
 		EutrophicSand: {
-			DisplayName: ユートロフィックの砂
+			DisplayName: 富栄養化した砂
 			Tooltip: ""
 		}
 
 		HardenedEutrophicSand: {
-			DisplayName: 硬化したユートロフィックの砂
+			DisplayName: 硬化した富栄養化した砂
 			Tooltip: ""
 		}
 
@@ -12100,7 +12100,7 @@ Items: {
 		}
 
 		BabyCannonballJellyfishBowl: {
-			DisplayName: キャノンボールジェリーの幼体の水槽
+			DisplayName: ホウガンクラゲの幼体の水槽
 			Tooltip: ""
 		}
 
@@ -12110,7 +12110,7 @@ Items: {
 		}
 
 		BabyGhostBellJar: {
-			DisplayName: ベビーゴーストベルジャー
+			DisplayName: ゴーストベルの幼体の瓶
 			Tooltip: ""
 		}
 
@@ -12145,12 +12145,12 @@ Items: {
 		}
 
 		CalamitasRelic: {
-			DisplayName: カラミタスのレリック
+			DisplayName: 至高の魔女カラミタスのレリック
 			Tooltip: ""
 		}
 
 		CeaselessVoidRelic: {
-			DisplayName: シースレスヴォイドのレリック
+			DisplayName: シーセレスボイドのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -12160,7 +12160,7 @@ Items: {
 		}
 
 		CragmawMireRelic: {
-			DisplayName: クラグマイヤーのレリック
+			DisplayName: クラグマウマイアのレリック
 			Tooltip: ""
 		}
 
@@ -12175,7 +12175,7 @@ Items: {
 		}
 
 		DevourerOfGodsRelic: {
-			DisplayName: デバウアー・オブ・ゴッドのレリック
+			DisplayName: デバウラーオブゴッドのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -12190,7 +12190,7 @@ Items: {
 		}
 
 		GiantClamRelic: {
-			DisplayName: 巨大ハマグリのレリック
+			DisplayName: 巨大貝のレリック
 			Tooltip: ""
 		}
 
@@ -12205,17 +12205,17 @@ Items: {
 		}
 
 		LeviathanAnahitaRelic: {
-			DisplayName: リヴァイアサンとアナヒタのレリック
+			DisplayName: リヴァイアサンとアナーヒターのレリック
 			Tooltip: ""
 		}
 
 		MaulerRelic: {
-			DisplayName: マウラーのレリック
+			DisplayName: モーラーのレリック
 			Tooltip: ""
 		}
 
 		NuclearTerrorRelic: {
-			DisplayName: ニュークリアーテラーのレリック
+			DisplayName: ニュークリアテラーのレリック
 			Tooltip: ""
 		}
 
@@ -12230,7 +12230,7 @@ Items: {
 		}
 
 		PlaguebringerGoliathRelic: {
-			DisplayName: プレイグブリンガーゴライアスのレリック
+			DisplayName: プレイグブリンガーゴリアテのレリック
 			Tooltip: あり得たかもしれないものを垣間見る...
 		}
 
@@ -12245,7 +12245,7 @@ Items: {
 		}
 
 		ProvidenceRelic: {
-			DisplayName: プロヴィデンスのレリック
+			DisplayName: プロビデンスのレリック
 			Tooltip: ""
 		}
 
@@ -12260,7 +12260,7 @@ Items: {
 		}
 
 		SlimeGodRelic: {
-			DisplayName: スラムゴッドのレリック
+			DisplayName: スライムゴッドのレリック
 			Tooltip: ""
 		}
 
@@ -12270,7 +12270,7 @@ Items: {
 		}
 
 		YharonRelic: {
-			DisplayName: ヤーロンのレリック
+			DisplayName: ヤロンのレリック
 			Tooltip: 未来の姿を垣間見る...
 		}
 
@@ -12316,7 +12316,7 @@ Items: {
 		}
 
 		CosmicAnvilItem: {
-			DisplayName: コズミックアンビル
+			DisplayName: 宇宙の金床
 			Tooltip:
 				'''
 				恒星崩壊の圧力に耐える別世界の金床
@@ -12325,7 +12325,7 @@ Items: {
 		}
 
 		DraedonsForge: {
-			DisplayName: ドレイドンの創造炉
+			DisplayName: ドレイドンのかまど
 			Tooltip:
 				'''
 				「無限の力を持つエクソエネルギーで動くプラズマ格子の製造機」
@@ -12459,7 +12459,7 @@ Items: {
 
 		DraconicIncense: {
 			DisplayName: 竜炎の香
-			Tooltip: 「竜の炎で空気を燃え上がらせる」
+			Tooltip: 「ドラゴンの炎で空気を燃え上がらせる」
 		}
 
 		ExoObelisk: {
@@ -12473,7 +12473,7 @@ Items: {
 		}
 
 		PlagueHumidifier: {
-			DisplayName: 汚染された加湿器
+			DisplayName: 感染した加湿器
 			Tooltip: 「空気中に軽い疫病を広める」
 		}
 
@@ -12544,7 +12544,7 @@ Items: {
 		}
 
 		AnahitaTrophy: {
-			DisplayName: アナヒタのトロフィー
+			DisplayName: アナーヒターのトロフィー
 			Tooltip: ""
 		}
 
@@ -12599,7 +12599,7 @@ Items: {
 		}
 
 		CeaselessVoidTrophy: {
-			DisplayName: シースレスヴォイドのトロフィー
+			DisplayName: シーセレスボイドのトロフィー
 			Tooltip: ""
 		}
 
@@ -12609,7 +12609,7 @@ Items: {
 		}
 
 		CragmawMireTrophy: {
-			DisplayName: クラグモーマイヤーのトロフィー
+			DisplayName: クラグマウマイアのトロフィー
 			Tooltip: ""
 		}
 
@@ -12624,7 +12624,7 @@ Items: {
 		}
 
 		DevourerofGodsTrophy: {
-			DisplayName: デバウアー・オブ・ゴッドのトロフィー
+			DisplayName: デバウラーオブゴッドのトロフィー
 			Tooltip: ""
 		}
 
@@ -12634,7 +12634,7 @@ Items: {
 		}
 
 		GiantClamTrophy: {
-			DisplayName: 巨大ハマグリのトロフィー
+			DisplayName: 巨大貝のトロフィー
 			Tooltip: ""
 		}
 
@@ -12659,7 +12659,7 @@ Items: {
 		}
 
 		NuclearTerrorTrophy: {
-			DisplayName: ニュークリアーテラーのトロフィー
+			DisplayName: ニュークリアテラーのトロフィー
 			Tooltip: ""
 		}
 
@@ -12674,7 +12674,7 @@ Items: {
 		}
 
 		PlaguebringerGoliathTrophy: {
-			DisplayName: プレイグブリンガーゴライアスのトロフィー
+			DisplayName: プレイグブリンガーゴリアテのトロフィー
 			Tooltip: ""
 		}
 
@@ -12689,7 +12689,7 @@ Items: {
 		}
 
 		ProvidenceTrophy: {
-			DisplayName: プロヴィデンスのトロフィー
+			DisplayName: プロビデンスのトロフィー
 			Tooltip: ""
 		}
 
@@ -12709,7 +12709,7 @@ Items: {
 		}
 
 		SupremeCalamitasTrophy: {
-			DisplayName: カラミタスのトロフィー
+			DisplayName: 至高の魔女カラミタスのトロフィー
 			Tooltip: ""
 		}
 
@@ -12734,7 +12734,7 @@ Items: {
 		}
 
 		YharonTrophy: {
-			DisplayName: ヤーロンのトロフィー
+			DisplayName: ヤロンのトロフィー
 			Tooltip: ""
 		}
 
@@ -13438,97 +13438,97 @@ Items: {
 		}
 
 		EutrophicBathtub: {
-			DisplayName: ユートロフィックの浴槽
+			DisplayName: 富栄養化した浴槽
 			Tooltip: ""
 		}
 
 		EutrophicBed: {
-			DisplayName: ユートロフィックのベッド
+			DisplayName: 富栄養化したベッド
 			Tooltip: ""
 		}
 
 		EutrophicBench: {
-			DisplayName: ユートロフィックの台
+			DisplayName: 富栄養化した台
 			Tooltip: ""
 		}
 
 		EutrophicBookcase: {
-			DisplayName: ユートロフィックの本棚
+			DisplayName: 富栄養化した本棚
 			Tooltip: ""
 		}
 
 		EutrophicCandelabra: {
-			DisplayName: ユートロフィックの燭台
+			DisplayName: 富栄養化した燭台
 			Tooltip: ""
 		}
 
 		EutrophicCandle: {
-			DisplayName: ユートロフィックの蝋燭
+			DisplayName: 富栄養化した蝋燭
 			Tooltip: ""
 		}
 
 		EutrophicChair: {
-			DisplayName: ユートロフィックのイス
+			DisplayName: 富栄養化したイス
 			Tooltip: ""
 		}
 
 		EutrophicChandelier: {
-			DisplayName: ユートロフィックのシャンデリア
+			DisplayName: 富栄養化したシャンデリア
 			Tooltip: ""
 		}
 
 		EutrophicChest: {
-			DisplayName: ユートロフィックの宝箱
+			DisplayName: 富栄養化した宝箱
 			Tooltip: ""
 		}
 
 		EutrophicClock: {
-			DisplayName: ユートロフィックの時計
+			DisplayName: 富栄養化した時計
 			Tooltip: ""
 		}
 
 		EutrophicDoor: {
-			DisplayName: ユートロフィックのドア
+			DisplayName: 富栄養化したドア
 			Tooltip: ""
 		}
 
 		EutrophicDresser: {
-			DisplayName: ユートロフィックのドレッサー
+			DisplayName: 富栄養化したドレッサー
 			Tooltip: ""
 		}
 
 		EutrophicLamp: {
-			DisplayName: ユートロフィックのランプ
+			DisplayName: 富栄養化したランプ
 			Tooltip: ""
 		}
 
 		EutrophicLantern: {
-			DisplayName: ユートロフィックのランタン
+			DisplayName: 富栄養化したランタン
 			Tooltip: ""
 		}
 
 		EutrophicPiano: {
-			DisplayName: ユートロフィックのピアノ
+			DisplayName: 富栄養化したピアノ
 			Tooltip: ""
 		}
 
 		EutrophicPlatform: {
-			DisplayName: ユートロフィックの足場
+			DisplayName: 富栄養化した足場
 			Tooltip: ""
 		}
 
 		EutrophicSink: {
-			DisplayName: ユートロフィックのシンク
+			DisplayName: 富栄養化したシンク
 			Tooltip: 水源としてカウントされる
 		}
 
 		EutrophicTable: {
-			DisplayName: ユートロフィックのテーブル
+			DisplayName: 富栄養化したテーブル
 			Tooltip: ""
 		}
 
 		EutrophicWorkBench: {
-			DisplayName: ユートロフィックの作業台
+			DisplayName: 富栄養化した作業台
 			Tooltip: ""
 		}
 
@@ -14783,7 +14783,7 @@ Items: {
 
 		AuricOre: {
 			DisplayName: オーリック鉱石
-			Tooltip: 「長い間失われていた竜の力を注入された岩」
+			Tooltip: 「長い間失われていたドラゴンの力を注入された岩」
 		}
 
 		CryonicOre: {
@@ -14842,7 +14842,7 @@ Items: {
 		}
 
 		Havocplate: {
-			DisplayName: ハボックプレート
+			DisplayName: カオスプレート
 			Tooltip: 別世界のエネルギーに共鳴する
 		}
 
@@ -14867,12 +14867,12 @@ Items: {
 		}
 
 		PyreMantle: {
-			DisplayName: 薪の外套
+			DisplayName: 薪のマントル
 			Tooltip: ""
 		}
 
 		PyreMantleMolten: {
-			DisplayName: 溶けた薪の外套
+			DisplayName: 溶けた薪のマントル
 			Tooltip: ""
 		}
 
@@ -14932,7 +14932,7 @@ Items: {
 		}
 
 		Voidstone: {
-			DisplayName: ヴォイドストーン
+			DisplayName: ボイドストーン
 			Tooltip: ""
 		}
 
@@ -14947,7 +14947,7 @@ Items: {
 		}
 
 		AerialiteBrickWall: {
-			DisplayName: エアリアライトレンガの壁
+			DisplayName: エリアライトレンガの壁
 			Tooltip: ""
 		}
 
@@ -15072,12 +15072,12 @@ Items: {
 		}
 
 		EutrophicSandWall: {
-			DisplayName: 危険なユートロフィックの砂の壁
+			DisplayName: 危険な富栄養化した砂の壁
 			Tooltip: ""
 		}
 
 		EutrophicSandWallSafe: {
-			DisplayName: ユートロフィックの砂の壁
+			DisplayName: 富栄養化した砂の壁
 			Tooltip: ""
 		}
 
@@ -15361,7 +15361,7 @@ Items: {
 			Tooltip:
 				'''
 				クレンタミネーターで使用
-				アストラルの汚染を広げる
+				アストラル感染を広げる
 				'''
 		}
 
@@ -15408,7 +15408,7 @@ Items: {
 		}
 
 		ElysianArrow: {
-			DisplayName: エリュシオンの矢
+			DisplayName: エリシアンの矢
 			Tooltip: 空から流星を召喚する
 		}
 
@@ -15512,19 +15512,19 @@ Items: {
 		}
 
 		VeriumBolt: {
-			DisplayName: ヴェリウムの矢
+			DisplayName: ベリウムボルト
 			Tooltip:
 				'''
 				ヒットした敵にマークをつけ、しばらくしてから追加ダメージを与える
 				このダメージは敵に当たった矢の数に応じてスタックする
-				「逃げられないぞ！」
+				「逃げ場はないぞ！」
 				'''
 		}
 	}
 
 	Potions: {
 		AnechoicCoating: {
-			DisplayName: 無響性コーティング
+			DisplayName: 無響コーティング剤
 			Tooltip: 深淵で他の生物に発見されづらくなる
 		}
 
@@ -15558,7 +15558,7 @@ Items: {
 		}
 
 		BoundingPotion: {
-			DisplayName: 弾性のポーション
+			DisplayName: バウンディングポーション
 			Tooltip: ジャンプ速度5％アップ、落下ダメージ耐性25ブロック追加、ジャンプの高さアップ
 		}
 
@@ -15596,8 +15596,8 @@ Items: {
 		}
 
 		FlaskOfCrumbling: {
-			DisplayName: 老朽化のフラスコ
-			Tooltip: 近接、鞭、ローグの攻撃は、老朽化を与える
+			DisplayName: 砕きのフラスコ
+			Tooltip: 近接、鞭、ローグの攻撃は、崩壊を与える
 		}
 
 		FlaskOfHolyFlames: {
@@ -15621,7 +15621,7 @@ Items: {
 		}
 
 		OmegaHealingPotion: {
-			DisplayName: オメガヒーリングポーション
+			DisplayName: オメガライフポーション
 			Tooltip: ""
 		}
 
@@ -15656,7 +15656,7 @@ Items: {
 		}
 
 		SoaringPotion: {
-			DisplayName: 滑空のポーション
+			DisplayName: 飛翔のポーション
 			Tooltip:
 				'''
 				飛行時間と水平飛行速度が10％向上
@@ -15666,17 +15666,17 @@ Items: {
 		}
 
 		SulphurskinPotion: {
-			DisplayName: 硫黄の肌のポーション
+			DisplayName: 硫黄皮のポーション
 			Tooltip: 硫黄水の影響を軽減する
 		}
 
 		SupremeHealingPotion: {
-			DisplayName: 至高のヒーリングポーション
+			DisplayName: シュプリームライフポーション
 			Tooltip: ""
 		}
 
 		SupremeManaPotion: {
-			DisplayName: 至高のマナポーション
+			DisplayName: シュプリームマナポーション
 			Tooltip: ""
 		}
 
@@ -15691,7 +15691,7 @@ Items: {
 		}
 
 		ZenPotion: {
-			DisplayName: 禅のポーション
+			DisplayName: 静慮のポーション
 			Tooltip: 敵のスポーン率が大幅に減少
 		}
 
@@ -15944,10 +15944,10 @@ Items: {
 
 	SummonItems: {
 		Abombination: {
-			DisplayName: 汚染された通信機
+			DisplayName: ゴリアテ通信機
 			Tooltip:
 				'''
-				ジャングルで使用するとプレイグブリンガーゴライアスを召喚する
+				ジャングルで使用するとプレイグブリンガーゴリアテを召喚する
 				ジャングルの外に出ると発狂する
 				消費されない
 				「疫病のナノウイルスが認識できる周波数を発することができる無線機」
@@ -15958,15 +15958,15 @@ Items: {
 			DisplayName: アストラルの塊
 			Tooltip:
 				'''
-				アストラル汚染地帯で使用するとアストラムアウレウスを召喚する
-				日中にアストラル汚染地帯の外に出ると発狂する
+				アストラル感染地帯で使用するとアストラムアウレウスを召喚する
+				日中にアストラル感染地帯の外に出ると発狂する
 				消費されない
 				「アストラルの要塞が新しいターゲットを見つけたようだ」
 				'''
 		}
 
 		BloodwormItem: {
-			DisplayName: 血のワーム
+			DisplayName: ブラッドワーム
 			Tooltip:
 				'''
 				硫黄の海で釣り餌として使った場合、オールドデュークを釣り上げることができる
@@ -15975,7 +15975,7 @@ Items: {
 		}
 
 		BloodyWormFood: {
-			DisplayName: 血のワームの餌
+			DisplayName: 血まみれのワームのエサ
 			Tooltip:
 				'''
 				真紅で使用するとパーフォレーターハイヴを召喚する
@@ -16010,14 +16010,14 @@ Items: {
 			DisplayName: 宇宙のワーム
 			Tooltip:
 				'''
-				デバウアー・オブ・ゴッドを召喚する
+				デバウラーオブゴッドを召喚する
 				消費されない
 				「名もなき蛇が、あなたのために旅立った」
 				'''
 		}
 
 		CryoKey: {
-			DisplayName: 凍りついた鍵
+			DisplayName: クライオキー
 			GFBName: アチアチの鍵
 			Tooltip:
 				'''
@@ -16031,7 +16031,7 @@ Items: {
 		}
 
 		DeathWhistle: {
-			DisplayName: 死の笛
+			DisplayName: デスホイッスル
 			Tooltip:
 				'''
 				ラヴェジャーを召喚する
@@ -16052,7 +16052,7 @@ Items: {
 		}
 
 		DesertMedallion: {
-			DisplayName: 砂漠のメダリオン
+			DisplayName: デザートメダリオン
 			Tooltip:
 				'''
 				砂漠バイオームで使用するとデザートスカージを召喚する
@@ -16063,12 +16063,12 @@ Items: {
 		}
 
 		EidolonTablet: {
-			DisplayName: 幽玄の石板
+			DisplayName: エイドロンの石板
 			Tooltip:
 				'''
 				狂信者を召喚する
 				消費されない
-				「竜の教団に崇められた古代の遺物」
+				「ドラゴンの教団に崇められた古代の遺物」
 				'''
 		}
 
@@ -16096,7 +16096,7 @@ Items: {
 		}
 
 		CausticTear: {
-			DisplayName: 腐食の涙
+			DisplayName: 苛性の涙
 			Tooltip:
 				'''
 				硫黄の海に酸性雨を降らせる
@@ -16114,7 +16114,7 @@ Items: {
 		}
 
 		NecroplasmicBeacon: {
-			DisplayName: ネクロプラズムのビーコン
+			DisplayName: ネクロプラズムビーコン
 			Tooltip:
 				'''
 				ダンジョンで使用するとポルターガストを召喚する
@@ -16163,7 +16163,7 @@ Items: {
 			DisplayName: 冒涜されたコア
 			Tooltip:
 				'''
-				聖域または地底世界で使用するとプロヴィデンスを召喚する
+				聖域または地底世界で使用するとプロビデンスを召喚する
 				バイオームによってドロップアイテムが変化する
 				夜の間は発狂する
 				消費されない
@@ -16196,7 +16196,7 @@ Items: {
 			SpawnInfo: この力は異世界の存在を引き寄せる
 			SpawnVoid:
 				'''
-				シースレスヴォイドを召喚する
+				シーセレスボイドを召喚する
 				地上にいると発狂する
 				'''
 			SpawnSignus: シグナスを召喚する
@@ -16207,24 +16207,24 @@ Items: {
 			DisplayName: 砂嵐のコア
 			Tooltip:
 				'''
-				"[BIOME] で使用すると、グレート・サンド・シャークを召喚する"
+				"[BIOME] で使用すると、グレートサンドシャークを召喚する"
 				消費されない
 				'''
 		}
 
 		Seafood: {
-			DisplayName: 海の餌
+			DisplayName: シーフード
 			Tooltip:
 				'''
 				硫黄の海で使用するとアクアティックスカージを召喚する
 				硫黄の海の外に出ると発狂する
 				消費されない
-				「大物を釣るための大きな餌。海の怪物には気をつけろ」
+				「大物を釣るための大きなエサ。海の怪物には気をつけろ」
 				'''
 		}
 
 		Starcore: {
-			DisplayName: 星核
+			DisplayName: スターコア
 			Tooltip:
 				'''
 				アストラルビーコンでアストラムデウスを召喚するが、消費されない
@@ -16258,7 +16258,7 @@ Items: {
 			DisplayName: 祝福された不死鳥の卵
 			Tooltip:
 				'''
-				再臨の龍、ヤーロンを召喚する
+				再臨の龍、ヤロンを召喚する
 				火の壁の外に出ると発狂する
 				消費されない
 				「龍があなたを見守り、あなたを待っていることを象徴するもの」
@@ -16427,7 +16427,7 @@ Items: {
 			}
 
 			FathomSwarmerBoots: {
-				DisplayName: ファソムスワーマーの足甲
+				DisplayName: ファソムスウォーマーの足甲
 				Tooltip:
 					'''
 					召喚ダメージ4%増加
@@ -16437,7 +16437,7 @@ Items: {
 			}
 
 			FathomSwarmerBreastplate: {
-				DisplayName: ファソムスワーマーの鎧
+				DisplayName: ファソムスウォーマーの鎧
 				Tooltip:
 					'''
 					ダメージ軽減率6%増加
@@ -16448,7 +16448,7 @@ Items: {
 			}
 
 			FathomSwarmerVisage: {
-				DisplayName: ファソムスワーマーの面
+				DisplayName: ファソムスウォーマーの面
 				Tooltip:
 					'''
 					召喚ダメージ5%増加
@@ -16714,7 +16714,7 @@ Items: {
 			}
 
 			ReaverCuisses: {
-				DisplayName: リーヴァーのもも当て
+				DisplayName: リーバーのもも当て
 				Tooltip:
 					'''
 					クリティカル確率5%増加
@@ -16723,7 +16723,7 @@ Items: {
 			}
 
 			ReaverHeadExplore: {
-				DisplayName: リーヴァーのヘッドギア
+				DisplayName: リーバーのヘッドギア
 				Tooltip:
 					'''
 					採掘速度とブロック/壁の配置速度が20%向上
@@ -16741,7 +16741,7 @@ Items: {
 			}
 
 			ReaverHeadMobility: {
-				DisplayName: リーヴァーのヴィザージュ
+				DisplayName: リーバーのヴィザージュ
 				Tooltip: ジャンプ速度10%増加、移動速度15%増加
 				SetBonus:
 					'''
@@ -16753,7 +16753,7 @@ Items: {
 			}
 
 			ReaverHeadTank: {
-				DisplayName: リーヴァーの兜
+				DisplayName: リーバーの兜
 				Tooltip:
 					'''
 					ダメージ軽減が15%増加するが、ダメージは30%減少
@@ -16769,12 +16769,12 @@ Items: {
 					すべての攻撃はごく稀にライフを奪い、ライフの回復速度を速める
 					移動速度と飛行時間が20%減少
 					敵のダメージを反射し、スパイクを召喚する
-					自分がダメージを受けた時、25%の確率でリーヴァーの怒りが発動する
+					自分がダメージを受けた時、25%の確率でリーバーの怒りが発動する
 					'''
 			}
 
 			ReaverScaleMail: {
-				DisplayName: リーヴァーの鱗鎧
+				DisplayName: リーバーの鱗鎧
 				Tooltip:
 					'''
 					ダメージ9%増加、クリティカル確率4%増加
@@ -16788,7 +16788,7 @@ Items: {
 			}
 
 			TitanHeartMantle: {
-				DisplayName: タイタンハートの外套
+				DisplayName: タイタンハートのマント
 				Tooltip:
 					'''
 					45%の確率でローグアイテムを消費しない
@@ -17020,7 +17020,7 @@ Items: {
 					'''
 					召喚ダメージ100%増加、最大ミニオン数+10
 					シャドウビームと悪魔の鎌は、被弾したときに発射される
-					友好的な赤い悪魔が後をついて回る
+					友好的なレッドデビルが後をついて回る
 					{0}を押すと、近くの敵に暗黒魔法を10秒間付与する
 					これにより、自分の被ダメージが1.25倍になるが、敵は被ダメージが2.25倍になる
 					'''
@@ -17510,7 +17510,7 @@ Items: {
 			}
 
 			MarniteArchitectToga: {
-				DisplayName: マーナイトの建築用外套
+				DisplayName: マーナイトの建築用トーガ
 				Tooltip: ブロックの配置速度が50%向上
 			}
 
@@ -17631,7 +17631,7 @@ Items: {
 			}
 
 			VictideBreastplate: {
-				DisplayName: ヴィクタイドの鎧
+				DisplayName: ビクタイドの鎧
 				Tooltip:
 					'''
 					ダメージ軽減とクリティカル確率が5%増加
@@ -17646,7 +17646,7 @@ Items: {
 			}
 
 			VictideGreaves: {
-				DisplayName: ヴィクタイドの足甲
+				DisplayName: ビクタイドの足甲
 				Tooltip:
 					'''
 					移動速度が8%増加
@@ -17655,13 +17655,13 @@ Items: {
 			}
 
 			VictideHeadMagic: {
-				DisplayName: ヴィクタイドのフード
+				DisplayName: ビクタイドのフード
 				Tooltip: 魔法ダメージ5%増加
 				SetBonus: 液体に浸かっている間、HP+1.5/秒のライフ自然回復、魔法ダメージ10%増加
 			}
 
 			VictideHeadMelee: {
-				DisplayName: ヴィクタイドのシェルメット
+				DisplayName: ビクタイドのシェルメット
 				Tooltip: 近接攻撃ダメージ5%増加
 				SetBonus:
 					'''
@@ -17671,13 +17671,13 @@ Items: {
 			}
 
 			VictideHeadRanged: {
-				DisplayName: ヴィクタイドのコーラルターバン
+				DisplayName: ビクタイドのコーラルターバン
 				Tooltip: 遠距離ダメージ5%増加
 				SetBonus: 液体に浸かっている間、HP+1.5/秒のライフ自然回復、遠距離ダメージが10%増加する
 			}
 
 			VictideHeadRogue: {
-				DisplayName: ヴィクタイドのヘッドクラブ
+				DisplayName: ビクタイドのヘッドクラブ
 				Tooltip: ローグダメージ5%増加
 				SetBonus:
 					'''
@@ -17687,7 +17687,7 @@ Items: {
 			}
 
 			VictideHeadSummon: {
-				DisplayName: ヴィクタイドの仮面
+				DisplayName: ビクタイドの仮面
 				Tooltip: 召喚ダメージ10%増加
 				SetBonus:
 					'''
@@ -17742,7 +17742,7 @@ Items: {
 			}
 
 			AnahitaMask: {
-				DisplayName: アナヒタのマスク
+				DisplayName: アナーヒターのマスク
 				Tooltip: ""
 			}
 
@@ -17802,7 +17802,7 @@ Items: {
 			}
 
 			BumblefuckMask: {
-				DisplayName: ドラゴンフォーリーのマスク
+				DisplayName: ドラゴンフォリーのマスク
 				Tooltip: ""
 			}
 
@@ -17812,7 +17812,7 @@ Items: {
 			}
 
 			CeaselessVoidMask: {
-				DisplayName: シースレスヴォイドのマスク
+				DisplayName: シーセレスボイドのマスク
 				Tooltip: ""
 			}
 
@@ -17832,7 +17832,7 @@ Items: {
 			}
 
 			DevourerofGodsMask: {
-				DisplayName: デバウアー・オブ・ゴッドのマスク
+				DisplayName: デバウラーオブゴッドのマスク
 				Tooltip: ""
 			}
 
@@ -17857,7 +17857,7 @@ Items: {
 			}
 
 			HoodOfCalamity: {
-				DisplayName: フード・オブ・カラミティ
+				DisplayName: 災厄のフード
 				Tooltip: ""
 			}
 
@@ -17892,7 +17892,7 @@ Items: {
 			}
 
 			PlaguebringerGoliathMask: {
-				DisplayName: プレイグブリンガーゴライアスのマスク
+				DisplayName: プレイグブリンガーゴリアテのマスク
 				Tooltip: ""
 			}
 
@@ -17907,17 +17907,17 @@ Items: {
 			}
 
 			ProvidenceMask: {
-				DisplayName: プロヴィデンスのマスク
+				DisplayName: プロビデンスのマスク
 				Tooltip: ""
 			}
 
 			RavagerMask: {
-				DisplayName: ラベジャーのマスク
+				DisplayName: ラヴェジャーのマスク
 				Tooltip: ""
 			}
 
 			RobesOfCalamity: {
-				DisplayName: ローブ・オブ・カラミタス
+				DisplayName: 災厄のローブ
 				Tooltip: ""
 			}
 
@@ -17977,7 +17977,7 @@ Items: {
 			}
 
 			YharonMask: {
-				DisplayName: ヤーロンのマスク
+				DisplayName: ヤロンのマスク
 				Tooltip: ""
 			}
 		}
@@ -17990,17 +17990,17 @@ Items: {
 		}
 
 		AerialHamaxe: {
-			DisplayName: エリアルハンマーアックス
+			DisplayName: エリアルのハンマーアックス
 			Tooltip: ""
 		}
 
 		AstralHamaxe: {
-			DisplayName: アストラルハンマーアックス
+			DisplayName: アストラルのハンマーアックス
 			Tooltip: ""
 		}
 
 		AstralPickaxe: {
-			DisplayName: アストラルピッケル
+			DisplayName: アストラルのつるはし
 			Tooltip: ""
 		}
 
@@ -18014,17 +18014,17 @@ Items: {
 		}
 
 		BeastialPickaxe: {
-			DisplayName: ビースティアルピッケル
+			DisplayName: 野獣的なつるはし
 			Tooltip: ""
 		}
 
 		BerserkerWaraxe: {
-			DisplayName: 狂戦士の戦斧
+			DisplayName: バーサーカーの戦斧
 			Tooltip: ""
 		}
 
 		BlossomPickaxe: {
-			DisplayName: 開花のツルハシ
+			DisplayName: ブロッサムのつるはし
 			Tooltip: オーリック鉱石の採掘が可能
 		}
 
@@ -18079,17 +18079,17 @@ Items: {
 		}
 
 		FellerofEvergreens: {
-			DisplayName: 常緑樹の伐採者
+			DisplayName: フェラーオブエバーグリーン
 			Tooltip: ""
 		}
 
 		Gelpick: {
-			DisplayName: ゼリーツルハシ
+			DisplayName: ゼリーのつるはし
 			Tooltip: ""
 		}
 
 		GenesisPickaxe: {
-			DisplayName: 始まりのツルハシ
+			DisplayName: ジェネシスのつるはし
 			Tooltip: ウエリブルーム鉱石の採掘が可能
 		}
 
@@ -18103,7 +18103,7 @@ Items: {
 		}
 
 		GreatbayPickaxe: {
-			DisplayName: グレートベイツルハシ
+			DisplayName: グレートベイのつるはし
 			Tooltip: デモナイト、クリムタン、メテオライト、シープリズム、シープリズム水晶を採掘できる
 		}
 
@@ -18135,27 +18135,27 @@ Items: {
 		}
 
 		ReefclawHamaxe: {
-			DisplayName: リーフクロウハンマーアックス
+			DisplayName: リーフクロウのハンマーアックス
 			Tooltip: ""
 		}
 
 		SeismicHampick: {
-			DisplayName: サイスミックハンマーツルハシ
+			DisplayName: サイスミックのハンマーつるはし
 			Tooltip:
 				'''
 				リザードレンガの採掘が可能
-				<left> でツルハシとして使用
+				<left> でつるはしとして使用
 				<right> でハンマーとして使用
 				'''
 		}
 
 		ShardlightPickaxe: {
-			DisplayName: シャードライトツルハシ
+			DisplayName: シャードライトのつるはし
 			Tooltip: ""
 		}
 
 		SkyfringePickaxe: {
-			DisplayName: スカイフリンジピッケル
+			DisplayName: スカイフリンジのつるはし
 			Tooltip: ヘルストーンの採掘が可能
 		}
 
@@ -18174,7 +18174,7 @@ Items: {
 		}
 
 		WulfrumDrill: {
-			DisplayName: ウルフラムドリル
+			DisplayName: ウルフラムのドリル
 			Tooltip: ""
 		}
 
@@ -18230,7 +18230,7 @@ Items: {
 		}
 
 		CeaselessVoidBag: {
-			DisplayName: トレジャーバッグ(シースレスヴォイド)
+			DisplayName: トレジャーバッグ(シーセレスボイド)
 			Tooltip: <right>で開く
 		}
 
@@ -18250,7 +18250,7 @@ Items: {
 		}
 
 		DevourerofGodsBag: {
-			DisplayName: トレジャーバッグ(デバウアー・オブ・ゴッド)
+			DisplayName: トレジャーバッグ(デバウラーオブゴッド)
 			Tooltip: <right>で開く
 		}
 
@@ -18270,7 +18270,7 @@ Items: {
 		}
 
 		LeviathanBag: {
-			DisplayName: トレジャーバッグ(リヴァイアサンとアナヒタ)
+			DisplayName: トレジャーバッグ(リヴァイアサンとアナーヒター)
 			Tooltip: <right>で開く
 		}
 
@@ -18285,7 +18285,7 @@ Items: {
 		}
 
 		PlaguebringerGoliathBag: {
-			DisplayName: トレジャーバッグ(プレイグブリンガーゴライアス)
+			DisplayName: トレジャーバッグ(プレイグブリンガーゴリアテ)
 			Tooltip: <right>で開く
 		}
 
@@ -18295,7 +18295,7 @@ Items: {
 		}
 
 		ProvidenceBag: {
-			DisplayName: トレジャーバッグ(冒涜された女神プロヴィデンス)
+			DisplayName: トレジャーバッグ(冒涜された女神プロビデンス)
 			Tooltip: <right>で開く
 		}
 
@@ -18320,7 +18320,7 @@ Items: {
 		}
 
 		YharonBag: {
-			DisplayName: トレジャーバッグ(ヤーロン)
+			DisplayName: トレジャーバッグ(ヤロン)
 			Tooltip: <right>で開く
 		}
 
@@ -18389,7 +18389,7 @@ Items: {
 		}
 
 		AuricQuantumCoolingCell: {
-			DisplayName: オーリック量子冷却セル
+			DisplayName: オーリック量子冷却電池
 			Tooltip:
 				'''
 				コードブレイカーに組み込むことができる最後の部品
@@ -18400,7 +18400,7 @@ Items: {
 		}
 
 		CodebreakerBase: {
-			DisplayName: コードブレイカーのベース
+			DisplayName: コードブレイカーの基盤
 			Tooltip: ""
 		}
 
@@ -18438,7 +18438,7 @@ Items: {
 			DisplayName: 環境汚染ログ
 			Tooltip:
 				'''
-				[環境ログ] - 汚染とウォール・オブ・フレッシュ
+				[環境ログ] - 汚染とウォールオブフレッシュ
 				クリックして内容を見る
 				'''
 			ContentPage1: 地下世界は、初めて岩山地帯が開拓されてから千年以上の歴史を持つ領域であり、現代と古代の世界を同時に垣間見ることができる場所だ。私がヤリムの軍勢に加わる前、アザフレはこの世界の科学的進歩の中心地だった。爆発物、火器、鍛造技術、さらには魔法の学校に至るまで、すべてがこの都市に根ざしている。この都市が発展できたのは、地下世界では鍛造が容易であり、さらに上層の深淵からシルヴァのエッセンスが滴り落ちるため、食糧が豊富であることが大きな要因だ。そのため、時折デーモンによる襲撃があっても繁栄してきた。
@@ -18474,7 +18474,7 @@ Items: {
 			DisplayName: クライオニック物質ログ
 			Tooltip:
 				'''
-				[物質科学レポート] - 大魔道士のクライオニック鉱石
+				[物質科学レポート] - 大魔導士のクライオニック鉱石
 				クリックして内容を見る
 				'''
 			ContentPage1: 凍てつくツンドラにおいて、氷点下の環境に完全に適応した生物だけが生き残り、繁栄している。この地に常駐する知的生命体はほとんどおらず、鉱夫と大魔導士以外は滅多に見られない。この事実を踏まえ、ヤリムは異常がないか調査するよう私に要請した。加えて、大魔導士から自身の冷たい金属に関する研究を行うよう依頼された。この凍てついた大地では他にやることもないため、その依頼を受け入れることにした。
@@ -18491,7 +18491,7 @@ Items: {
 				'''
 			ContentPage1: 多様な海洋生物の中心地であり、イルメリスの焼け残った最後の部分である農村地域。かつては強大だったが、今ではもはや一部しか残っていない。幸運なことに、魔女は都市を中心に攻撃を集中させ、海の一部は焼失を免れた。私は長い間、この水域を詳しく研究したいと思っていたが、継続する戦争のために実現できなかった。多くの種が絶滅したものの、まだ多くがこの深海で生き残っている。ついにこの研究所で海洋生物を適切に研究し、その本質を学ぶことができるのだ。
 			ContentPage2: これらの洞窟に生息する海洋生物は目を持っているが、それらのほとんどは色を認識できていない。彼らが見えるのは、周囲に散らばるシープリズムの光だけであり、多くの生物はそれを頼りに水没した洞窟を進んでいる。彼らの皮膚に生えた結晶を、当初私はプリズムが定着した結果だと考えていた。しかし、解剖の結果、それは彼らの内部にプリズムを持っており、その結晶が皮膚を突き破って成長していることが明らかになった。これらの結晶の成長は非常に進んでおり、一部の生物は地質学的要素が生物学的要素よりも優れている部分もある。
-			ContentPage3: ここにある標本の中で、異常に大きなハマグリが最も興味深い。平均的な人間の何倍も大きく、その重さゆえに小さな仲間のように移動することができない。その代わり、瞬間移動を行える。調査によると、かつてはさらなる魔法の力を持っていたらしい。しかし、正確な調査を行えなかったため、その報告は間違っている可能性がある。あるいは、イルメリスの滅亡後に彼らの力の源が失われただけかもしれない。後者の可能性を完全に無視するのは賢明ではない...
+			ContentPage3: ここにある標本の中で、異常に大きな貝が最も興味深い。平均的な人間の何倍も大きく、その重さゆえに小さな仲間のように移動することができない。その代わり、瞬間移動を行える。調査によると、かつてはさらなる魔法の力を持っていたらしい。しかし、正確な調査を行えなかったため、その報告は間違っている可能性がある。あるいは、イルメリスの滅亡後に彼らの力の源が失われただけかもしれない。後者の可能性を完全に無視するのは賢明ではない...
 		}
 
 		CyanSeekingMechanism: {
@@ -18595,7 +18595,7 @@ Items: {
 
 	Dyes: {
 		AerialiteDye: {
-			DisplayName: エアリアルの染料
+			DisplayName: エリアルの染料
 			Tooltip: ""
 		}
 
@@ -18650,7 +18650,7 @@ Items: {
 		}
 
 		CeaselessDye: {
-			DisplayName: シースレスの染料
+			DisplayName: シーセレスの染料
 			Tooltip: ""
 		}
 
@@ -18705,7 +18705,7 @@ Items: {
 		}
 
 		WingTimeHairDye: {
-			DisplayName: ウイングタイムヘアの染料
+			DisplayName: ウィングタイムヘアの染料
 			Tooltip: ""
 		}
 
@@ -18740,7 +18740,7 @@ Items: {
 		}
 
 		ReaverDye: {
-			DisplayName: リーヴァーの染料
+			DisplayName: リーバーの染料
 			Tooltip: ""
 		}
 
@@ -18766,18 +18766,18 @@ Items: {
 	}
 
 	Fishing: {
-		CaughtInAstral: "'アストラル汚染地帯で釣れる'"
+		CaughtInAstral: "'アストラル感染地帯で釣れる'"
 		CaughtInBrimstoneCrag: "'地獄の岩山で釣れる'"
 		CaughtInSunkenSea: "'沈没海で釣れる'"
 
 		AldebaranAlewife: {
-			DisplayName: アルデバランのエールワイフ
+			DisplayName: アルデバランエールワイフ
 			Tooltip: 「魚の形をした星のようなもの」
 		}
 
 		ArcturusAstroidean: {
-			DisplayName: アークトゥルスアストリディアン
-			Tooltip: アストラル汚染地帯または硫黄の海で使用すると、釣りパワーが増加する
+			DisplayName: アークトゥルス・アストリディアン
+			Tooltip: アストラル感染地帯または硫黄の海で使用すると、釣りパワーが増加する
 		}
 
 		AstralCrate: {
@@ -18796,12 +18796,12 @@ Items: {
 		}
 
 		ProcyonidPrawn: {
-			DisplayName: プロシオニドプラウン
+			DisplayName: プロシオニドエビ
 			Tooltip: ""
 		}
 
 		TwinklingPollox: {
-			DisplayName: ツウィンクリングポロックス
+			DisplayName: きらめくポルックス
 			Tooltip: 「鱗が水晶のように輝いている」
 		}
 
@@ -18842,17 +18842,17 @@ Items: {
 		}
 
 		CoastalDemonfish: {
-			DisplayName: コアスタルデーモンフィッシュ
+			DisplayName: 海岸の鬼魚
 			Tooltip: 「ツノに触れると呪われる！」
 		}
 
 		CragBullhead: {
-			DisplayName: クラグブルヘッド
+			DisplayName: 岩山のブルヘッド
 			Tooltip: 「その鱗は灼熱のように熱い」
 		}
 
 		DragoonDrizzlefish: {
-			DisplayName: ドラグーンディズルフィッシュ
+			DisplayName: 竜騎兵シグレウオ
 			Tooltip:
 				'''
 				精度の低い火の玉を発射する
@@ -18875,7 +18875,7 @@ Items: {
 		}
 
 		Havocfish: {
-			DisplayName: ハボックフィッシュ
+			DisplayName: カオスフィッシュ
 			Tooltip: <right> を押してエッセンスを取り出す
 		}
 
@@ -18890,17 +18890,17 @@ Items: {
 		}
 
 		Slurpfish: {
-			DisplayName: スラップフィッシュ
+			DisplayName: ススリウオ
 			QuestDescription: 地獄の底にあるって言われてる古代遺跡の魚が欲しいんだけど、流石に危険すぎてさ...というわけで、キミが行ってきて！
 		}
 
 		EutrophicCrate: {
-			DisplayName: ユートロフィッククレート
+			DisplayName: 富栄養化したクレート
 			Tooltip: <right>で開く
 		}
 
 		EutrophicSandfish: {
-			DisplayName: ユートロフィックサンドフィッシュ
+			DisplayName: 富栄養のハタハタ
 			QuestDescription: 砂漠に住むトカゲが地下深くに逃げ込んだらどうなるか、見たことある？ボクはあるよ！でも、ツルツルしすぎてて、捕まえられそうにないんだ。ボクがペットとして飼えるように、キミが取ってきて！
 		}
 
@@ -18915,7 +18915,7 @@ Items: {
 		}
 
 		PrismaticGuppy: {
-			DisplayName: プリズマティックグッピー
+			DisplayName: プリズム状グッピー
 			Tooltip: 「これを水槽に入れるのは狂気の沙汰だ...」
 		}
 
@@ -18960,7 +18960,7 @@ Items: {
 
 		SurfClam: {
 			DisplayName: サーフクラム
-			QuestDescription: ハマグリって珍味として扱われることもあるらしいよ。噂だと、砂漠の地下の大きな海にたくさん棲みついてるらしくて...だから、ボクのために獲ってきてほしいんだ。そうすれば、キミは料理の腕を磨けるし、ボクはおなかいっぱいになれるでしょ?
+			QuestDescription: 貝って珍味として扱われることもあるらしいよ。噂だと、砂漠の地下の大きな海にたくさん棲みついてるらしくて...だから、ボクのために獲ってきてほしいんだ。そうすれば、キミは料理の腕を磨けるし、ボクはおなかいっぱいになれるでしょ?
 		}
 
 		EnchantedStarfish: {
@@ -19091,7 +19091,7 @@ Items: {
 		}
 
 		TheDevourerofCods: {
-			DisplayName: デバウアー・オブ・コッド
+			DisplayName: デバウラー・オブ・コッド
 			Tooltip:
 				'''
 				一度に10本のラインを発射する
@@ -19497,7 +19497,7 @@ Status: {
 		CryogenBossText: クライオジェンはイカれている！
 		PyrogenBossText: パイロジェンはイカれている！
 		CalamitasBossText: お前は私の力を過小評価している...
-		CalamitasBossText2: 兄弟たちよ、再び立ち上がれ
+		CalamitasBossText2: 血族よ
 		CalamitasBossText3: 見事だ...我が子供たちよ...
 		SandSharkText: 砂の中で何かが蠢いている...
 		SandSharkText2: 巨大な捕食者が近づいてくる！
@@ -19994,7 +19994,7 @@ Configs: {
 
 		Interlude3: {
 			Label: "[i:CalamityModMusic/Interlude3MusicBox] 間奏曲 3"
-			Tooltip: Plays Calamity Mod OST - 間奏曲 3, 「Catastrophes before the calamity」を再生します。ヤーロンを討伐した後に再生されます
+			Tooltip: Plays Calamity Mod OST - 間奏曲 3, 「Catastrophes before the calamity」を再生します。ヤロンを討伐した後に再生されます
 		}
 
 		MeterPosLock: {
@@ -20322,7 +20322,7 @@ Bestiary: {
 	Androomba: ドレイドンの最も単純な創造物の一つであり、研究所や住居の掃除を行うために作られた存在である。研究者たちが雑務に時間を費やすことを避けるために設計された。
 	Nanodroid: 周囲の照明、完全な監視、瞬時の修復を可能にする小型機械である。十分な数のナノドロイドがいれば、どんな問題も解決可能である。
 	RepairUnitCritter: ドレイドンの数十年前の研究所が今なお残っているのは、この便利な小さな助手たちのおかげである。ナノドロイドよりもかさばり、エネルギー効率も悪いが、研究所の発電機から電力を供給され、埃を簡単に掃除することができる。一方で、錆の除去には苦労しているようだ。
-	AeroSlime: かつては普通のスライムであったが、エアリアライトの再魔法化によるエネルギー放出で微量の竜のエッセンスを吸収したことで変化した。翼を生やし、空を舞い、他のスライムたちでは到達し得ない高度まで達することができる。
+	AeroSlime: かつては普通のスライムであったが、エリアライトの再魔法化によるエネルギー放出で微量の竜のエッセンスを吸収したことで変化した。翼を生やし、空を舞い、他のスライムたちでは到達し得ない高度まで達することができる。
 	ArmoredDigger: ドレイドンの最新技術と比べると地味だが、現在でも使用されている採掘用の機械である。鉱物の採掘や運搬が主目的であり、かつては数多くの地下研究所のスペースを確保する役割も担っていた。
 	AuroraSpirit: かつては単なる作り話と考えられていたが、ウォールオブフレッシュが倒された後、オーロラスピリットの目撃例が増加した。詳しく調べると、これらの「霊」はむしろ氷の殻をまとったウィスプのような存在であり、パーマフロストによって作られたものらしい。
 	BloomSlime: 冒涜の力を帯びたスライムであり、世界を灰に帰すことでその苦しみを終わらせることを望んでいる。しかし、その単純な生態ゆえに、封印された女神の意志が完全に宿ることは難しいようである。
@@ -20376,7 +20376,7 @@ Bestiary: {
 	Clam: かつてはイルメリアン海の上層部に住んでいたが、大焼却の後に移動を余儀なくされた。その適応力と強靭さのおかげで種は生き延びたが、運もまた重要な要素だった。
 	EutrophicRay: ユートロフィックレイはゴーストベルと共生関係を形成している。このエイはゴーストベルから得たエネルギーを筋肉の電気刺激に活用し、驚異的な速度で移動できるようにしている。
 	GhostBell: 高電圧のクラゲであり、その触れるだけでほとんどの生物を無力化させる力を持つ。イルメリス軍はゴーストベルが発生する電気を利用して海を電撃で守り、ヤリムの軍勢を海境に近づけさせなかった。
-	GiantClam: 周囲の魔力を真珠として結晶化する能力を持つ貝である。成長するにつれて真珠も大きくなり、成体になると「巨大ハマグリ」と分類され、蓄えた魔力をある程度利用できるようになる。
+	GiantClam: 周囲の魔力を真珠として結晶化する能力を持つ貝である。成長するにつれて真珠も大きくなり、成体になると「巨大貝」と分類され、蓄えた魔力をある程度利用できるようになる。
 	PrismBack: 美しいプリズムと穏やかな性質のおかげで、イルメリスの外でも何世紀にもわたりペットとして飼われてきた動物である。その動きは非常に遅くかさばるため通常の狩りには向かないが、背中の海のプリズムが小さな魚を引き寄せる役割を果たしている。
 	SeaFloaty: 平たい体を持つワームであり、世界中の多くの海や海洋で見られる。体が薄いため、狭い隙間や裂け目を簡単に通り抜けることができる。この種は下層の海にしか生息しておらず、大破壊による多くの種の絶滅に巻き込まれることなく無傷で生き残った。
 	SeaMinnow: イルメリスが健在だった時代、シーミノーの群れはその美しさで有名だった。王国に招かれた者たちは、広い海で泳ぐこの魚たちの姿を見るために集まった。しかし、それは今や遠い過去の話であり、シーミノー自身にとっても同様である。
@@ -20394,7 +20394,7 @@ Bestiary: {
 	CosmicGuardian: 名もなき蛇と同種であるが、その思考と機能は遥かに単純で、自身の意志をほとんど持たず、貪欲な主人の命令に盲目的に従うことしかできない。
 	HiveTumor: 腐敗の荒地の脳として機能し、そこで倒された神々の残骸からなる存在。腐敗の生物たちはこの腫瘍を守るために存在し、それを傷つけようとする者を排除する。
 	AquaticAberration: 巨大なリヴァイアサンの子孫であり、その寿命は数時間にすぎない。彼らが知っているのは、主人のために狩りを行う方法だけである。また、空中を水中と同じように飛ぶことができるため、非水生生物もその捕食範囲に入る。
-	LeviathanStart: 水のエレメンタル、アナヒタによって作られた囮。その歌声は甘美で温かさに満ちているが、誘われると危険だ。
+	LeviathanStart: 水のエレメンタル、アナーヒターによって作られた囮。その歌声は甘美で温かさに満ちているが、誘われると危険だ。
 	PerforatorCyst: 痙攣し震える血肉の塊であり、パーフォレーターハイブの中心。クリムゾンを流れる薄められたイコルを吸収し、それをハイブに供給している。これを傷つけようとする者は、真紅の風景と区別がつかなくなるまで破壊されるため、それ以上のことはほとんど知られていない。
 	CosmicLantern: 熱を発しない魔法の炎を持つランタン。その炎をじっと見つめると、全く異なる世界が見えることがある。
 	CorruptSlimeSpawn: スライムは非常に生命力の強い生物で、大型のスライムから切り離されたゼラチンの塊は、独立した存在として活動し続ける。ゼラチンの状態でも、正確には生きているが、意味のある行動を取ることはできない。
@@ -20408,8 +20408,8 @@ Bestiary: {
 	BrimstoneElemental: 彼女の覚醒が、アザフレの崩壊を引き起こしたとされる。その予期せぬ復活は、都市の過剰採掘が原因とされるが、都市の汚染や曖昧な予言を理由とする者もおり、その他にも敵対勢力が意図的に彼女を復活させたとされる噂もある...
 	Bumblefuck: オーリックドラゴンの兄弟姉妹であり、ジャングルの深部に身を隠していた。この生物は羽ばたきにより発生する強力な静電気を使い、獲物を狩る。その静電気は他の生物にとって致命的な赤い雷となる。
 	Calamitas: 夜をさまようこの機械には、至高の魔女の出来損ないのクローンが宿っている。彼女の呪文や黒魔術こそ持っていないが、カラミタスの力の断片だけでも、クローンを狂気に陥れるには十分だった。人間性はもはや残っていない。
-	Cataclysm: 至高の魔女の兄弟の一人を模倣しようとして作られたクローンの哀れな創造物。他の創造物同様、意志を持たず、彼女に操られる単なる贋作にすぎない。
-	Catastrophe: 至高の魔女の兄弟の一人を模倣しようとして作られたクローンのもう一つの哀れな創造物。彼女の努力にもかかわらず、兄弟だとは思えない風貌をしているが、いくつかの特徴はこれらの忌まわしい融合体に残っている。
+	Cataclysm: 至高の魔女の血族の一人を模倣しようとして作られたクローンの哀れな創造物。他の創造物同様、意志を持たず、彼女に操られる単なる贋作にすぎない。
+	Catastrophe: 至高の魔女の血族の一人を模倣しようとして作られたクローンのもう一つの哀れな創造物。彼女の努力にもかかわらず、血族だとは思えない風貌をしているが、いくつかの特徴はこれらの忌まわしい融合体に残っている。
 	CeaselessVoid: -
 	Crabulon: かつてイルメリス海の中心に住んでいた甲殻類であり、大焼却の際に地下へ逃れた。光るキノコが放つ青い光を気に入り、その胞子に侵されながらも故郷を思い出しつつ安らかに死んだ。
 	Cryogen: ヤリムがアークメイジの裏切りに気づいた際、カラミタスにかつての師を追跡し抹殺するよう命じた。涙ながらの対峙の末、カラミタスは師を封印し、その死を偽装することを選んだ。この生きた封印に施された魔法は、パーマフロストから教わったすべての教訓への悲痛な敬意の表れとなっている。
@@ -20422,7 +20422,7 @@ Bestiary: {
 	Thanatos: 神喰いの者の装甲を改良したバリアントを用いて作られた機械の蛇であり、完全無敵を目指して設計された。過熱による排熱の必要性という弱点さえも長所に変え、肉体や金属の生物がその温度に耐えることはできない。その蛇の恐怖を見る者は、真の力を知るだろう。
 	HiveMind: ヤリムの征服が世界全体に広がる以前、この地での虐殺から始まった。冷酷な独裁者であった神々がゴッドシーカーによって倒されると、その軍隊はドミノのように崩壊した。ハイブマインドはその脳がなければ機能しないからだ。
 	Anahita: かつて深淵に住んでいた彼女は、シルヴァの影響が広がるにつれてその地を去った。彼女は海が世界を覆い尽くし、自らの領域が世界全体を包含することを望んでいる。それがすべてのエレメンタルの本質といわれている。
-	Leviathan: 水のエレメンタルであるアナヒタと共に海の深部に潜む巨大な海棲爬虫類。彼女がその種の最後の一体なのか、それとも主人のように単に現れた存在なのかは依然として不明だ。
+	Leviathan: 水のエレメンタルであるアナーヒターと共に海の深部に潜む巨大な海棲爬虫類。彼女がその種の最後の一体なのか、それとも主人のように単に現れた存在なのかは依然として不明だ。
 	GreatSandShark: かつてイルメリス海の沿岸を泳いでいた知的な捕食者であり、多くがヤリムの軍勢を食い止めるために訓練された。しかし、その日が来ると、砂のサメは至高の魔女にとってほとんど気に留めるに値しない存在であったのと、この個体は急いで逃亡したために生き延びることに成功した。
 	OldDuke: 竜の時代に生まれたオーリックドラゴンの分岐種の一つ。オーリックソウルが種全体に与えられた後に生まれたドラゴンは、それなしでやりくりせざるを得ず、輪廻転生の循環から永遠に外れた存在となった。皮肉にも、オーリックドラゴンの時代が終焉を迎えたことで、拒絶された者たちが新世界の生き残りとなった。
 	Perforator: この世界が抱える最悪のものの具現化であり、寄生虫たちはハイブを最大限活用していた。さらに多くのものを貪り、より巨大化することで、かつて失ったものを取り戻そうと企んでいる。
@@ -20430,18 +20430,18 @@ Bestiary: {
 	PlaguebringerGoliath: 疫病の誕生は、魂の力を利用した機械が満足のいく結果をもたらさなかったことから始まった。ドレイドンは絶対的な支配を求め、何十年にもわたってさまざまな変種を試した結果、疫病とそのゴリアテが生まれた。その拡散により、かつて不可能と考えられていた生命への制御が可能となった。
 	Polterghast: かつてここに住んでいたカルト集団を追い出し、永遠に続くと思われていた同盟を偶然にも破壊した狂暴な合成体である。多くの者が失われた知識や財宝を求めてダンジョンに挑むが、そのほとんどはこの地を支配する魂たちの一部となって終わる。
 	PrimordialWyrm: 命の女神に祝福された最初の竜であり、ほとんどのオーリックドラゴンを凌駕するほどの力を持っていた。奪われた光を激しく憎み、たとえ原初の光の使い手が自身の遺物を取り戻しに現れたとしても、激しく抵抗しただろう。だが、どれほど強大であろうとも、決して勝ち目はなかった。
-	ProfanedGuardianCommander: 記憶から失われた時代に、4人の兵士たちが知恵と連携を使ってドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も賢い」と指揮官は言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロヴィデンスが語った。「行動で知恵を証明し、この世界に我らの意志を刻みつけるのだ」と。
-	ProfanedGuardianDefender: 記憶から失われた時代に、4人の戦士たちが互いの忠誠心を頼りにドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も強い」と盾を持つ乙女が言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロヴィデンスが語った。「あなたは信念の強さを欠いている。星を空からもぎ取る試みさえ行わないではないか」と。
-	ProfanedGuardianHealer: 記憶から失われた時代に、4人の戦士たちが果てしない決意を持ってドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も勇敢だ」と聖職者が言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロヴィデンスが語った。「あなたの勇気は真実を見失わせている。その過信があなたを破滅させるだろう」と。
-	Providence: 記憶から失われた時代に、4人の預言者が正義の怒りを持ってドラゴンを倒し、そのリーダーが炎のオーリックソウルを貪った。「世界には導きがなく、その人々は闇に満ちている」と彼女は語った。沈黙が続き、やがてプロヴィデンスが再び語った。「さあ、行こう。そして新たな光で世界を照らそう」と。そして、それは実現した。
+	ProfanedGuardianCommander: 記憶から失われた時代に、4人の兵士たちが知恵と連携を使ってドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も賢い」と指揮官は言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロビデンスが語った。「行動で知恵を証明し、この世界に我らの意志を刻みつけるのだ」と。
+	ProfanedGuardianDefender: 記憶から失われた時代に、4人の戦士たちが互いの忠誠心を頼りにドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も強い」と盾を持つ乙女が言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロビデンスが語った。「あなたは信念の強さを欠いている。星を空からもぎ取る試みさえ行わないではないか」と。
+	ProfanedGuardianHealer: 記憶から失われた時代に、4人の戦士たちが果てしない決意を持ってドラゴンを倒し、一人がそのオーリックソウルを貪った。「私は最も勇敢だ」と聖職者が言い、「私がふさわしい」と主張した。沈黙が続き、やがてプロビデンスが語った。「あなたの勇気は真実を見失わせている。その過信があなたを破滅させるだろう」と。
+	Providence: 記憶から失われた時代に、4人の預言者が正義の怒りを持ってドラゴンを倒し、そのリーダーが炎のオーリックソウルを貪った。「世界には導きがなく、その人々は闇に満ちている」と彼女は語った。沈黙が続き、やがてプロビデンスが再び語った。「さあ、行こう。そして新たな光で世界を照らそう」と。そして、それは実現した。
 	Ravager: 犠牲の神の不完全な再生体であり、再び命を与えられた存在。彼に誓ったネクロマンサーたちは、その壊れた肉体を神殿へ戻し、彼の死を覆すために自身の命を犠牲に捧げた。しかし、死霊術は不完全な技術であり、神であったころの精神はほとんど失われており、目にするすべてを破壊するのみである。
 	Signus: 「『どんな願いにも代償が伴う』。オニキスに結ばれ、血で封印された契約により、いかなる願いも叶う—門、誓い、背信。その代償を払えば、シグナスに関する真実を知ることができるかもしれない。だが、それは価値のある代償だろうか？」
 	SlimeGodPaladin: スライムゴッドは自身の弱点のために直接の戦闘を避け、代わりに守護者を生み出して自らを守らせている。これらの守護者は数えきれないほどの汚染されたスライムから作られており、その汚れが神の純粋さと均衡を取る役割を果たしている。
 	SlimeGodCore: 大食いのスライムであるのにもかかわらず、スライムゴッドは世界の均衡を保つために自らの成長を制限している。それでも十字軍に追われたが、数えきれない戦略的撤退によって生き延びた。彼が守る使命とその手法が、オニキスの同胞たちがこの小さな神を崇拝する理由だ。
 	StormWeaver: 別次元から侵入した害獣であり、多くの者が「空の王」と呼ぶ存在である。上空の大気を他に類を見ない速度で飛び回る。他の歪みの存在とは異なり、ストームウィーバーは高尚な目的を持たず、かつて空に存在した文明の残骸を食い荒らしている。
 	SupremeCalamitas: 10代の若さでほぼ無限の魔力を受け継いだ後、ヤリムの軍勢に加わり、約10年間従軍した。彼女は暴力、狂気と死の終わりなき舞踏に歓喜し、ゴッドシーカーの武器として神々に対抗する終わりなき戦争で使われた。しかし、その内なる炎が消えた今、彼女に残されたのは灰燼の後悔だけである。
-	SupremeCataclysm: 3兄弟の中で最年長であり、生前はアザフレで名高い戦士であった。その生の中で彼の純粋な力に匹敵する者はほとんどいなかった。彼は妹を守るために誓いを立て、彼女が助けを必要とする時は常にそばにいると約束した。その約束は死後も果たされている。
-	SupremeCatastrophe: 3兄弟の次男であり、生前は熟練の剣士であった。傭兵としての血生臭い仕事を選びながらも、妹にできるだけ優しく接し、職業が家族を危険にさらすことのないよう最善を尽くしていた。死後も彼は妹を守り続けている。
+	SupremeCataclysm: 3血族の中で最年長であり、生前はアザフレで名高い戦士であった。その生の中で彼の純粋な力に匹敵する者はほとんどいなかった。彼は妹を守るために誓いを立て、彼女が助けを必要とする時は常にそばにいると約束した。その約束は死後も果たされている。
+	SupremeCatastrophe: 3血族の次男であり、生前は熟練の剣士であった。傭兵としての血生臭い仕事を選びながらも、妹にできるだけ優しく接し、職業が家族を危険にさらすことのないよう最善を尽くしていた。死後も彼は妹を守り続けている。
 	Yharon: かつてドラゴンは自らの領域において無限に近い力を持ち、その力は世界の断片化した魂から直接引き出されていた。彼らは命、死、そして永遠の夜を追いやる偉大な原初の光さえも支配していた。しかし、これらの壮大な存在の中で一体が頂点に近い力を得た。その力は永遠にドラゴンの種を存続させる能力を持つとされたが、その「永遠」でさえも長続きすることはなかった。
 }
 
@@ -20550,30 +20550,30 @@ Events: {
 
 Biomes: {
 	Abyss: 深淵
-	AstralInfection: アストラル汚染地帯
+	AstralInfection: アストラル感染地帯
 	AstralSnow: アストラルの雪原
 	BrimstoneCrags: 地獄の岩山
 	SulphurousSea: 硫黄の海
 	SunkenSea: 沈没海
 
 	AstralDesert: {
-		DisplayName: アストラル汚染砂漠
-		TownNPCDialogueName: アストラル汚染砂漠
+		DisplayName: アストラル感染砂漠
+		TownNPCDialogueName: アストラル感染砂漠
 	}
 
 	AstralBiome: {
-		DisplayName: アストラル汚染地帯
-		TownNPCDialogueName: アストラル汚染地帯
+		DisplayName: アストラル感染地帯
+		TownNPCDialogueName: アストラル感染地帯
 	}
 
 	AstralInfectionBiome: {
-		DisplayName: アストラル汚染地帯
-		TownNPCDialogueName: アストラル汚染地帯
+		DisplayName: アストラル感染地帯
+		TownNPCDialogueName: アストラル感染地帯
 	}
 
 	AstralIce: {
-		DisplayName: アストラル汚染雪原
-		TownNPCDialogueName: アストラル汚染雪原
+		DisplayName: アストラル感染雪原
+		TownNPCDialogueName: アストラル感染雪原
 	}
 
 	AbyssLayer1Biome: {
@@ -20622,13 +20622,13 @@ Biomes: {
 	}
 
 	AstralUnderground: {
-		DisplayName: アストラル汚染地下
-		TownNPCDialogueName: アストラル汚染地下
+		DisplayName: アストラル感染地下
+		TownNPCDialogueName: アストラル感染地下
 	}
 
 	AstralCaveDesert: {
-		DisplayName: アストラル汚染地下砂漠
-		TownNPCDialogueName: アストラル汚染地下砂漠
+		DisplayName: アストラル感染地下砂漠
+		TownNPCDialogueName: アストラル感染地下砂漠
 	}
 }
 
@@ -20879,7 +20879,7 @@ NPCs: {
 	}
 
 	Bumblefuck2: {
-		DisplayName: ドラコニックスワーマー
+		DisplayName: ドラコニックスウォーマー
 	}
 
 	CalamitasClone: {
@@ -20899,7 +20899,7 @@ NPCs: {
 	}
 
 	CeaselessVoid: {
-		DisplayName: シースレスヴォイド
+		DisplayName: シーセレスボイド
 	}
 
 	DarkEnergy: {
@@ -20975,7 +20975,7 @@ NPCs: {
 	}
 
 	DevourerofGodsHead: {
-		DisplayName: デバウアー・オブ・ゴッド
+		DisplayName: デバウラーオブゴッド
 	}
 
 	Androomba: {
@@ -21059,7 +21059,7 @@ NPCs: {
 	}
 
 	Anahita: {
-		DisplayName: アナヒタ
+		DisplayName: アナーヒター
 	}
 
 	AnahitasIceShield: {
@@ -21265,7 +21265,7 @@ NPCs: {
 	}
 
 	WildBumblefuck: {
-		DisplayName: ドラコニックスワーマー
+		DisplayName: ドラコニックスウォーマー
 	}
 
 	WulfrumAmplifier: {
@@ -21349,7 +21349,7 @@ NPCs: {
 	}
 
 	PlaguebringerGoliath: {
-		DisplayName: プレイグブリンガーゴライアス
+		DisplayName: プレイグブリンガーゴリアテ
 	}
 
 	PlagueHomingMissile: {
@@ -21423,19 +21423,19 @@ NPCs: {
 	}
 
 	Providence: {
-		DisplayName: 冒涜された女神、プロヴィデンス
+		DisplayName: 冒涜された女神、プロビデンス
 	}
 
 	ProvSpawnDefense: {
-		DisplayName: プロヴィデンスの守護者
+		DisplayName: プロビデンスの守護者
 	}
 
 	ProvSpawnHealer: {
-		DisplayName: プロヴィデンスの癒し手
+		DisplayName: プロビデンスの癒し手
 	}
 
 	ProvSpawnOffense: {
-		DisplayName: プロヴィデンスの戦士
+		DisplayName: プロビデンスの戦士
 	}
 
 	FlamePillar: {
@@ -21535,7 +21535,7 @@ NPCs: {
 	}
 
 	Clam: {
-		DisplayName: ハマグリ
+		DisplayName: 貝
 	}
 
 	EutrophicRay: {
@@ -21547,7 +21547,7 @@ NPCs: {
 	}
 
 	GiantClam: {
-		DisplayName: 巨大ハマグリ
+		DisplayName: 巨大貝
 	}
 
 	Clamitas: カラミタス
@@ -21596,17 +21596,17 @@ NPCs: {
 	}
 
 	Yharon: {
-		DisplayName: 再臨のドラゴン、ヤーロン
+		DisplayName: 再臨のドラゴン、ヤロン
 	}
 
-	YharonPhase2: 輝ける不死鳥、ヤーロン
+	YharonPhase2: 輝ける不死鳥、ヤロン
 
 	AndroombaFriendly: {
 		DisplayName: アンドロンバパル
 	}
 
 	DILF: {
-		DisplayName: 大魔道士
+		DisplayName: 大魔導士
 
 		Census: {
 			SpawnCondition: クライオジェンを倒したあと
@@ -21754,7 +21754,7 @@ NPCs: {
 		DisplayName: 海の王
 
 		Census: {
-			SpawnCondition: デザートスカージを倒したあとに巨大ハマグリを倒す
+			SpawnCondition: デザートスカージを倒したあとに巨大貝を倒す
 		}
 
 		Name: {
@@ -21767,7 +21767,7 @@ NPCs: {
 			Day1: 我が故郷は滅び、我が民は失われた。しかし、彼らの記憶に敬意を表して、汝を助けよう。
 			Day2: なんとも奇妙だ、汝の種族は未生の者たちの世話を女性に任せるのだな。我らは、雄が卵を孵るまで守るのだ。
 			Day3: 我が陸で生き延びる方法か？それは秘密だ。いや、実は...我も汝と同じく空気を吸えるのだ！
-			Day4: 嗚呼、水中の王国の美しさを汝にも見せられたならば...光が屈折し、珊瑚の家々に照らし出される様は見事であった...
+			Day4: 嗚呼、水中の王国の美しさを汝にも見せられたならば...光が屈折し、サンゴの家々に照らし出される様は見事であった...
 			Night1: 我が家の光の外には、恐ろしき怪物たちが潜んでおる。注意せよ。
 			Night2: 長年の闇に慣れた我が目は、明るい光に適しておらぬ。夜の静けさは心地よい。
 			Night3: 我か？眠らぬ。それが我が本質である。
@@ -21794,13 +21794,13 @@ NPCs: {
 			DoGDefeated3: 神々を貪る者は、本当に謎に満ちた存在だ。あれはこの世界の者ですらないという者もいる。確かなことは、奴が神々のエッセンスそのものを完全に喰らい尽くすことができる存在だということだ。ヤリムがあの怪物を仲間にしたのも当然であろう。
 			PolterghastDefeated1: 深淵には、異常なエネルギーの痕跡がある。そこには恐ろしい生物が潜んでおるが、強力な武器もまた眠っておるに違いない。
 			PolterghastDefeated2: ふむ...強力な天候の変化を感じる。雨が降っている間に硫黄の海へもう一度向かってみるといい、何かが起きるかもしれんぞ。
-			ProvidenceDefeated1: ゴースのルーンには、 プロヴィデンスの特有の魔法が多分に宿っておる。他の魔法とは一線を画す力じゃ。特定の場所でそれを使うと...危険な結果を招くかもしれん。
+			ProvidenceDefeated1: ゴースのルーンには、 プロビデンスの特有の魔法が多分に宿っておる。他の魔法とは一線を画す力じゃ。特定の場所でそれを使うと...危険な結果を招くかもしれん。
 			ProvidenceDefeated2: ブレイラーとスタティスに何が起きたのか気になるところだ。どちらに関しても、ほとんど耳にせぬし目にもしておらぬ。私の時代には、両者とも神々を崇める者たちにとって偉大な英雄であったが、彼らは殺されたのか、捕らえられたのか、それともただ身を隠しているだけなのか？
 			MoonLordDefeated1: 汝の冒険はどうやらジャングルを中心に進んでいるようだな。竜とその無数の子供たちを討伐し、その数が手に負えなくなる前に片付けるべきだ。
 			MoonLordDefeated2: 冒涜された生物は今や聖域と地獄に潜んでいる。それらを十分に倒し、彼らのエッセンスを集めれば、冒涜された守護者たちの注意を引くことができるだろう。
-			MoonLordDefeated3: 冒涜された守護者たちはプロヴィデンスに仕えている。彼女は我ですら嫌悪する神の一柱だ。守護者たちは女神に対する脅威を予め排除しようとする。次の標的は...恐らく汝だろう。
-			MoonLordDefeated4: プロヴィデンスに挑むには、守護者が残した遺物を使うのがよい。だが...なぜヤリムは彼女に挑まないのか？単に興味がないのだろうか。
-			MoonLordDefeated5: プロヴィデンスはヤリムとその軍隊にとって大きな脅威であった。彼女は突然現れては破壊を行い、迎撃をしようとすると姿を消してしまうのだ。少数の戦士が相手ならば、彼女も油断するかもしれぬ。
+			MoonLordDefeated3: 冒涜された守護者たちはプロビデンスに仕えている。彼女は我ですら嫌悪する神の一柱だ。守護者たちは女神に対する脅威を予め排除しようとする。次の標的は...恐らく汝だろう。
+			MoonLordDefeated4: プロビデンスに挑むには、守護者が残した遺物を使うのがよい。だが...なぜヤリムは彼女に挑まないのか？単に興味がないのだろうか。
+			MoonLordDefeated5: プロビデンスはヤリムとその軍隊にとって大きな脅威であった。彼女は突然現れては破壊を行い、迎撃をしようとすると姿を消してしまうのだ。少数の戦士が相手ならば、彼女も油断するかもしれぬ。
 			GolemDefeated1: ダンジョンの前にいる男たちは、ムーンロードを檻に閉じ込め続けるための儀式を行っている。しかし、ヤリムの注意を引きたいならば、まず彼らを倒す必要があるだろう。
 			GolemDefeated2: 深淵は以前にも増して活発になっている。火山性の素材を採掘できるかもしれぬぞ。
 			GolemDefeated3: ジャングルに蔓延する疫病は、通常のものとは明らかに違う。遠目には何の変哲もないように見えるが、よく見ると感染した生物は、光や金属の装甲をまとっていることがわかる。これは...自然のものではない。
@@ -21982,11 +21982,11 @@ GameTips: {
 	BanditTip: 盗賊は貧しい人からは盗まない。彼らに会いたければ、気を引くために大金が必要だ。
 	RefundTip: ゴブリンのよろず屋に鍛え直しを沢山してもらっているのなら、盗賊を訪ねてみるのもいいかもしれない。
 	DrunkPrincessTip: 酔いどれ姫は一緒にパーティーをするには最高だ。彼女の好きなウォッカを持っていれば、引っ越してくるかもしれない。
-	SeaKingTip: かつて海王はハマグリが好きだったが、ハマグリに食べられてから気が変わったらしい。
+	SeaKingTip: かつて海王は貝が好きだったが、貝に食べられてから気が変わったらしい。
 	AmidiasBlessingTip: 海王は、助けを求める人に水中での呼吸を助ける泡を提供することができる
 	ArchmageTip: 大魔導士は、氷の檻に幽閉されている。破壊して解放しよう。
 	BrimstoneWitchTip: 硫黄の魔女は、アイテムにエンチャントを施して新たな力を与えることができる。
-	TitanHeartTip: 巨人の心臓は、アストラル汚染地帯にあるビーコンで供物として使うことができる。
+	TitanHeartTip: 巨人の心臓は、アストラル感染地帯にあるビーコンで供物として使うことができる。
 	NightProvTip: 月の光の下で冒涜された女神を召喚すると、ステータスが大幅に強化されてしまう。
 	DayEoLTip: 日の光の下で光の女帝を召喚すると、さらに凶暴になる。
 	BossEnemyTip: 無害な敵を殺すと、強大なモンスターの怒りを買うことがある！
@@ -22059,11 +22059,11 @@ Tiles: {
 	}
 
 	AerialiteOre: {
-		MapEntry: エアリアライト鉱石
+		MapEntry: エリアライト鉱石
 	}
 
 	AerialiteOreDisenchanted: {
-		MapEntry: 無力化されたエアリアライト鉱石
+		MapEntry: 無力化されたエリアライト鉱石
 	}
 
 	AstralOre: {
@@ -22144,7 +22144,7 @@ BossChecklistIntegration: {
 	}
 
 	AstrumAureus: {
-		SpawnInfo: 夜、アストラル汚染地帯で [i:CalamityMod/AstralChunk] を使う
+		SpawnInfo: 夜、アストラル感染地帯で [i:CalamityMod/AstralChunk] を使う
 		DespawnMessage: "[c/FFD700:アウレウスは全ての脅威を無力化した。事前偵察を再開する]"
 	}
 
@@ -22176,7 +22176,7 @@ BossChecklistIntegration: {
 	}
 
 	CeaselessVoid: {
-		EntryName: シースレスヴォイド
+		EntryName: シーセレスボイド
 		SpawnInfo: ダンジョンで [i:CalamityMod/RuneofKos] を使用する
 		DespawnMessage: "[c/4B0082:古代の空間の裂け目は、未知の場所へと滑り落ちていった...]"
 	}
@@ -22207,14 +22207,14 @@ BossChecklistIntegration: {
 	}
 
 	DevourerofGods: {
-		EntryName: デバウアー・オブ・ゴッド
+		EntryName: デバウラーオブゴッド
 		SpawnInfo: "[i:CalamityMod/CosmicWorm] を使用する"
 		DespawnMessage: "[c/00FFFF:神々を貪る者は深みに戻っていった...]"
 	}
 
 	Dragonfolly: {
 		SpawnInfo: ジャングルで [i:CalamityMod/ExoticPheromones] を使用する
-		DespawnMessage: "[c/FFD700:ドラゴンフォーリーは人里離れたねぐらに戻っていった...]"
+		DespawnMessage: "[c/FFD700:ドラゴンフォリーは人里離れたねぐらに戻っていった...]"
 	}
 
 	ExoMechs: {
@@ -22239,7 +22239,7 @@ BossChecklistIntegration: {
 	}
 
 	Leviathan: {
-		EntryName: アナヒタとリヴァイアサン
+		EntryName: アナーヒターとリヴァイアサン
 		SpawnInfo: 海底に潜む謎の歌手を倒す
 		DespawnMessage: "[c/7FFFD4:水の追放者たちは孤独な仲間もとへ戻っていった...]"
 	}
@@ -22321,9 +22321,9 @@ BossChecklistIntegration: {
 	}
 
 	Yharon: {
-		EntryName: ヤーロン
+		EntryName: ヤロン
 		SpawnInfo: "[i:CalamityMod/YharonEgg] を使用する"
-		DespawnMessage: "[c/FFA500:ヤーロンは任務を果たし、視界から飛び去った...]"
+		DespawnMessage: "[c/FFA500:ヤロンは任務を果たし、視界から飛び去った...]"
 	}
 }
 
@@ -22358,7 +22358,7 @@ Prefixes: {
 		}
 
 		Flimsy: {
-			DisplayName: もろい
+			DisplayName: 脆い
 		}
 
 		Glorious: {
