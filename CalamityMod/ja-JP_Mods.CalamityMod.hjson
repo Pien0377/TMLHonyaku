@@ -15529,7 +15529,7 @@ Items: {
 		}
 
 		AstralInjection: {
-			DisplayName: アストラル感染
+			DisplayName: アストラルの注射
 			Tooltip: 使用するとマナ酔いし、ダメージを受けるが、移動中や呪文を唱えている間でもマナの回復が非常に早くなる
 		}
 
