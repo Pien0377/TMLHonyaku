@@ -397,12 +397,12 @@ Buffs: {
 	}
 
 	LadBuff: {
-		DisplayName: 偉大な父
-		Description: 多くの子供の父が周りを漂っている
+		DisplayName: 父
+		Description: 多くの父が周りを漂っている
 	}
 
 	LeviBuff: {
-		DisplayName: レヴィ
+		DisplayName: リヴァイ
 		Description: 小さくてカワイイ
 	}
 
@@ -512,7 +512,7 @@ Buffs: {
 	}
 
 	AnechoicCoatingBuff: {
-		DisplayName: 無反響コーティング
+		DisplayName: 無響コーティング
 		Description: 深海の生物に見つかりづらくなっている...
 	}
 
@@ -532,7 +532,7 @@ Buffs: {
 	}
 
 	BoundingBuff: {
-		DisplayName: 弾性のポーション
+		DisplayName: バウンディングポーション
 		Description: ジャンプの高さ、スピード、落下ダメージの耐性が増加
 	}
 
@@ -581,7 +581,7 @@ Buffs: {
 	}
 
 	SulphurskinBuff: {
-		DisplayName: 硫黄の皮膚
+		DisplayName: 硫黄皮
 		Description: 硫黄の水の影響が軽減
 	}
 
@@ -991,7 +991,7 @@ Buffs: {
 	}
 
 	WhisperingDeath: {
-		DisplayName: 死の囁き
+		DisplayName: 死のささやき
 		Description: 死が近づき、攻撃力とライフ自然回復が減少する
 	}
 
@@ -1060,8 +1060,8 @@ Buffs: {
 	}
 
 	BrittleStar: {
-		DisplayName: 脆い星
-		Description: 脆い星が共に戦ってくれる
+		DisplayName: もろい星
+		Description: もろい星が共に戦ってくれる
 	}
 
 	CalamarisLamentBuff: {
@@ -1095,8 +1095,8 @@ Buffs: {
 	}
 
 	CorvidHarbringerBuff: {
-		DisplayName: カラス
-		Description: 大きなカラスが共に戦ってくれる
+		DisplayName: ダークレイヴン
+		Description: 強力なカラスが共に戦ってくれる
 	}
 
 	CosmicEnergy: {
@@ -1130,8 +1130,8 @@ Buffs: {
 	}
 
 	DankCreeperBuff: {
-		DisplayName: ダーククリーパー
-		Description: ダーククリーパーが共に戦ってくれる
+		DisplayName: ダンククリーパー
+		Description: ダンククリーパーが共に戦ってくれる
 	}
 
 	DazzlingStabberBuff: {
@@ -1150,12 +1150,12 @@ Buffs: {
 	}
 
 	EndoCooperBuff: {
-		DisplayName: 氷の構造体
-		Description: 氷の構造体が共に戦ってくれる
+		DisplayName: エンドクーパー
+		Description: エンドクーパーが共に戦ってくれる
 	}
 
 	EndoHydraBuff: {
-		DisplayName: エンドーヒドラ
+		DisplayName: エンドヒドラ
 		Description: なぜか共に戦ってくれるようだ...
 	}
 
@@ -2487,7 +2487,7 @@ Items: {
 			}
 
 			StarSwallowerContainmentUnit: {
-				DisplayName: 星喰い封じ込めユニット
+				DisplayName: 星飲み込み収容ユニット
 				Tooltip:
 					'''
 					敵にプラズマを吐くメカニカルなカエルを召喚する
@@ -5015,7 +5015,7 @@ Items: {
 				TooltipNormal:
 					'''
 					硫黄の炎を宿したショットガン
-					右クリックで強力な硫黄弾を発射し、「死の囁き」を付与する
+					右クリックで強力な硫黄弾を発射し、「死のささやき」を付与する
 					'''
 				TooltipGFB:
 					'''
@@ -6921,7 +6921,7 @@ Items: {
 				DisplayName: アイススター
 				Tooltip:
 					'''
-					速いが脆い追尾するアイススターを投げる
+					速いがもろい追尾するアイススターを投げる
 					ステルス攻撃の持続時間が長くなり、最初にヒットした時に小さな追尾する星が生まれる
 					'''
 			}
@@ -7823,7 +7823,7 @@ Items: {
 			}
 
 			BrittleStarStaff: {
-				DisplayName: 脆いヒトデの杖
+				DisplayName: もろいヒトデの杖
 				Tooltip:
 					'''
 					共に戦う小さなヒトデを召喚する
@@ -8034,7 +8034,7 @@ Items: {
 				DisplayName: エンドジェネシス
 				Tooltip:
 					'''
-					共に戦う氷の構造体を召喚する
+					共に戦うエンドクーパーを召喚する
 					再召喚または杖を再使用することで攻撃モードを変更する
 					第1モードでは、レーザーを発射する
 					第2モードでは、追尾する弾を放つ
@@ -10149,7 +10149,7 @@ Items: {
 			Tooltip:
 				'''
 				近接攻撃速度を10%、遠距離攻撃速度を25%、ローグのステルスゲージの増加スピードを15%、ミニオン最大数を1体増加させ、マナコストを25%減少させる
-				死の囁きを無効化
+				死のささやきを無効化
 				「知識こそが...」
 				'''
 		}
@@ -11893,7 +11893,7 @@ Items: {
 		}
 
 		AgedLaboratoryContainmentBoxItem: {
-			DisplayName: 老朽化した研究所の収納箱
+			DisplayName: 老朽化した研究所の収容箱
 			Tooltip: ""
 		}
 
@@ -11962,7 +11962,7 @@ Items: {
 		}
 
 		LaboratoryContainmentBoxItem: {
-			DisplayName: 研究所の収納箱
+			DisplayName: 研究所の収容箱
 			Tooltip: ""
 		}
 
@@ -13878,7 +13878,7 @@ Items: {
 		}
 
 		PlaguedContainmentBrick: {
-			DisplayName: 感染抑制のレンガ
+			DisplayName: 感染した抑制レンガ
 			Tooltip: ""
 		}
 
@@ -15147,12 +15147,12 @@ Items: {
 		}
 
 		PlagueContainmentCellsWall: {
-			DisplayName: プレイグプレートの壁
+			DisplayName: 疫病抑制の壁
 			Tooltip: ""
 		}
 
 		PlaguedPlateWall: {
-			DisplayName: 疫病抑制の壁
+			DisplayName: プレイグプレートの壁
 			Tooltip: ""
 		}
 
@@ -18680,7 +18680,7 @@ Items: {
 		}
 
 		EndothermicDye: {
-			DisplayName: エンドーサーミックの染料
+			DisplayName: 吸熱の染料
 			Tooltip: ""
 		}
 
@@ -20385,7 +20385,7 @@ Bestiary: {
 	DILF: 魔法理論の世界的な第一人者であり、秘術における卓越した技術で知られる。ヤリムの随行員として旅していた時代には、その地位と戦闘に積極的に参加することを嫌う性格から、ゴッドシーカーの助言者を務めていた。
 	FAP: 未知の土地から来た王女である。過去の記憶を忘れるために酒を飲み続けているが、実際には酒にほとんど酔わない。彼女はアルコール飲料や錬金術的な調合品を販売する商売を行っている。
 	SEAHOE: イルメリス海の部族が統一された後、電気の女神オトニルと神秘的な海の神の下で治められた立憲君主国の第17代統治者である。しかし、臣民のいない統治者は存在し得ず、彼の王国はゴッドシーカーのヤリムに抗った者たちから敬意を払われているが、今はもう存在しない。
-	THIEF: この山賊は戦場から略奪したり、他人のものを盗む悪癖を持つが、その行動の動機は主に不当に富を得た富裕層への憎悪である。手段はやや陰湿であるが、与えられた仕事は確実に遂行するため、信頼されている。
+	THIEF: この盗賊は戦場から略奪したり、他人のものを盗む悪癖を持つが、その行動の動機は主に不当に富を得た富裕層への憎悪である。手段はやや陰湿であるが、与えられた仕事は確実に遂行するため、信頼されている。
 	WITCH: 戦争の末期にヤリムの軍勢に加わった魔女。彼女の魔法は非常に強大で、通常の呪文を唱えることがほとんどできないほどである。にもかかわらず、カラミタスはその力の使用を避けており、その理由は心理的負担が重くのしかかるためだ。
 	Brimling: ブリムストーンエレメンタル自身の一部であり、彼女の存在の一部でもある。彼女とそのブリムリングは一心同体であり、彼女は自分自身を大切にするように彼らを大切にしている。重傷を負った際には繭に閉じこもり、さらなるダメージから身を守る。
 	SoulSeeker: 呪われた魂を武器として操ろうとしたクローンの試みで生み出されたこれらの存在は、アザフレの同胞たちよりもわずかに自律性を持っている。しかし、その姿がクローンの外殻に酷似していることから、現在のカラミタスのソウルシーカーよりもアザフレの遺跡にいるものに近いと議論されている。
@@ -21842,7 +21842,7 @@ NPCs: {
 	}
 
 	THIEF: {
-		DisplayName: 山賊
+		DisplayName: 盗賊
 
 		Census: {
 			SpawnCondition: スケルトロンを倒したあとに、 プラチナコイン [i:PlatinumCoin] を持っている
@@ -21979,8 +21979,8 @@ GameTips: {
 	ArsenalLabTip: 地表の地下には、放棄された研究所が点在しているらしい...
 	PlanetoidTip: 小惑星は宇宙に存在する！
 	AbyssTip: 深淵は硫黄の海の地下深くにある。探検する際は、適切な潜水具を用意したほうがいい。
-	BanditTip: 山賊は貧しい人からは盗まない。彼らに会いたければ、気を引くために大金が必要だ。
-	RefundTip: ゴブリンのよろず屋に鍛え直しを沢山してもらっているのなら、山賊を訪ねてみるのもいいかもしれない。
+	BanditTip: 盗賊は貧しい人からは盗まない。彼らに会いたければ、気を引くために大金が必要だ。
+	RefundTip: ゴブリンのよろず屋に鍛え直しを沢山してもらっているのなら、盗賊を訪ねてみるのもいいかもしれない。
 	DrunkPrincessTip: 酔いどれ姫は一緒にパーティーをするには最高だ。彼女の好きなウォッカを持っていれば、引っ越してくるかもしれない。
 	SeaKingTip: かつて海王は貝が好きだったが、貝に食べられてから気が変わったらしい。
 	AmidiasBlessingTip: 海王は、助けを求める人に水中での呼吸を助ける泡を提供することができる
@@ -22018,7 +22018,7 @@ Tiles: {
 	PipeOrgan: パイプオルガン
 	Sconce: 壁掛け燭台
 	Console: コンソール
-	ContainmentBox: 格納ボックス
+	ContainmentBox: 収容箱
 	Display: ディスプレイ
 	ElectricPanel: 電気パネル
 	ReinforcedCrate: 強化された箱
@@ -22358,7 +22358,7 @@ Prefixes: {
 		}
 
 		Flimsy: {
-			DisplayName: 脆い
+			DisplayName: もろい
 		}
 
 		Glorious: {
