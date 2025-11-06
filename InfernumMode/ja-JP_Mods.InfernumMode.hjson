@@ -78,21 +78,21 @@ Status: {
 
 	MultiplayerWarning: InfernumMode: Infernum Modeはシングルプレイ向けのModです。マルチプレイヤーのバグを報告しないでください。
 	SCalCongratulations: …おめでとう。
-	DraedonDefeat10: それでは、お別れです。
-	DraedonDefeat9: さて、そろそろ私は戻ります。もう一度私の作品と戦いたいのなら、コードブレイカーから連絡を。
-	DraedonDefeat8: 腹いせではありませんよ。私はその戦いを観察していたいとすら思っていますからね。
-	DraedonDefeat7HyperplaneMatrix: 賢く使いなさい。
-	DraedonDefeat7: さて、あなたは暴君のもとへ向かおうとしているようですが、私はそれに手を貸すことはできません。
-	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物です。きっと使い道が見つかるでしょう。
+	DraedonDefeat10: それでは、私は機械のところに戻ろう。
+	DraedonDefeat9: そろそろ私は機械のところに戻ろう。もう一度私の作品と戦いたいなら、コードブレイカーから連絡を。
+	DraedonDefeat8: 腹いせではないぞ。私はその戦いを観察していたいとすら思っているからだ。
+	DraedonDefeat7HyperplaneMatrix: 賢く使ってくれ。
+	DraedonDefeat7: 今すぐタイラントと顔を合わせたいだろうが、私はそれを支援することはできない。
+	DraedonDefeat6HyperplaneMatrix: 私の最も有用な創造物だ。きっと使い道が見つかるだろう。
 	DraedonDefeat6: 今は…
-	DraedonDefeat5: あなたが私の理性を超えていると推論するのは、間違ってはないでしょう。
-	DraedonDefeat4HyperplaneMatrix: …内省をお許しください。考えをまとめなければなりません。
-	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれません。
-	DraedonDefeat3HyperplaneMatrix: あなたとの戦闘から得たデータは貴重なものです。
-	DraedonDefeat3: この結果は予想外でした。
-	DraedonDefeat2HyperplaneMatrix: あなたは素晴らしい被験者です。
-	DraedonDefeat2: 私の作品が破壊されるとは、完敗です。
-	DraedonDefeat1: 興味深い、実に興味深い。
+	DraedonDefeat5: 君が私の理性を超えていると推論するのは、間違ってはないだろう。
+	DraedonDefeat4HyperplaneMatrix: …内省的で失礼した。あの戦いの後、考えをまとめなければならない。
+	DraedonDefeat4: …もしかしたら、お礼を差し上げられるかもしれない。
+	DraedonDefeat3HyperplaneMatrix: 君との戦闘から得たデータは貴重なものだ。
+	DraedonDefeat3: この結果は予想外だった。
+	DraedonDefeat2HyperplaneMatrix: 君は素晴らしい被験者だ。
+	DraedonDefeat2: 私の作品が破壊されるとは、完敗だ。
+	DraedonDefeat1: 興味深い…実に興味深い。
 	ExoMechDesperationThanatos2: THANATOS-05:  !MAXIMUM OVERDRIVE CHARGE! 相互破壊プロトコルを準備中
 	ExoMechDesperationThanatos1: THANATOS-05: EXOタレットが深刻なダメージを受けています
 	ExoMechDesperationTwins2: APOLLO-03: 相互破壊プロトコル「THERMONUCLEAR BLITZ」準備中
@@ -100,19 +100,19 @@ Status: {
 	ExoMechDesperationAres2: ARES-09: 相互破壊プロトコル「PRECISION GAMMA-BLASTS」準備中
 	ExoMechDesperationAres1: ARES-09: コアの温度が急上昇　自己破壊が迫っています
 	DraedonAresDesperationBlenderLeaveWarning: あなたは重大な計算ミスを犯した。
-	DraedonEffortMock2: いい調子だ...私の機械に情報を送り続けてください。
-	DraedonEffortMock1: あなたの力は非常に興味深い。
+	DraedonEffortMock2: いい調子だ…私の機械に情報を送り続けてくれ。
+	DraedonEffortMock1: 君の力は非常に興味深い。
 	PostYharonWyrmHint: 深淵の底で原初の光が揺らめく…
 	YharonFinalPhase: 熱気が押し寄せてくる…
 	YharonSecondPhase: 焼けるような暑さだ…
-	DoGDeath5: 私は…
-	DoGDeath4: 私は、決して…
-	DoGDeath3: 私は決して滅びぬ！
-	DoGDeath2: 私は決して滅びぬ！
-	DoGDeath1: 私は決して滅びぬ！
-	DoGTeleportDenial3: そうはさせん！
+	DoGDeath5: 俺は…
+	DoGDeath4: 俺は、決して…
+	DoGDeath3: 俺は滅ぼされない！
+	DoGDeath2: 俺は滅ぼされない！
+	DoGDeath1: 俺は滅ぼされない！
+	DoGTeleportDenial3: そうはさせないぞ！
 	DoGTeleportDenial2: 次元の支配者を出し抜けるなど、夢のまた夢だ！
-	DoGTeleportDenial1: そう簡単に逃げられると思うな！
+	DoGTeleportDenial1: そう簡単に逃げられると思うなよ、ガキ！
 	ProvidenceLavaRise: 地下から溶岩が噴き出てきている！
 	PostMLTempleCreation: 地底世界の果ての灰の中から、冒涜された庭園が出現した！
 	PostCultistColosseumCreation: 砂漠の中心に謎の遺跡が出現した！
@@ -124,7 +124,7 @@ Status: {
 	CalShadowFinalHexSurprise: ああ...
 	CalShadowFinalHexWarning: まだ...終わってない...！私の呪いが...貴様の体を蝕むことになる...
 	CalShadowFinalPhase: まだ始まったばかりだ！
-	CalShadowBrothersSummon: 立ち上がれ、兄弟たちよ...
+	CalShadowBrothersSummon: 立ち上がれ、血族たちよ...
 	AquaticScourgeFinalPhaseAcid: 地下から酸の洪水が押し寄せてくる！
 	InfiniteFlight: 無限飛行をオンにしました！
 	InfernumNeededToEnterColosseum: 闘技場に入るにはInfernumモードをオンにしてください！
@@ -2572,9 +2572,9 @@ PetDialog: {
 	YharonJokeTip1: もし私がキミより先に死んだとしても、キミは生きていけるだろうけど…って、え？死んじゃったの！？ウソでしょ、いいところだったのに！
 	YharonCarpetBombTip: アイツが爆撃してきそうな時はアリーナの端にいた方がいいよ。その方が避けやすい！
 	YharonFlashbangTip: 閃光に惑わされないで！炎がどこにあるかしっかり目を凝らして！
-	YharonSpeedTip: ヤーロンがダッシュを始めるタイミングを覚えておいて！油断してると不意を突かれるよ！
+	YharonSpeedTip: ヤロンがダッシュを始めるタイミングを覚えておいて！油断してると不意を突かれるよ！
 	YharonPostHealTip: えぇ…
-	YharonPreHealTip: もう少しだよ！ヤーロンも限界だ！
+	YharonPreHealTip: もう少しだよ！ヤロンも限界だ！
 	WoFJokeTip1: うーん、やっちゃったね！ま、ガイドをいじめるのはいつでも楽しいし、無駄じゃないよ！
 	WoFTip3: うわっ、あの口、飛ぶのか！？グロすぎるよ…
 	WoFTip2: あの目は本当に怖いね。幸い、自由に撃ち放題...ってわけじゃないみたいだ！
@@ -2608,7 +2608,7 @@ PetDialog: {
 	QueenBeeTip3: 毒は本当にメンドくさいよね。胃石とか、毒を防げるもの、持ってない？
 	QueenBeeTip2: ジャマなスズメバチをまず片付けるのが最優先だよ！
 	QueenBeeTip1: あのハチミツはよく跳ねるね！急いで動きすぎると、無茶苦茶になっちゃう！
-	ProvidenceFinalPhaseTip: プロヴィデンスが何かを準備してるよ！気をつけて！
+	ProvidenceFinalPhaseTip: プロビデンスが何かを準備してるよ！気をつけて！
 	ProvidenceExplosionTip: あの火球は溶岩と当たると爆発するみたい！気をつけて！
 	ProvidenceTip2: 常に攻撃し続ける必要はないよ！緩急が大事！
 	ProvidenceTip1: アイツの攻撃サイクルは音楽と連動してるかも...？
@@ -2621,8 +2621,8 @@ PetDialog: {
 	PrimeJokeTip1: これぞ…絶対にやっちゃダメなことの見本だね。
 	PrimeTeslaTip: 青い地雷が爆発するとガスを撒き散らすよ！気をつけてね！
 	PrimeTip1: 腕はキミが向かう方向を予測してるみたいだね！ギリギリで方向を変えれば、その計算を狂わせられるかも！
-	ProvidenceDuskWarningTip: プロヴィデンスと戦ってる時は、夜にならないように注意してね！
-	ProvidenceDawnWarningTip: プロヴィデンスと戦ってる時は、夜が明けないように気をつけて！
+	ProvidenceDuskWarningTip: プロビデンスと戦ってる時は、夜にならないように注意してね！
+	ProvidenceDawnWarningTip: プロビデンスと戦ってる時は、夜が明けないように気をつけて！
 	PolterghastDesperationPhaseTip: ポルターガストの霊魂が解放されたけど、流石に歓迎はされてないみたいだね...
 	PolterghastTip2: ポルターガストの足が赤くなったら、すぐに離れて！加速する弾が出てくるよ！
 	PolterghastTip1: ダッシュがあれば、回転攻撃をうまく避けれるかも！
@@ -2652,7 +2652,7 @@ PetDialog: {
 	LeviathanFinalPhaseTip: もう少しだよ！ボスよりも自分の動きを意識して！
 	LeviathanTip1: 隕石は同じ方向に分裂するよ！これを利用しよう！
 	AnahitaFinalPhaseTip: ここからが本番！さっきと同じことをやってみて！
-	AnahitaTip1: アナヒタの動きを上手く誘導すれば、隙間ができてうまく避けられるよ！
+	AnahitaTip1: アナーヒターの動きを上手く誘導すれば、隙間ができてうまく避けられるよ！
 	KingSlimeDefeatTip: グーっとバイ、だね！
 	KingSlimeJokeTip1: かなりネバネバした状況だったね…
 	KingSlimeNinjaTip: 忍者は遠くにいるときは手裏剣を投げてくるよ！あまり離れないほうがいいかも！
@@ -2700,9 +2700,9 @@ PetDialog: {
 	DoGBashTip: 逆に真正面から口に向かってダッシュするのとかどう？流石にダメ？
 	DoGDashTip: ダッシュできるアクセサリーとか持ってないの？多分役に立つよ。
 	DoGChargeTip: 頑張って！恐怖に立ち向かって、アイツの口に向かってダッシュするんだ！
-	DoGRoDTip: あれ、もしかしてロッド・オブ・ディスコードはここでは使えないのかも...
+	DoGRoDTip: あれ、もしかしてロッドオブディスコードはここでは使えないのかも...
 	DoGLaserTip: うわ、レーザーが多すぎる！ゆっくり、正確に動こう...
-	DoGTip1: デバウアーの攻撃にはリズムがあるよ。そのリズムを見つけて、いい感じに避けて！
+	DoGTip1: デバウラーの攻撃にはリズムがあるよ。そのリズムを見つけて、いい感じに避けて！
 	DSJokeTip1: 自分をデザートにしちゃったみたいだね...
 	DSFinalPhaseTip: コイツらの餌になるのは時間の問題かもね...
 	DSTip2: グラップリングフックを使えば、イイ感じに避けれるかも！
@@ -3065,7 +3065,7 @@ Items: {
 
 	NuclearTerrorRelic: {
 		Tooltip: ""
-		DisplayName: ニュークリア・テラーのレリック
+		DisplayName: ニュークリアテラーのレリック
 	}
 
 	Dyes: {
@@ -3173,7 +3173,7 @@ Items: {
 	TrufflePlatter: {
 		Tooltip:
 			'''
-			デューク・フィッシュロンを召喚
+			デュークフィッシュロンを召喚
 			海でのみ使用可能
 			消費しない
 			'''
@@ -3183,7 +3183,7 @@ Items: {
 	SparklingTunaCan: {
 		Tooltip:
 			'''
-			巨大ハマグリを召喚する
+			巨大貝を召喚する
 			沈没海でのみ使用可能
 			消費しない
 			'''
@@ -3214,7 +3214,7 @@ Items: {
 	LeviathanDetector: {
 		Tooltip:
 			'''
-			アナヒタを召喚する
+			アナーヒターを召喚する
 			消費しない
 			'''
 		DisplayName: リヴァイアサン探知機
@@ -3233,7 +3233,7 @@ Items: {
 	EvokingSearune: {
 		Tooltip:
 			'''
-			深淵の最深層にいる成体の竜を召喚する
+			深淵の最深層にいる成体のワームを召喚する
 			「最初の神によって形成されたと言われる原初の遺産」
 			消費しない
 			'''
@@ -3281,7 +3281,7 @@ Items: {
 
 	YharonRelic: {
 		Tooltip: GetsChanged
-		DisplayName: ヤーロンのレリック
+		DisplayName: ヤロンのレリック
 	}
 
 	WallOfFleshRelic: {
@@ -3303,7 +3303,7 @@ Items: {
 				'''
 			DefaultMessage:
 				'''
-				あなたは驚異的な結果を残した。残された課題はただ一つ、
+				君は驚異的な結果を残した。残された課題はただ一つ、
 				宇宙のエンジニアに立ち向かえ。
 				'''
 		}
@@ -3368,7 +3368,7 @@ Items: {
 		}
 
 		Tooltip: GetsChanged
-		DisplayName: プロヴィデンスのレリック
+		DisplayName: プロビデンスのレリック
 	}
 
 	ProfanedGuardiansRelic: {
@@ -3393,7 +3393,7 @@ Items: {
 
 	PlaguebringerGoliathRelic: {
 		Tooltip: GetsChanged
-		DisplayName: プラグブリンガーのレリック
+		DisplayName: プレイグブリンガーゴリアテのレリック
 	}
 
 	PerforatorsRelic: {
@@ -3433,7 +3433,7 @@ Items: {
 
 	LeviathanRelic: {
 		Tooltip: GetsChanged
-		DisplayName: リヴァイアサンのレリック
+		DisplayName: リヴァイアサンとアナーヒターレリック
 	}
 
 	KingSlimeRelic: {
@@ -3455,7 +3455,7 @@ Items: {
 
 	GiantClamRelic: {
 		Tooltip: GetsChanged
-		DisplayName: 巨大ハマグリのレリック
+		DisplayName: 巨大貝のレリック
 	}
 
 	ForgottenShadowOfCalamitasRelic: {
@@ -3496,7 +3496,7 @@ Items: {
 
 	DragonfollyRelic: {
 		Tooltip: GetsChanged
-		DisplayName: ドラゴンフォーリーのレリック
+		DisplayName: ドラゴンフォリーのレリック
 	}
 
 	DraedonRelic: {
@@ -3508,7 +3508,7 @@ Items: {
 				'''
 			DefaultMessage:
 				'''
-				あなたは驚異的な結果を残した。残る課題はただ一つ。
+				君は驚異的な結果を残した。残る課題はただ一つ、
 				魔女に立ち向かえ。
 				'''
 		}
@@ -3525,7 +3525,7 @@ Items: {
 			それが最後の試練を乗り越える道しるべとなりますように。
 			'''
 		Tooltip: GetsChanged
-		DisplayName: デバウアーオブゴッドのレリック
+		DisplayName: デバウラーオブゴッドのレリック
 	}
 
 	DestroyerRelic: {
@@ -3560,7 +3560,7 @@ Items: {
 
 	CeaselessVoidRelic: {
 		Tooltip: GetsChanged
-		DisplayName: シースレスヴォイドのレリック
+		DisplayName: シーセレスボイドのレリック
 	}
 
 	BrimstoneElementalRelic: {
@@ -3575,7 +3575,7 @@ Items: {
 
 	BetsyRelic: {
 		Tooltip: GetsChanged
-		DisplayName: ベッツィーのレリック
+		DisplayName: ベッツィのレリック
 	}
 
 	BereftVassalRelic: {
@@ -3595,12 +3595,12 @@ Items: {
 
 	AquaticScourgeRelic: {
 		Tooltip: GetsChanged
-		DisplayName: アクアティック・スカージのレリック
+		DisplayName: アクアティックスカージのレリック
 	}
 
 	AEWRelic: {
 		Tooltip: GetsChanged
-		DisplayName: 原初の竜のレリック
+		DisplayName: プライモーディアルワームのレリック
 	}
 
 	TabletPedestal: {
@@ -3713,12 +3713,12 @@ Items: {
 			　全ては秩序
 			　すべては同じ」
 			'''
-		DisplayName: 超平面マトリクス
+		DisplayName: 超平面マトリックス
 	}
 
 	ElysianRose: {
 		Tooltip: 奈落の底への憧れ…
-		DisplayName: 至高のバラ
+		DisplayName: エリシアンローズ
 	}
 
 	ProfanedCrystalDye: {
@@ -3805,16 +3805,16 @@ Items: {
 	}
 
 	SandstormsCore: {
-		GatewayWarning: あなたのワールドには現在ロスト・ゲートウェイがありません。狂気の崇拝者をもう一度倒して生成してください。
+		GatewayWarning: あなたのワールドには現在ロストゲートウェイがありません。狂気の崇拝者をもう一度倒して生成してください。
 		PortalDetail: 忘れられた闘技場への扉を開く
 	}
 
 	RuneofKos: {
-		DeveloperText: シースレスヴォイドはダンジョンの奥底でしか戦えない
+		DeveloperText: シーセレスボイドはダンジョンの奥底でしか戦えない
 	}
 
 	ProfanedCore: {
-		SummoningText: 地底世界の右端にある冒涜された神殿の祭壇で使用すると、プロヴィデンスを召喚する
+		SummoningText: 地底世界の右端にある冒涜された神殿の祭壇で使用すると、プロビデンスを召喚する
 	}
 
 	EyeofDesolation: {
@@ -4322,7 +4322,7 @@ IntroScreen: {
 
 ExoMechsFight: {
 	ArtemisApolloDesc: アルテミスとアポロは、非常に機敏な機械のペアで、不安定なエネルギーを蓄えている。
-	AresDesc: 6つのエクソ・スーパーウェポンを搭載したヘビー級の極悪非道な怪物、アレス。
+	AresDesc: 6つのエクソスーパーウェポンを搭載したヘビー級の極悪非道な怪物、アレス。
 	ThanatosDesc: タナトス、不浸透性の装甲と無数のレーザー砲塔を備えた蛇のような兵器。
 	PickTwoText: 2つ選んでください。最初のメカは単独で戦い、一定のダメージを与えると、2番目のメカが召喚され、2体同時に戦うことになります。
 }
@@ -4354,7 +4354,7 @@ Configs: {
 	InfernumConfig: {
 		CameraAnimations: {
 			Tooltip: 戦闘中にCeaseless Voidがカメラの挙動を変更するかどうかを決定します。
-			Label: シースレスヴォイド戦カメラ挙動
+			Label: シーセレスボイド戦カメラ挙動
 		}
 
 		CreditsRecordings: {
@@ -4507,7 +4507,7 @@ Achievements: {
 			Description:
 				'''
 				すべての獣が怪物というわけではない！
-				[c/777777:戦闘中に酸メーターを50%以上にすることなく、アクアティック・スカージを倒す]
+				[c/777777:戦闘中に酸メーターを50%以上にすることなく、アクアティックスカージを倒す]
 				'''
 			DisplayName: 穢れなき者
 		}
@@ -4534,7 +4534,7 @@ Achievements: {
 			Description:
 				'''
 				太陽の風、太陽の鐘の音...
-				[c/777777:Infernumで、かつ夜にプロヴィデンスを3分半以内に倒す]
+				[c/777777:Infernumで、かつ夜にプロビデンスを3分半以内に倒す]
 				'''
 			DisplayName: 太陽の子
 		}
@@ -4579,7 +4579,7 @@ Achievements: {
 			Description:
 				'''
 				温かい…
-				[c/777777:Infernumのデューク・フィッシュロンを1分以内に倒す]
+				[c/777777:Infernumのデュークフィッシュロンを1分以内に倒す]
 				'''
 			DisplayName: 慈悲深い力
 		}
@@ -4589,7 +4589,7 @@ Achievements: {
 		Description:
 			'''
 			正々堂々勝負しろ！
-			[c/777777:ラムダッシュを使わずにデバウアー・オブ・ゴッドを倒す]
+			[c/777777:ラムダッシュを使わずにデバウラー・オブ・ゴッドを倒す]
 			'''
 		DisplayName: 憤怒
 	}
@@ -4598,7 +4598,7 @@ Achievements: {
 		Description:
 			'''
 			星空の下で、冒涜された女神に挑む
-			[c/777777:Infernumで、かつ夜にプロヴィデンスを倒す]
+			[c/777777:Infernumで、かつ夜にプロビデンスを倒す]
 			'''
 		DisplayName: Night Knight
 	}
