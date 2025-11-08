@@ -37,7 +37,7 @@ Vanilla: {
 
 	SteampunkerChat: {
 		Hallow: 悪いけど、ここにはユニコーンの存在を証明する技術なんてないんだ。自分で判断しな！
-		Astral: アストラル感染のおかげで、あたいのマシンの一部がおかしくなり始めているんだ。こんなところに作るんじゃなかったよ...
+		Astral: アストラル感染のせいで、あたいのマシンの一部がおかしくなり始めているんだ。こんなところに作るんじゃなかったよ...
 		MoonLordDefeated: ああ！今は宇宙海賊になることも考えているのさ！
 		HasPortalGun: あの仕掛けは何だ？あたいのテレポーターがショボく見えちまうじゃないか！
 	}
@@ -356,7 +356,7 @@ Vanilla: {
 
 UI: {
 	Roxcalibur: 岩は　ドこダ
-	SulphurSea2: 海の一つを放射能汚染中
+	SulphurSea2: 海の一つを放射線汚染中
 	Abyss: シルヴァの遺骸を処分中
 	DraedonFacility: その他の小規模研究プロジェクトを放棄中
 	DraedonWorkshop: 工学プロジェクトを放棄中
@@ -386,7 +386,7 @@ UI: {
 	GiantBeehive: 巨大な蜂の巣を作成中
 	JungleTempleAltar: 祭壇を配置中
 	BetterJungleTemple: より大きなジャングル寺院を建築中
-	AstralChest: 星の宝箱を配置中
+	AstralChest: アストラルチェストを配置中
 	EvilIslandCrimson: グロい浮島を生成中
 	EvilIslandCorrupt: 腐敗した浮島を生成中
 	Disenchant: 解呪
@@ -552,11 +552,11 @@ UI: {
 		Astral: {
 			Response:
 				'''
-				この汚染には、世界に広がった当初から強く惹かれてきました。研究のために、アウレウスの偵察モデルを感染防御用の装甲で改造して送り込みました。しかし、どれだけ防御を強化しても、アウレウスが星の病に侵されるのを遅らせることしかできませんでした。あなたの戦いを観察していて、その理由に気づきました。知性を持った頭脳が欠けていたのです。\n
+				この感染には、世界に広がった当初から強く惹かれてきました。研究のために、アウレウスの偵察モデルを感染防御用の装甲で改造して送り込みました。しかし、どれだけ防御を強化しても、アウレウスが星の病に侵されるのを遅らせることしかできませんでした。あなたの戦いを観察していて、その理由に気づきました。知性を持った頭脳が欠けていたのです。\n
 
 				自力での調査も試みましたが、専用の機体を作ったものの、肝心の機体が性能不足で、私の知能だけでは太刀打ちできませんでした。そこで、別の手段として傭兵たちを感染地帯に送り込みました。生還者は少なかったものの、得られた情報は貴重なものでした。\n
 
-				特に興味深かったのは、「感染したアストラムデウス」が汚染地帯を巡回しているという報告です。この個体は完全に感染するまで、高層大気圏以上にしか存在していなかったことがわかりました。追加調査の結果、この個体こそが感染症を地表に持ち込んだ原因である可能性が高いと推測しています。\n
+				特に興味深かったのは、「感染したアストラムデウス」が感染地帯を巡回しているという報告です。この個体は完全に感染するまで、高層大気圏以上にしか存在していなかったことがわかりました。追加調査の結果、この個体こそが感染症を地表に持ち込んだ原因である可能性が高いと推測しています。\n
 
 				とはいえ、なぜ、どのようにして起こったかはまだ断定できていません。ただし仮説はあります。\n
 
@@ -1109,7 +1109,7 @@ Tiles: {
 	ReinforcedCrate: 強化された箱
 	ElectricPanel: 電気パネル
 	Display: ディスプレイ
-	ContainmentBox: コンテナボックス
+	ContainmentBox: 収容箱
 	Console: コンソール
 	Sconce: 壁掛け燭台
 	PipeOrgan: パイプオルガン
@@ -1126,7 +1126,7 @@ Tiles: {
 
 Status: {
 	Progression: {
-		AuricOreText: 古代の龍の力が洞窟に顕現し、岩を貫いている...
+		AuricOreText: 古代のドラゴンの力が洞窟に顕現し、岩を貫いている...
 		DargonBossText: 暗黒の太陽が力を表し始める...
 		DoGBossText2: 月が不気味に輝く...
 		DoGBossText: 極寒の月が明るく輝いている...
@@ -1136,24 +1136,24 @@ Status: {
 		ProfanedBossText4: 冒涜された女神は、純潔への献身を認めた！
 		ProfanedBossText3: 災厄をもたらす存在がブラッドストーンに満たされた...
 		TreeOreText: 化石化した樹皮がジャングルの泥を突き破っている...
-		ProfanedBossText2: ダンジョンから悲鳴が響いている...
-		FutureOreText: 冷たく暗いエネルギーが宇宙空間に出現した...
+		ProfanedBossText2: ダンジョンから金切り声が響いている...
+		FutureOreText: 宇宙空間に冷たく暗いエネルギーが物質化した...
 		MoonBossText: 冒涜された炎が激しく燃え上がる！
 		AstralBossText: 星の封印が解かれ、アストラル鉱石を採掘できるようになった！
-		BabyBossText: 疫病がジャングルを侵食している...
+		BabyBossText: ジャングルに疫病が降りかかった...
 		AureusBossText2: ダンジョンからかすかな音が聞こえる...
 		AureusBossText: アストラルの生物が力を強めている...
 		AstralText: 空から星が落ちてきた！
-		AbyssDropsText: 硫黄海の底が震えている...
-		SandSharkText3: 砂漠の砂が激しく揺れ動く！
-		PlantOreText: 地下でエネルギーに満ちた植物が生えてきているようだ...
+		AbyssDropsText: 硫黄海の底が揺れている...
+		SandSharkText3: 砂漠の砂が激しく揺れる！
+		PlantOreText: 地下にエネルギーを放つ植物性鉱石が形成された...
 		WetWormBossText: 空が暗くなってきた...
 		IceOreText: 氷の洞窟が極寒のエネルギーに満ちている...
-		HardmodeOreTier4Text: 地下の聖域が聖別された石で祝福されている！
+		HardmodeOreTier4Text: 聖なる地が聖なる石の祝福を受けた！
 		HardmodeOreTier3Text: アダマンタイトとチタンの祝福を受けた！
 		HardmodeOreTier2Text: ミスリルとオリハルコンの祝福を受けた！
 		HardmodeOreTier1Text: コバルトとパラジウムの祝福を受けた！
-		UglyBossText: 沈んだ海が震えている...
+		UglyBossText: 沈んだ海が揺れている...
 		SkeletronAbyssChestNotification: 原初のドライアドが、あなたをその深淵の財宝にふさわしいと認めた....
 		SkyOreText: 空がシアン色の光に輝いている...
 		SandstormTrigger: 砂漠で風が猛烈に吹き荒れている！
@@ -1264,7 +1264,7 @@ Status: {
 		AstralInjection1: "{0}の血管は薬物の過剰摂取で破裂しました。"	
 		AstralInfection3: "{0}は宇宙から飛来した膿疱に屈しました。"	
 		AstralInfection2: "{0}の皮膚はアストラルウイルスに取って代わられました。"	
-		AstralInfection1: "{0}の汚染が広がりすぎました。"	
+		AstralInfection1: "{0}の感染が広がりすぎました。"	
 		Armageddon: "{0}は目の前の課題に失敗しました。"	
 		AlcoholSmall: "{0}はアルコール酔いで倒れました。"	
 		AlcoholBig2: "{0}の肝臓が機能を停止しました。"	
@@ -1290,91 +1290,91 @@ Status: {
 		PermafrostBH2Text: 戦いで疲れてきたか、冒険者よ？腹も減っていよう。おいしい肉でもどうだ？
 		PermafrostBirbSwarmText: あの弾幕は...少しやりすぎたな。代わりに、鳥たちはどうだ？
 		PermafrostSummonText: 果てなき苦行に挑む覚悟はあるか？
-		SCalDesparationText4Rematch: お前の未来がどうなるか、私には想像もできない。
-		SCalDesparationText3Rematch: お前が彼と同じ過ちを犯さないことを願っている。
+		SCalDesparationText4Rematch: お前の未来はどうなるか、想像もできない。
+		SCalDesparationText3Rematch: お前が彼と同じ過ちを犯さないことを信じている。
 		SCalDesparationText2Rematch: これから先、間違いなく私より強い敵と戦うことになるだろう。
-		SCalDesparationText1Rematch: 見事な戦いだった...この勝負はお前の勝ちだ。
+		SCalDesparationText1Rematch: この戦いはお前に譲ろう。
 		SCalSepulcher2TextRematch: 這い寄る墓が再び姿を現す、これが最後だ。
-		SCalBH5TextRematch: ワクワクしてこないか？
-		SCalSeekerRingTextRematch: お前の技は少しも鈍っていない。
+		SCalBH5TextRematch: 気が高まってこないか？
+		SCalSeekerRingTextRematch: 力が少しも衰えてないな。
 		SCalBH4TextRematch: 初めて戦ってから、私を悪夢で見たことはあるか？
-		SCalPhase2TextRematch: もう一度だ。
-		SCalBrothersTextRematch: 彼らはかつての姿を保ってはいるが、もはやただの残骸だ。魂の欠片すら残っているかどうか疑わしい。
-		SCalBH3TextRematch: こんなに面白い獲物に魔法を試すのは久しぶりだな...
-		SCalBH2TextRematch: 勝つためには、まだ努力が必要だな。
-		SCalStartTextRematch: 時が来たら、私の創造に加わりたいか？
-		SCalSummonTextRematch: そんなに大火傷を負いたいのか？相手をしてやろう...
+		SCalPhase2TextRematch: さあ、また行くぞ。
+		SCalBrothersTextRematch: かつての自分の空っぽの殻、魂のかけらも残ってないだろう。
+		SCalBH3TextRematch: 自分の魔法を試すのに、これほど面白いターゲットダミーは久しぶりだ...
+		SCalBH2TextRematch: 勝つためには、まだまだ努力が必要だな。
+		SCalStartTextRematch: 時が来たら、私の創造物に加わりたいか？
+		SCalSummonTextRematch: 第4度の火傷をお望みならば、お前にはお似合いだ。
 		SCalAcceptanceText3: これからはすべてお前の手に委ねられる...
-		SCalAcceptanceText2: 私はもう彼を、そしてお前を恨む力すら残っていない...
+		SCalAcceptanceText2: 私はもう彼を、そしてお前を恨む気力すら残っていない...
 		SCalAcceptanceText1: 彼がすべてを捨てたとしても、その力だけは残る。
-		SCalDesparationText4: そして...その道にも未来はないのだ。
+		SCalDesparationText4: そしてその道にも...未来はない。
 		SCalDesparationText3: お前が私を倒せば、お前には一つの道しか残らない。
 		SCalDesparationText2: ここで負けたら、私には未来がない。
 		SCalDesparationText1: もうやめろ！
-		SCalSepulcher2Text: すべてが終わり、最後に残る者がただ一人だとして、それがお前なら、それになんの価値があるんだ？
-		SCalBH5Text: 本来、お前には関係のないことだったはずだ。口出しするんじゃない！
+		SCalSepulcher2Text: すべてが終わり、最後に残る者がただ一人だとして、それがお前なら、それになんの価値があるんだ？！
+		SCalBH5Text: お前はこの戦いに何の関係もない。誰もお前に発言権を与えなかった！
 		SCalSeekerRingText: 無謀にも盗み、殺し、力を得た愚か者。誰のことだろうな...
-		SCalBH4Text: 逃げようなどと考えるのは馬鹿げている。お前は生きている限り、苦しむことになるんだ。
+		SCalBH4Text: 逃げようと思うこと自体が馬鹿げている。生きている限り、苦しむことになるのは当たり前。
 		SCalPhase2Text: お前は大いに苦しむことになる。
-		SCalBrothersText: 私の家族に会わせてやろう...
-		SCalBH3Text: お前は強大な力を手に入れたが、それを振るうのは自分のためだけだ。
-		SCalBH2Text: 少し前に辛うじて私のコピー...贋作を倒したばかりだろう。あんなもの、失敗作と言ってもいいんじゃないか？
-		SCalStartText: お前は生きていてはいけない存在だ...
-		SCalSummonText: 地獄を楽しんでいるか？
+		SCalBrothersText: 私の家族と会ってみないか？恐ろしいだろ？
+		SCalBH3Text: お前は強大な力を手に入れたが、その力は誰のためでもなく、自分のために使っている。
+		SCalBH2Text: 少し前にお前は私のドッペルゲンガー...贋作を辛うじて倒したじゃないか。あんなもの、失敗作と言ってもいいんじゃないか？
+		SCalStartText: 死んでしまえばよかったものを...
+		SCalSummonText: 地獄をくぐるのは楽しいか？
 		DraedonMechdusaEndText2: いや....
 		DraedonMechdusaEndText1: 待て、何？どうやって...
 		DraedonMechdusaBeginText: ...死ね。
-		DraedonEndKillAttemptText: ...まったく、無意味なことを...
-		DraedonEndText9: あなたの勝利は認めます。しかし、私はそろそろ戻らなければいけません。
-		DraedonEndText8: ですが、あなたはこれまでも道を切り開いてきた。今回もいずれ、方法を見つけるでしょう。
-		DraedonEndText7: 腹いせではありませんよ。私はその様子を観察していたいとすら思っていますからね。
-		DraedonEndText6: さて、あなたは暴君のもとへ向かおうとしているようですが、私は手を貸すことはできません。
-		DraedonEndText5: あなたもまた血を流しましたが、その血が新たな時代を招くきっかけになるのかもしれません...それがどんなものになるのか、今はまだ分かりませんが、その行く末は興味深いものになりそうですね。
-		DraedonEndText4: この地は、無数の血によって淀み、朽ちてしまった。
+		DraedonEndKillAttemptText: ...まったく、無駄なことを...
+		DraedonEndText9: 君の勝利を認める。しかし、私はそろそろ戻らなければならない。
+		DraedonEndText8: しかし、君は以前にも成し遂げたことがある。いずれは道を見つけることができるだろう。
+		DraedonEndText7: 腹いせではない。むしろ、私はそのような戦いを観察することを何よりも望んでいるのだ。
+		DraedonEndText6: 今すぐ暴君のもとへ向かおうとしているようだが、私はそれを支援することはできない。
+		DraedonEndText5: 君はまた血を流したが、その血が新しい時代を招くきっかけになるのかもしれない...何であれ、どうなるのかはわからない。しかし、私はその瞬間をこの目に収めたい。
+		DraedonEndText4: この土地とその歴史に対して、私と同じように異質な存在になりつつある。
 		DraedonEndText3: ......少し考えすぎました。先ほどの光景を見て、思考を整理する必要がありそうです。
 		DraedonEndText2: あなたは私と同じく、この地にもその歴史にも縛られていない。
-		DraedonEndText1: 未知の存在...それが、あなたです。
-		DraedonAresEnrageText: 愚かですね。逃げられるはずがない。
-		DraedonExoPhase6Text3: 私の最終兵器の全てをお見せしましょう。
-		DraedonExoPhase6Text2: もはや、計算に囚われてこの戦いを見誤ることはありません。
-		DraedonExoPhase6Text1: 馬鹿げていますね。
-		DraedonExoPhase5Text2: ...私は完璧を求めてきました。しかし運命は皮肉なものです。それこそが、私の最初の誤りだったのかもしれません。
-		DraedonExoPhase5Text1: あなたの本質はいまだに私には理解できません...これでは困りますね。
-		DraedonExoPhase4Text2: より困難な挑戦を前にしても着実に前進している...
+		DraedonEndText1: 未知の存在...それが、君のことだ。
+		DraedonAresEnrageText: 愚かだ。逃げられるはずがない。
+		DraedonExoPhase6Text3: 私の機械の全貌をお見せしてあげよう。
+		DraedonExoPhase6Text2: もう、計算でこの戦闘の観察が妨げられることはないだろう。
+		DraedonExoPhase6Text1: 馬鹿馬鹿しい。
+		DraedonExoPhase5Text2: ...私は完璧を求めた。運命は皮肉なもので、それが私の最初の過ちであったに違いない。
+		DraedonExoPhase5Text1: 君の本当の性質はまだわからない...これではダメだ。
+		DraedonExoPhase4Text2: より困難な課題をに対して、着実に前進している...
 		DraedonExoPhase4Text1: 興味深い...実に興味深い。
-		DraedonExoPhase3Text2: 今もなお、私はあなたの行動を監視しています。私の計算の範囲を超えるものなど、あってはなりません。
-		DraedonExoPhase3Text1: あなたの存在を感知して以来、私はあなたの戦いを解析し、自らの機械をより強力にするために活用してきました。
-		DraedonExoPhase2Text2: 実に満足のいく結果です。次の段階へ進めましょう。
-		DraedonExoPhase2Text1: あなたの行動は誤差の範囲内です。
-		DraedonExoPhase1Text2: この方法をもってしてのみ、私は完璧へと近づくことができるのです。
-		DraedonExoPhase1Text1: 時と知識を積み重ねて改良を重ねた設計こそが、私の研究の本質です。
-		DraedonBossRushText: 選択してください。制限時間は20秒です。
-		DraedonResummonText: 選択してください。
-		DraedonIntroductionText5: さあ、選んでください。
-		DraedonIntroductionText4: そして、戦いを通じてあなたの在り方を観察させてもらいましょう。
-		DraedonIntroductionText3: あなたには、神々をも超えた私の創造物と対峙してもらいます。
-		DraedonIntroductionText2: 私には理解できないからこそ...あなたの本質には興味があります。
-		DraedonIntroductionText1: この瞬間を待ち望んでいました。
+		DraedonExoPhase3Text2: 今でも、私は君の行動を監視している。私の計算から逃れるものはない。
+		DraedonExoPhase3Text1: 君の存在を知って以来、私は自分の機械を強くするために君の戦闘をずっと見てきたのだ。
+		DraedonExoPhase2Text2: これはかなり満足のいくものだ...次の段階のテストに進むぞ。
+		DraedonExoPhase2Text1: 君のパフォーマンスは、誤差の範囲にきちんと収まっている。
+		DraedonExoPhase1Text2: これ以外の方法では、完璧に近づくことはできない。
+		DraedonExoPhase1Text1: 時間と知識をかけて改良された設計は、私の作品の真骨頂なのだ。
+		DraedonBossRushText: 選ぶのだ。制限時間は20秒だ。
+		DraedonResummonText: 選ぶのだ。
+		DraedonIntroductionText5: さあ、選んでくれ。
+		DraedonIntroductionText4: そして、その戦いを君自身を私に見せるだろう。
+		DraedonIntroductionText3: 君は神々を凌駕する私の創造物と立ち向かってもらう。
+		DraedonIntroductionText2: 私には理解できないからこそ...君の性質には興味がある。
+		DraedonIntroductionText1: この時をずっと待っていた。
 		FlameText: 周りの空気が暖かくなっている...
-		EdgyBossText8: 私を殺せるとでも！？
-		EdgyBossText7: 貴様は神ではない...だがその魂、喰らわせてもらうぞ！
-		EdgyBossText6: 神は死を恐れん！
-		EdgyBossText5: まだ終わらん！
-		EdgyBossText4: 痛かったか？
-		EdgyBossText3: うまい...
-		EdgyBossText2: 愚かな過ちだ！
-		EdgyBossText: 調子に乗るな！
-		GhostBossText3: 大昔に死んだ囚人たちが、熱狂的な復讐を試みる...
-		GhostBossText2: 崩壊したダンジョンに慟哭がこだまする...
-		ProfanedBossText: 聖なる炎が翼を焼き尽くす...
+		EdgyBossText8: 俺を殺せると思ってるのか！？
+		EdgyBossText7: お前は神ではない...だが、お前が何であろうと俺はお前を喰うだけだ！
+		EdgyBossText6: 神　は　死　を　恐　れ　な　い　！
+		EdgyBossText5: まだ終わってないぞ、ガキ！
+		EdgyBossText4: 痛いか？
+		EdgyBossText3: うめぇ...
+		EdgyBossText2: 致命的なミスだな！
+		EdgyBossText: 調子に乗るなよ！
+		GhostBossText3: 死んだ者たちが復讐を求めている...
+		GhostBossText2: 荒廃したダンジョンから叫び声が響き渡る...
+		ProfanedBossText: 翼に聖なる炎が燃えている...
 		DeusAltarRejectNightText: 星の神は捧げものを拒絶した。儀式は夜しか行えないようだ...
 		PlagueBossText2: ミサイル起動確認。ターゲティングアルゴリズムを実行中...
 		PlagueBossText: 疫病核ミサイル群、全ユニット発射準備完了。攻撃プロトコルを開始。
 		SandSharkText2: 巨大な捕食者が近づいてくる！
-		SandSharkText: 砂の中で何かが蠢いている...
-		CalamitasBossText3: 見事だ...我が子供たちよ...
-		CalamitasBossText2: 血族たちよ再び立ち上がれ
-		CalamitasBossText: お前は私の力を過小評価している...
+		SandSharkText: 砂の中で何かがうごめいている...
+		CalamitasBossText3: 見事だ...我が子供よ...
+		CalamitasBossText2: 兄弟たちよ、再び立ち上がれ！
+		CalamitasBossText: お前は私の力を見くびっている...
 		PyrogenBossText: パイロジェンはイカれている！
 		CryogenBossText: クライオジェンはイカれている！
 		SlimeGodRun: スライムゴッドは別の日に戦うために逃げていった...
@@ -12085,7 +12085,7 @@ Items: {
 
 			Wingman: {
 				Tooltip: レーザービームを発射する
-				DisplayName: ウイングマン
+				DisplayName: ウィングマン
 			}
 
 			Waywasher: {
@@ -12152,7 +12152,7 @@ Items: {
 					高いノックバックを持つ風の波を放つ
 					<right> を押すとノックバックは低下するが、2回ヒットし、デバフを付与する霜の波を放つ
 					'''
-				DisplayName: ヴェーリングウィンド
+				DisplayName: ヴィアリングウィンド
 			}
 
 			ValkyrieRay: {
@@ -12301,7 +12301,7 @@ Items: {
 
 			StaffofBlushie: {
 				Tooltip: 「マウスを握りしめ、待て、待ち続けろ...青魔法の力を信じるんだ」
-				DisplayName: ブルーシースタッフ
+				DisplayName: ブラッシースタッフ
 			}
 
 			SoulPiercer: {
@@ -13780,7 +13780,7 @@ Items: {
 			}
 
 			GammaHeart: {
-				Tooltip: プレイヤーの体に寄生する、放射性の頭を召喚する
+				Tooltip: プレイヤーの体に寄生する、放射能の頭を召喚する
 				DisplayName: ガンマハート
 			}
 
@@ -13853,7 +13853,7 @@ Items: {
 			EntropysVigil: {
 				Tooltip:
 					'''
-					共に戦う小さいカラミタスクローンとその血族たちを召喚する
+					共に戦う小さいカラミタスクローンとその兄弟たちを召喚する
 					このグループは2つのミニオンスロットを使用する
 					'''
 				DisplayName: 終焉の監視者
@@ -14029,7 +14029,7 @@ Items: {
 			CindersOfLament: {
 				Tooltip:
 					'''
-					共に戦う魔女の血族を召喚する
+					共に戦う魔女の兄弟を召喚する
 					彼らは一瞬こちらを見た後、プレイヤーに突進してくる
 					彼らはプレイヤーと敵の両方にダメージを与えることができる
 					[c/C61B40:「己が罪を作り出し、]
@@ -14195,7 +14195,7 @@ Items: {
 					常に火を噴き続ける、追尾する有翼の槍を投げる
 					ステルス攻撃はヒット時に噴火を起こす
 					'''
-				DisplayName: ラースウイング
+				DisplayName: ラースウィング
 			}
 
 			WebBall: {
@@ -18342,7 +18342,7 @@ Items: {
 		CeremonialUrn: {
 			Tooltip:
 				'''
-				呪われた祭壇で使用すると、至高の魔女カラミタスを召喚できる
+				呪われた祭壇で使用すると、至高の魔女、カラミタスを召喚できる
 				消費されない
 				「魔女は、それを許さない」
 				'''
@@ -18634,12 +18634,12 @@ Items: {
 
 		SupremeManaPotion: {
 			Tooltip: ""
-			DisplayName: シュプリームマナポーション
+			DisplayName: 至高のマナポーション
 		}
 
 		SupremeHealingPotion: {
 			Tooltip: ""
-			DisplayName: シュプリームヒーリングポーション
+			DisplayName: 至高のライフポーション
 		}
 
 		SulphurskinPotion: {
@@ -21434,7 +21434,7 @@ Items: {
 
 		SupremeCalamitasTrophy: {
 			Tooltip: ""
-			DisplayName: 至高の魔女カラミタスのトロフィー
+			DisplayName: 至高の魔女、カラミタスのトロフィー
 		}
 
 		SlimeGodTrophy: {
@@ -21983,7 +21983,7 @@ Items: {
 
 		CragmawMireRelic: {
 			Tooltip: ""
-			DisplayName: クラグマイヤーのレリック
+			DisplayName: クラグマウマイアのレリック
 		}
 
 		CrabulonRelic: {
@@ -22874,7 +22874,7 @@ Items: {
 				'''
 				移動速度とジャンプ速度が12%向上
 				敵にぶつかるとダメージを与え、ダメージ軽減を大幅に減少させるダメージ酔いデバフを付与する
-				ヒーリングポーションを使用すると、浄化オーラが発生する
+				ライフポーションを使用すると、浄化オーラが発生する
 				オーラの中を歩くと、すべてのデバフと防御ダメージを1回取り除く
 				10秒間、オーラの中にいるすべてのプレイヤーに+3HP/秒のライフ自然回復、+8%のダメージ、+5%のダメージ軽減を与える
 				敵の攻撃によるダメージの5%が吸収され、回復に変換される
@@ -22885,7 +22885,7 @@ Items: {
 		SupremeBaitTackleBoxFishingStation: {
 			Tooltip:
 				'''
-				フィッシング・パワーが80増加
+				フィッシングパワーが80増加
 				釣り糸が切れることがなくなり、エサが消費される可能性が低くなる
 				箱を釣り上げる確率が増加
 				溶岩で釣りができる
@@ -23564,7 +23564,7 @@ Items: {
 		CleansingJelly: {
 			Tooltip:
 				'''
-				ヒーリングポーションを使用すると、浄化オーラが発生する
+				ライフポーションを使用すると、浄化オーラが発生する
 				オーラの中を歩くと、すべてのデバフと防御ダメージを1度だけ取り除く
 				'''
 			DisplayName: クレンジングゼリー
@@ -23603,7 +23603,7 @@ Items: {
 		LifeJelly: {
 			Tooltip:
 				'''
-				ヒーリングポーションを使用すると、オーラを発生させる
+				ライフポーションを使用すると、オーラを発生させる
 				オーラの中にいるすべてのプレイヤーに、5秒間HP+2/秒のライフ自然回復を与える
 				'''
 			DisplayName: ライフゼリー
@@ -23757,7 +23757,7 @@ Items: {
 			Tooltip:
 				'''
 				移動速度とジャンプ速度が12%増加
-				ヒーリングポーションを使用すると、浄化オーラが発生する
+				ライフポーションを使用すると、浄化オーラが発生する
 				オーラの中に入ると、すべてのデバフと防御ダメージを一度だけ取り除く
 				オーラの中にいるすべてのプレイヤーに8秒間、HP+2.5/秒のライフ自然回復を与える
 				'''
@@ -23932,7 +23932,7 @@ Items: {
 		EnchantedPearl: {
 			Tooltip:
 				'''
-				フィッシング・パワー増加
+				フィッシングパワー増加
 				箱を釣り上げる確率が増加
 				'''
 			DisplayName: 魔法の真珠
@@ -24309,9 +24309,9 @@ Items: {
 			Tooltip:
 				'''
 				最大HPが25%増加する
-				ヒーリングポーションの効果が25%増加する
+				ライフポーションの効果が25%増加する
 				'''
-			DisplayName: 血の契約
+			DisplayName: ブラッドパクト
 		}
 
 		BloodflareCore: {
@@ -24501,7 +24501,7 @@ Items: {
 		AlluringBait: {
 			Tooltip:
 				'''
-				フィッシング・パワーを30増加
+				フィッシングパワーを30増加
 				ポーションの材料となる魚が釣れる確率と数が大幅に増加
 				'''
 			DisplayName: 魅惑のエサ
@@ -26294,7 +26294,7 @@ Items: {
 		VerstaltiteFishingRod: {
 			Tooltip:
 				'''
-				雪原でのフィッシング・パワー増加
+				雪原でのフィッシングパワー増加
 				「古代合金の性質は、魚を引き寄せるのに最適だ」
 				'''
 			DisplayName: バースタルタイトの釣り竿
@@ -26343,7 +26343,7 @@ Items: {
 		HeronRod: {
 			Tooltip:
 				'''
-				宇宙でのフィッシング・パワーの増加
+				宇宙でのフィッシングパワーの増加
 				「物言わぬ頭とくちばしが、頭をもぎ取った
 				　尻尾が狂ったように揺れているが、抵抗も虚しく小魚は飲み込まれてしまった...」
 				'''
@@ -26616,7 +26616,7 @@ Items: {
 		}
 
 		ArcturusAstroidean: {
-			Tooltip: アストラル感染地帯または硫黄海で使用すると、フィッシング・パワーが増加する
+			Tooltip: アストラル感染地帯または硫黄海で使用すると、フィッシングパワーが増加する
 			DisplayName: アークトゥルス・アストロディアン
 		}
 
@@ -26688,7 +26688,7 @@ Items: {
 
 		WingTimeHairDye: {
 			Tooltip: ""
-			DisplayName: 染料（ウイングタイムヘア）
+			DisplayName: 染料（ウィングタイムヘア）
 		}
 
 		StealthHairDye: {
@@ -26929,7 +26929,7 @@ NPCs: {
 		}
 
 		Census: {
-			SpawnCondition: 至高の魔女カラミタスを倒す
+			SpawnCondition: 至高の魔女、カラミタスを倒す
 		}
 
 		DisplayName: ブリムストーンの魔女
@@ -27154,10 +27154,10 @@ NPCs: {
 	}
 
 	AndroombaFriendly: {
-		DisplayName: アンドルンバパル
+		DisplayName: 友好的なアンドルンバ
 	}
 
-	YharonPhase2: 輝ける不死鳥、ヤロン
+	YharonPhase2: 光り輝く不死鳥、ヤロン
 
 	Yharon: {
 		DisplayName: 再臨のドラゴン、ヤロン
@@ -27174,7 +27174,7 @@ NPCs: {
 	}
 
 	SupremeCalamitas: {
-		DisplayName: 至高の魔女カラミタス
+		DisplayName: 至高の魔女、カラミタス
 	}
 
 	SoulSeekerSupreme: {
@@ -27217,7 +27217,7 @@ NPCs: {
 	}
 
 	EutrophicRay: {
-		DisplayName: ユートロフォックレイ
+		DisplayName: ユートロフィックレイ
 	}
 
 	Clam: {
@@ -27225,7 +27225,7 @@ NPCs: {
 	}
 
 	BlindedAngler: {
-		DisplayName: 光るアンコウ
+		DisplayName: ブラインドアングラー
 	}
 
 	BabyGhostBell: {
@@ -27245,15 +27245,15 @@ NPCs: {
 	}
 
 	MicrobialCluster: {
-		DisplayName: 微生物クラスター
+		DisplayName: マイクロバイアルクラスター
 	}
 
 	Gnasher: {
-		DisplayName: ナッシャー
+		DisplayName: グナッシャー
 	}
 
 	BelchingCoral: {
-		DisplayName: 噴気サンゴ
+		DisplayName: ゲップサンゴ
 	}
 
 	AquaticUrchin: {
@@ -27297,7 +27297,7 @@ NPCs: {
 	}
 
 	Signus: {
-		DisplayName: 神喰らいの使徒、シグナス
+		DisplayName: デバウラーの使者、シグナス
 	}
 
 	CosmicMine: {
@@ -27309,7 +27309,7 @@ NPCs: {
 	}
 
 	RockPillar: {
-		DisplayName: ロックピラー
+		DisplayName: 岩柱
 	}
 
 	RavagerBody: {
@@ -27317,7 +27317,7 @@ NPCs: {
 	}
 
 	FlamePillar: {
-		DisplayName: フレームピラー
+		DisplayName: 火柱
 	}
 
 	ProvSpawnOffense: {
@@ -27355,7 +27355,7 @@ NPCs: {
 	Jared: Jared
 
 	PrimordialWyrmHead: {
-		DisplayName: プリモディアルワーム
+		DisplayName: プライモーディアルワーム
 	}
 
 	PolterPhantom: {
@@ -27375,7 +27375,7 @@ NPCs: {
 	}
 
 	Viruling: {
-		DisplayName: ヴァイルリング
+		DisplayName: ビルリング
 	}
 
 	Plagueshell: {
@@ -27391,7 +27391,7 @@ NPCs: {
 	}
 
 	PestilentSlime: {
-		DisplayName: 疫病スライム
+		DisplayName: ペスティレントスライム
 	}
 
 	Melter: {
@@ -27399,11 +27399,11 @@ NPCs: {
 	}
 
 	PlagueMine: {
-		DisplayName: 疫病地雷
+		DisplayName: プレイグマイン
 	}
 
 	PlagueHomingMissile: {
-		DisplayName: 疫病追尾ミサイル
+		DisplayName: プレイグホーミングミサイル
 	}
 
 	PlaguebringerGoliath: {
@@ -27503,7 +27503,7 @@ NPCs: {
 	}
 
 	Sunskater: {
-		DisplayName: サンケーター
+		DisplayName: サンスケーター
 	}
 
 	Stormlion: {
@@ -27535,7 +27535,7 @@ NPCs: {
 	}
 
 	ProfanedEnergyBody: {
-		DisplayName: 冒涜された力
+		DisplayName: 冒涜されたエネルギー
 	}
 
 	PlanterasFreeTentacle: {
@@ -27555,11 +27555,11 @@ NPCs: {
 	}
 
 	OverloadedSoldier: {
-		DisplayName: オーバーローデッドソルジャー
+		DisplayName: オーバーロードソルジャー
 	}
 
 	MantisShrimp: {
-		DisplayName: マンティスシュリンプ
+		DisplayName: シャコ
 	}
 
 	LavaSlimeNoLavaDrop: {
@@ -27591,15 +27591,15 @@ NPCs: {
 	}
 
 	Frogfish: {
-		DisplayName: フロッグフィッシュ
+		DisplayName: カエルアンコウ
 	}
 
 	FearlessGoldfishWarrior: {
-		DisplayName: 恐れを知らぬ金魚の戦士
+		DisplayName: 恐れを知らぬ戦士の金魚
 	}
 
 	Eidolist: {
-		DisplayName: 幽玄の信徒
+		DisplayName: エイドリスト
 	}
 
 	EbonianBlightSlime: {
@@ -27659,7 +27659,7 @@ NPCs: {
 	}
 
 	BloomSlime: {
-		DisplayName: 花のスライム
+		DisplayName: ブルームスライム
 	}
 
 	BloodlettingServant: {
@@ -27785,7 +27785,7 @@ NPCs: {
 	}
 
 	CosmicGuardianHead: {
-		DisplayName: 宇宙の守護者
+		DisplayName: コズミックガーディアン
 	}
 
 	DesertScourgeHead: {
@@ -27817,11 +27817,11 @@ NPCs: {
 	}
 
 	ScryllarRage: {
-		DisplayName: スクライラー
+		DisplayName: スクリラー
 	}
 
 	Scryllar: {
-		DisplayName: スクライラー
+		DisplayName: スクリラー
 	}
 
 	InfernalCongealment: {
@@ -27833,15 +27833,15 @@ NPCs: {
 	}
 
 	DespairStone: {
-		DisplayName: ディスペアーストーン
+		DisplayName: 絶望の石
 	}
 
 	RenegadeWarlock: {
-		DisplayName: レネゲードウォーロック
+		DisplayName: 教団暗殺者
 	}
 
 	CalamityEye: {
-		DisplayName: カラミティアイ
+		DisplayName: 災厄の目玉
 	}
 
 	Crabulon: {
@@ -27907,19 +27907,19 @@ NPCs: {
 	}
 
 	Twinkler: {
-		DisplayName: ツウィンクラー
+		DisplayName: ツインクラー
 	}
 
 	StellarCulex: {
-		DisplayName: ステラークレックス
+		DisplayName: コウセイイエカ
 	}
 
 	SightseerSpitter: {
-		DisplayName: サイトシアスピッター
+		DisplayName: サイトシーアスピッター
 	}
 
 	SightseerCollider: {
-		DisplayName: サイトシアコライダー
+		DisplayName: サイトシーアコライダー
 	}
 
 	Nova: {
@@ -27991,15 +27991,15 @@ NPCs: {
 	}
 
 	Orthocera: {
-		DisplayName: オルソセラス
+		DisplayName: オルソセラ
 	}
 
 	NuclearToad: {
-		DisplayName: 核カエル
+		DisplayName: 核ヒキカエル
 	}
 
 	NuclearTerror: {
-		DisplayName: ニュークリーアテラー
+		DisplayName: ニュークリアテラー
 	}
 
 	Mauler: {
@@ -28007,7 +28007,7 @@ NPCs: {
 	}
 
 	IrradiatedSlime: {
-		DisplayName: 被曝スライム
+		DisplayName: 放射スライム
 	}
 
 	GammaSlime: {
@@ -28043,7 +28043,7 @@ NPCs: {
 	}
 
 	SlabCrab: {
-		DisplayName: スラブクラブ
+		DisplayName: スラブガニ
 	}
 
 	ReaperShark: {
@@ -28071,11 +28071,11 @@ NPCs: {
 	}
 
 	GulperEelHead: {
-		DisplayName: ガルパーイール
+		DisplayName: フクロウナギ
 	}
 
 	GiantSquid: {
-		DisplayName: 巨大イカ
+		DisplayName: ダイオウイカ
 	}
 
 	EidolonWyrmHead: {
@@ -28083,25 +28083,25 @@ NPCs: {
 	}
 
 	DevilFishAlt: {
-		DisplayName: デビルフィッシュ
+		DisplayName: アクマウオ
 	}
 
 	DevilFish: {
-		DisplayName: デビルフィッシュ
+		DisplayName: アクマウオ
 	}
 
 	Cuttlefish: {
-		DisplayName: イカ
+		DisplayName: コウイカ
 	}
 
 	TinySquid: 小さなイカ
 
 	ColossalSquid: {
-		DisplayName: ダイオウイカ
+		DisplayName: ダイオウホウズキイカ
 	}
 
 	ChaoticPuffer: {
-		DisplayName: 混沌のフグ
+		DisplayName: カオスフグ
 	}
 
 	CannonballJellyfish: {
@@ -28109,15 +28109,15 @@ NPCs: {
 	}
 
 	BoxJellyfish: {
-		DisplayName: ボックスジェリーフィッシュ
+		DisplayName: ハコクラゲ
 	}
 
 	BobbitWormHead: {
-		DisplayName: ボビットワーム
+		DisplayName: オニイソメ
 	}
 
 	Bloatfish: {
-		DisplayName: ブロートフィッシュ
+		DisplayName: ボウチョウウオ
 	}
 
 	BabyCannonballJellyfish: {
@@ -28254,7 +28254,7 @@ GameTips: {
 	ChargeTip: 一部の武器は使用時に充電が必要。武器は充電ステーションとパワーセルで充電することができる。
 	CodebreakerTip: コードブレーカーは増設可能で、世界中のさまざまな研究所で発見された新しい設計図を解読できる。
 	TerminusTip: 深淵の底には古代の遺物が眠っている。使用には細心の注意を。
-	RoDAbyssTip: 深淵でのディスコードロッドの使用は自己責任で。その光は、望まぬ敵の注意を引くかもしれない。
+	RoDAbyssTip: 深淵でのロッドオブディスコードの使用は自己責任で。その光は、望まぬ敵の注意を引くかもしれない。
 	BossEnemyTip: 無害な敵を殺すと、強大なモンスターの怒りを買うことがある！
 	DayEoLTip: 日の光の下で光の女帝を召喚すると、さらに凶暴になる。
 	NightProvTip: 月の光の下で冒涜された女神を召喚すると、ステータスが大幅に強化されてしまう。
@@ -28801,7 +28801,7 @@ Configs: {
 		AdrenalineMeterPosY: {
 			Tooltip:
 				'''
-				アドレナリン・メーターのY位置を変更します
+				アドレナリンメーターのY位置を変更します
 				メーター位置のロックが無効の場合、メーターはマウスでドラッグできます
 				'''
 			Label: "[i:LaserRuler] アドレナリンメーターのY位置"
@@ -28940,15 +28940,15 @@ Bestiary: {
 	Draedon: 謎めいたエンジニア、ドレイドン自身によって設計され、彼の姿を模して作られた再生体の一つ。彼はゴッドシーカーを離れて以来、研究に没頭し、次第に人目を避けるようになった。
 	DevourerofGods: 多くの異名と名声を持つ存在であり、その伝説的な行いの真実と神話を混同するのはよくあることだ。ヤリムはかつて、この存在が喰らうエッセンスは完全に存在から抹消されると信じていたが、創造の根本的な法則では、エネルギーは破壊されることなく、別の形に転換されるだけである。
 	DesertScourge: かつてイルメリス海の水中を泳いでいた海蛇であり、深海に移住する代わりに故郷に留まることを選んだ。アントライオンやサボテンを主な食糧とし、他の競争相手が隠れた後、砂漠の頂点捕食者としての地位を築いた。
-	Cryogen: ヤリムがアークメイジの裏切りに気づいた際、カラミタスにかつての師を追跡し抹殺するよう命じた。涙ながらの対峙の末、カラミタスは師を封印し、その死を偽装することを選んだ。この生きた封印に施された魔法は、パーマフロストから教わったすべての教訓への悲痛な敬意の表れとなっている。
+	Cryogen: ヤリムがダークメイジの裏切りに気づいた際、カラミタスにかつての師を追跡し抹殺するよう命じた。涙ながらの対峙の末、カラミタスは師を封印し、その死を偽装することを選んだ。この生きた封印に施された魔法は、パーマフロストから教わったすべての教訓への悲痛な敬意の表れとなっている。
 	Crabulon: かつてイルメリス海の中心に住んでいた甲殻類であり、大焼却の際に地下へ逃れた。光るキノコが放つ青い光を気に入り、その胞子に侵されながらも故郷を思い出しつつ安らかに死んだ。
 	CeaselessVoid: -
-	Catastrophe: 至高の魔女の血族の一人を模倣しようとして作られたクローンのもう一つの哀れな創造物。彼女の努力にもかかわらず、血族だとは思えない風貌をしているが、いくつかの特徴はこれらの忌まわしい融合体に残っている。
-	Cataclysm: 至高の魔女の血族の一人を模倣しようとして作られたクローンの哀れな創造物。他の創造物同様、意志を持たず、彼女に操られる単なる贋作にすぎない。
+	Catastrophe: 至高の魔女の兄弟の一人を模倣しようとして作られたクローンのもう一つの哀れな創造物。彼女の努力にもかかわらず、兄弟だとは思えない風貌をしているが、いくつかの特徴はこれらの忌まわしい融合体に残っている。
+	Cataclysm: 至高の魔女の兄弟の一人を模倣しようとして作られたクローンの哀れな創造物。他の創造物同様、意志を持たず、彼女に操られる単なる贋作にすぎない。
 	Calamitas: 夜をさまようこの機械には、至高の魔女の出来損ないのクローンが宿っている。彼女の呪文や黒魔術こそ持っていないが、カラミタスの力の断片だけでも、クローンを狂気に陥れるには十分だった。人間性はもはや残っていない。
-	Bumblefuck: オーリックドラゴンの血族姉妹であり、ジャングルの深部に身を隠していた。この生物は羽ばたきにより発生する強力な静電気を使い、獲物を狩る。その静電気は他の生物にとって致命的な赤い雷となる。
+	Bumblefuck: オーリックドラゴンの兄弟姉妹であり、ジャングルの深部に身を隠していた。この生物は羽ばたきにより発生する強力な静電気を使い、獲物を狩る。その静電気は他の生物にとって致命的な赤い雷となる。
 	BrimstoneElemental: 彼女の覚醒が、アザフレの崩壊を引き起こしたとされる。その予期せぬ復活は、都市の過剰採掘が原因とされるが、都市の汚染や曖昧な予言を理由とする者もおり、その他にも敵対勢力が意図的に彼女を復活させたとされる噂もある...
-	AstrumDeus: 通常、星が死にかけるとその力は消え失せ、最寄りの天体に墜落する。しかし、一部の星は落下する前に膨張し腐敗する。アストラム・デウスは、このような星を汚染が発生する前に喰らうために存在しており、古くからその聖なる使命が崇められている。
+	AstrumDeus: 通常、星が死にかけるとその力は消え失せ、最寄りの天体に墜落する。しかし、一部の星は落下する前に膨張し腐敗する。アストラムデウスは、このような星を感染が発生する前に喰らうために存在しており、古くからその聖なる使命が崇められている。
 	AstrumAureus: ドレイドンによって以前の戦場を調査し装備を回収するために作られた存在だが、アストラル感染によって支配されてしまった。残念ながら、この存在の敗北はその力を他の星の戦士たちに解放してしまった。
 	AquaticScourge: 硫黄海を静かにさまよう威圧的な存在であり、その存在そのものが他の生物を岸から遠ざけるのに十分であった。現在では、その存在が抑止力として機能しなくなったため、他の捕食者たちが安心してうろついている。
 	SoulSeekerSupreme: ブリムストーンの魔法と死霊術の融合によって生み出された邪悪な存在。これらの存在は主人の命令に無条件に従い、力の不足を数と驚くべき連携力で補っている。
@@ -28979,7 +28979,7 @@ Bestiary: {
 	GhostBell: 高電圧のクラゲであり、その触れるだけでほとんどの生物を無力化させる力を持つ。イルメリス軍はゴーストベルが発生する電気を利用して海を電撃で守り、ヤリムの軍勢を海境に近づけさせなかった。
 	EutrophicRay: ユートロフィックレイはゴーストベルと共生関係を形成している。このエイはゴーストベルから得たエネルギーを筋肉の電気刺激に活用し、驚異的な速度で移動できるようにしている。
 	Clam: かつてはイルメリアン海の上層部に住んでいたが、大焼却の後に移動を余儀なくされた。その適応力と強靭さのおかげで種は生き延びたが、運もまた重要な要素だった。
-	BlindedAngler: 通常の感覚をほとんど持たない捕食者であり、生物音波の一種を用いて周囲を「見る」ことができる。背中の輝く結晶は海の煌めくプリズムを頼りにする獲物を引き寄せ、炎に向かう蛾のように近づかせる。
+	BlindedAngler: 通常の感覚をほとんど持たない捕食者であり、生物音波の一種を用いて周囲を「見る」ことができる。背中の輝く結晶は海のきらめくプリズムを頼りにする獲物を引き寄せ、炎に向かう蛾のように近づかせる。
 	BabyGhostBell: 戦争中、膨大な電力が必要だったイルメリス軍によって大量に飼育されたゴーストベルの赤ちゃんである。しかし、その努力は無駄に終わり、王国は焼却され、崩壊した。
 	Trasher: 子供を丸呑みにできるほどの大きな口を持っているが、これらのクロコダイルは単なる清掃者として行動する。捕食者の食事の残骸や骨を食べることでエネルギーを節約し、脅威を感じない限り最大速度で動くことはほとんどない。
 	Toxicatfish: かつては獲物以外に脅威を与えない魚だったが、ドレイドンの古い実験で生じた核廃棄物により肉体と精神が腐敗した。近づくすべてのものを攻撃するようになってしまい、このかつて繁栄していた種は今や絶滅寸前である。
@@ -28988,7 +28988,7 @@ Bestiary: {
 	BelchingCoral: すべてのサンゴはある程度生きているといえるが、この種は平均を超えた知性を持つ。捕食者が近づくと硫黄ガスを圧縮して放出し、攻撃を防ぐことができる。時折、この行動によって音楽のような音を発することがある。
 	AquaticUrchin: ウニの近縁種であり、酸性の水や放射性廃棄物に適応している。毒針は通常、捕食者を遠ざけるが、この環境ではお構いなしに捕食される。この海では選り好みする余裕はない。
 	AnthozoanCrab: 岩に偽装しているが、容易に巨大な岩を投げつけることができるカニである。接近されると素早く逃げる。他の環境であればその強さで繁栄の道があっただろうが、ここでは生存するために必要な最低限度の力でしかない。
-	Viruling: ダープリングとは異なり、吸管を使って他の生物から血液を吸うのではなく、直接疫病を注入する。疫病の使者を除けば、この地域の野生生物を汚染する効率において彼らに匹敵する生物はいない。
+	Viruling: ダープリングとは異なり、吸管を使って他の生物から血液を吸うのではなく、直接疫病を注入する。疫病の使者を除けば、この地域の野生生物を感染する効率において彼らに匹敵する生物はいない。
 	Plagueshell: カメの甲羅と神経系が絡み合っているため、大型のリクガメは疫病の理想的な対象となる。その甲羅はドリルで攻撃されたとしても痛みは即座に麻痺させられる。
 	PlagueCharger: 疫病の使者たちの子孫であり、生まれた時からドレイドンのナノマシンに感染している。ナノマシンは加速的に成長を促進し、わずか数時間で成体になる。しかし、その代償として寿命は数日程度しかない。それでも、この使い捨ての兵士としての特性が、彼らを完璧な戦力にしている。
 	PlaguebringerMiniboss: 疫病から逃れられるものはどんなものでも不可能で、すべては同化されるか駆逐される運命にある。女王蜂でさえ例外ではなく、感染した生物に対抗できたとしても、巣を捨てざるを得なくなることが多い。幼虫はナノマシンに侵され、すぐに疫病の使者となってしまうからだ。
@@ -29013,14 +29013,14 @@ Bestiary: {
 	PhantomSpirit: ダンジョンに囚われた霊たちは、自らの生前をぼんやりとしか覚えていない。しかし、彼らすべてが明確に覚えていることが一つある。それは、彼らをこの呪われた壁の中に閉じ込めた男の圧倒的な力であり、ダンジョンをさまよう強大な存在にその力を思い出させられたことで、彼らは混乱に陥っている。
 	PerennialSlime: 生命の女神のエッセンスの一部を取り込んだスライムである。女神が深淵の最深部に再び封じられているにもかかわらず、その影響力は世界中に伸びている。
 	OverloadedSoldier: 再び命を与えられた肉体であり、十字軍で命を落とし安らぎを得られなかった戦士たちの魂が溢れている。神のエッセンスを感じ取ったことで戦いへの渇望が再燃し、再び戦場に立つことに決めた。
-	MantisShrimp: 危険な生物について冒険者に尋ねるとさまざまな答えが返ってくるが、マンティスシュリンプの名を挙げる者は水夫以外ではほとんどいない。その一撃は非常に速く、そのエネルギーで水をアザフレの溶岩に匹敵する温度に加熱する。
+	MantisShrimp: 危険な生物について冒険者に尋ねるとさまざまな答えが返ってくるが、シャコの名を挙げる者は水夫以外ではほとんどいない。その一撃は非常に速く、そのエネルギーで水をアザフレの溶岩に匹敵する温度に加熱する。
 	ImpiousImmolator: 彼女の姿を模した偶像であり、作成者の生命力によって炎を灯されている。世界を彼女の神聖な炎で覆うことを望む者にとって、自身の命の重みは些細なものらしい。
 	IceClasper: その正確な起源は謎に包まれているが、冷たい住処に存在する熱源をすべて消し去ろうとしていることは知られている。この事実と記録を考慮すると、アイスクラスパーがツンドラの形成に重要な役割を果たした可能性が高いとされている。
 	Horse: ブリムストーンエレメンタルが休眠状態に入った後、アザフレの鍛冶師たちが時計仕掛けとクリスタルを使い、エレメンタルの力を機械の体に宿らせたものである。その能力は高いが、真のエレメンタル代わりを作るという夢はアザフレの滅亡と共に消え去った。
 	Frogfish: 巧妙にカモフラージュし、いつでも攻撃できる状態にある魚である。この生物は、かつて栄華を極めた帝国の中心で、海がどれほど静穏とは程遠い場所かを物語っている。
 	FearlessGoldfishWarrior: 金魚は池や湖に生しているが、嵐の際には地上に上がり、地表に現れたミミズを捕食することもある。中には光る金の短剣を持った戦士のような金魚の目撃例もあるが、多くの人はその話を信じがたいものと見なしている。
-	Eidolist: かつてはドラゴンを信仰する教団の一員であったが、現在は新たな主人の庇護を求める存在である。竜のような生態を持つため、深淵に無限に生息することができ、新たな使命を果たしている。
-	CryoSlime: アークメイジによって魔法を施されたスライムであり、凍土の力を魔法金属に結晶化する媒体として使われている。ゴッドシーカーを離れた後、自身の創造物や研究を隠す呪文を唱え、ヤリムによる悪用を避けた。
+	Eidolist: かつてはドラゴンを信仰する教団の一員であったが、現在は新たな主人の庇護を求める存在である。ワームのような生態を持つため、深淵に無限に生息することができ、新たな使命を果たしている。
+	CryoSlime: ダークメイジによって魔法を施されたスライムであり、凍土の力を魔法金属に結晶化する媒体として使われている。ゴッドシーカーを離れた後、自身の創造物や研究を隠す呪文を唱え、ヤリムによる悪用を避けた。
 	Cryon: パーマフロストが戦闘に直接関与しないために、自身の守護者として作り出した存在である。神のエッセンスの拡散に気づき、長い眠りから目覚め、主人を守るために戦っている。
 	BlightSlime: 堕落した神のエッセンスを吸収したスライムである。不純物で満ちており、ゼラチン質というよりも腐敗した肉のような体を持つ。また、他のスライムと異なり、意図を持って集めているように見える。
 	GemCrawler: イルメリス海に生息するプリズムバッグの仲間である。元はペットとして飼われていた水生トカゲであるが、適切な栄養を与えられなかったため、背中にプリズムの代わりに宝石を成長させるようになった。
@@ -29050,10 +29050,10 @@ Bestiary: {
 	HiveEnemy: 複数の生物が融合し、特徴が判別不能になった存在。その巨大な質量ゆえに自ら行動することはできず、小さな分身を生み出して戦わせる。
 	Hadarian: かつては砂漠のハゲタカだったが、アストラル感染によって変異した生物してしまった。羽毛はスライム状の組織や石のような板に変異してしまっており、彫像のようにじっとしている。目は全てを見ているようで、何も見ていないようでもある。
 	FusionFeeder: マナによって膨れ上がった砂鮫の変異体である。魔力の過剰な影響で本能が鈍り、動きが遅くなっている。食欲は永遠に満たされ、もはや遠くの星々にのみ渇望を抱いている。
-	Atlas: 汚染によって融合した生物であり、大柄のため動きは遅いが、一撃で巨大な岩をも粉砕する力を持つ。その心臓は引き裂かれても鼓動を続ける。
+	Atlas: 感染によって融合した生物であり、大柄のため動きは遅いが、一撃で巨大な岩をも粉砕する力を持つ。その心臓は引き裂かれても鼓動を続ける。
 	AstralSlime: スライムは環境から物質やエネルギーを吸収する性質を持つため、星のマナに簡単に支配されてしまった。スライム自体はその変化に無関心らしいが...
 	AstralProbe: かつては普通の鳥であったが、圧倒的なマナの影響で変異した生物である。単体では弱いが、感染した他の生物を援護しながら非感染者を執拗に攻撃する。
-	Astralachnea: かつてはクロゴケグモだったが、汚染の影響で基本的な機能以外は削ぎ落された生物である。汚染の影響は地下でより強く、地上よりも深く根を張った星の痕跡と濃い霧が空気を重くしている。
+	Astralachnea: かつてはクロゴケグモだったが、感染の影響で基本的な機能以外は削ぎ落された生物である。感染の影響は地下でより強く、地上よりも深く根を張った星の痕跡と濃い霧が空気を重くしている。
 	Aries: 星の力を受け、無限のスタミナを持つ生物である。侵入者を追跡し、群れの巣を守る役割を果たす。
 	Trilobite: 石のように硬い殻を持つ水生節足動物である。その殻のおかげで、捕食者の消化器官を無傷で通過することができる。
 	SulphurousSkater: 軽量な外骨格を持ち、水面を走ることができる昆虫である。酸性の泡に乗って移動することもあり、捕食者から逃れる手段として利用している。
@@ -29061,21 +29061,21 @@ Bestiary: {
 	Radiator: かつては絶滅寸前だったウミウシの一種である。結晶化したプルトニウムを背負い、捕食者を寄せ付けない方法を編み出している。
 	Orthocera: 放射線による突然変異で失われた遺伝子を取り戻した生物である。この生物はその一例であり、硫黄海の環境に適応している。
 	NuclearToad: 生物が近づくと膨張し、危険を察知すると爆発するカエルである。硫黄海の捕食者たちもこのカエルの危険性をよく理解している。
-	NuclearTerror: 人類の行動の影響で誕生した怪物である。放射能や毒の中で生き延びるため進化を遂げたこの生物は、かつて何であったかさえわからなくなっている。
+	NuclearTerror: 人類の行動の影響で誕生した怪物である。放射線や毒の中で生き延びるため進化を遂げたこの生物は、かつて何であったかさえわからなくなっている。
 	Mauler: 放射線の影響で古代の遺伝子が目覚めたサメである。圧倒的な速度と力を持ち、酸性雨の時は岸辺で大食いの狂宴を繰り広げる。
 	IrradiatedSlime: 硫黄と放射線が濃厚な硫黄海で空から降ってくるスライムである。酸性雨の間にはこのスライムが頻繁に落ちてくる。
 	GammaSlime: 放射線により変異したスライムである。ドレイドンの核エネルギー実験の残骸から生まれ、放射線をエネルギーとして利用する。
 	FlakCrab: 硫黄海に点在する硫黄ガスの排出口に擬態しているヤドカリである。繁殖力が高いため、このヤドカリやその子供たちを見つけるのはよくあることだ。
-	CragmawMire: ほぼ動かない生物で、放射能廃棄物の深部に生息する。その外骨格はチタンよりも硬く、防御力が高い。エサを取るときは、共生しているワームに頼っている。
+	CragmawMire: ほぼ動かない生物で、放射性廃棄物の深部に生息する。その外骨格はチタンよりも硬く、防御力が高い。エサを取るときは、共生しているワームに頼っている。
 	Bloodworm: 非常に珍しい生物であり、危険を察知すると即座に地中に潜る。捕獲には忍耐、知恵、敏捷性が必要。
 	BabyFlakCrab: 幼いヤドカリは捕食者に対してただ逃げるのみである。成長すると遠くから標的を攻撃する方法を学ぶが、幼体期は親に頼るほかない。
 	AcidEel: 硫黄海の食物連鎖の底辺に位置する捕食者である。主に軟体動物を食べ、速度とカモフラージュを駆使し、捕食者から逃れる。
-	Viperfish: 深淵中層に生息する雑食性の魚である。広い口を持ち、通常は濾過摂食を行うが、捕食者を威嚇する際にはガルパーイールを模倣する。
+	Viperfish: 深淵中層に生息する雑食性の魚である。広い口を持ち、通常は濾過摂食を行うが、捕食者を威嚇する際にはフクロウナギを模倣する。
 	ToxicMinnow: 異常発達したミノーであり、体内の植物の栄養素を利用して毒素を生成し、死後に放出する。この毒性のため捕食者がほぼ存在せず、環境への影響もほとんどない。
-	ReaperShark: 深淵の頂点捕食者であるサメであり、隠密性と力を活かして、近づくすべてのものを狩る。腕を使ってダイオウイカを深淵の壁に叩きつけたり、エイドロンワームの堅固な頭部を砕いたりしている。
+	ReaperShark: 深淵の頂点捕食者であるサメであり、隠密性と力を活かして、近づくすべてのものを狩る。腕を使ってダイオウホウズキイカを深淵の壁に叩きつけたり、エイドロンワームの堅固な頭部を砕いたりしている。
 	SlabCrab: 殻が岩のように硬いにもかかわらず、深淵における最も平和な地域に隠れるカニである。酸性の水や恐ろしい捕食者に耐えられないため、その生息地で自然淘汰をかろうじて回避している。
 	Oarfish: 数千から数百万もの卵を驚異的な速さで産む魚。これらの卵は深淵で最も豊富な食料源であり、この過酷な環境で脅威の少ない生物が生きられる理由の1つである。
-	MorayEel: 足に噛みつかれた時、そこがサンゴ礁で、ソイツが二重の歯を持っているなら、それはモレイだ。顔をぬめりで叩かれるなら、それもまたモレイである。
+	MorayEel: 足に噛みつかれた時、そこがサンゴ礁で、ソイツが二重の歯を持っているなら、それはウツボだ。顔をぬめりで叩かれるなら、それもまたウツボである。
 	MirageJelly: ルメニルの結晶とスコリアの熱で温められた水を利用して、自身の残像を作り出すクラゲ。捕食者を混乱させたり、自らの獲物を捕らえたりしている。
 	LuminousCorvina: 珍しいコルビナであり、そのひれにルメニルが成長している。深淵における数少ない光源の1つであり、捕食者を他の獲物に誘導し、生き延びている。
 	Laserfish: 頭部の大きな袋に集まった細菌によって視力を失った魚。原始的なエコーロケーションを頼りに水を泳ぎ、細菌が衝撃波を放って進路を確保している。
@@ -30868,7 +30868,7 @@ BossChecklistIntegration: {
 	Signus: {
 		DespawnMessage: "[c/BA55D3:シグナスは不可解なことに、かつていた場所からいなくなった...]"
 		SpawnInfo: 地底世界で [i:CalamityMod/RuneofKos] を使用する
-		EntryName: 神喰らいの使徒、シグナス
+		EntryName: デバウラーの使者、シグナス
 	}
 
 	Ravager: {
@@ -30889,7 +30889,7 @@ BossChecklistIntegration: {
 	}
 
 	Polterghast: {
-		DespawnMessage: "[c/B0E0E6:幻影は、響き渡る慟哭の中で散っていった...]"
+		DespawnMessage: "[c/B0E0E6:不安定な幻影は、響き渡る叫び声の中で散っていった...]"
 		SpawnInfo: ダンジョンでファントムスピリットを30体倒すか、 [i:CalamityMod/NecroplasmicBeacon] を使用する
 		EntryName: ポルターガスト
 	}
@@ -30906,13 +30906,13 @@ BossChecklistIntegration: {
 	}
 
 	OldDuke: {
-		DespawnMessage: "[c/F0E68C:老公爵は酸性雨の中に戻っていった...]"
+		DespawnMessage: "[c/F0E68C:オールドデュークは酸性雨の中に戻っていった...]"
 		SpawnInfo: ティア 3の酸性雨イベントを完了させるか、硫黄海で [i:CalamityMod/BloodwormItem] をエサとして釣りをする
 		EntryName: オールドデューク
 	}
 
 	NuclearTerror: {
-		DespawnMessage: "[c/F0E68C:ミュータントは病的な光の中で消えていってしまった...]"
+		DespawnMessage: "[c/F0E68C:放射能の異常体は病的な光の中で消えていってしまった...]"
 		SpawnInfo:
 			'''
 			ポルターガストを倒した後の酸性雨イベントで出現する
@@ -30921,7 +30921,7 @@ BossChecklistIntegration: {
 	}
 
 	Mauler: {
-		DespawnMessage: "[c/F0E68C:残忍なサメは、他の獲物を見つけにどこかへ消えた...]"
+		DespawnMessage: "[c/F0E68C:野蛮なサメは、他の獲物を見つけにどこかへ消えた...]"
 		SpawnInfo:
 			'''
 			ポルターガストを倒した後の酸性雨イベントで出現する
@@ -30930,7 +30930,7 @@ BossChecklistIntegration: {
 	}
 
 	Leviathan: {
-		DespawnMessage: "[c/7FFFD4:水の追放者たちは孤独な仲間もとへ戻っていった...]"
+		DespawnMessage: "[c/7FFFD4:水生の追放者たちは孤独な仲間のもとへ戻っていった...]"
 		SpawnInfo: 海底に潜む謎の歌手を倒す
 		EntryName: アナーヒターとリヴァイアサン
 	}
@@ -30946,7 +30946,7 @@ BossChecklistIntegration: {
 	}
 
 	GiantClam: {
-		DespawnMessage: "[c/7FFFD4:大蛤は洞窟に隠れてしまった....]"
+		DespawnMessage: "[c/7FFFD4:大きな貝は洞窟に隠れてしまった....]"
 		SpawnInfo: 沈没海の水中で自然にスポーンする
 	}
 
@@ -30968,7 +30968,7 @@ BossChecklistIntegration: {
 	}
 
 	DesertScourge: {
-		DespawnMessage: "[c/EEE8AA:砂漠の惨劇は再び砂の中へ戻っていった...]"
+		DespawnMessage: "[c/EEE8AA:砂漠の災厄は再び砂の中へ戻っていった...]"
 		SpawnInfo: 砂漠で [i:CalamityMod/DesertMedallion] を使用する
 		EntryName: デザートスカージ
 	}
@@ -30979,7 +30979,7 @@ BossChecklistIntegration: {
 	}
 
 	CragmawMire: {
-		DespawnMessage: "[c/F0E68C:クラグモーの泥沼は砂の中に戻っていった...]"
+		DespawnMessage: "[c/F0E68C:クラグマウマイアは砂の中に戻っていった...]"
 		SpawnInfo:
 			'''
 			アクアティックスカージを倒した後、酸性雨イベント中にスポーンする
@@ -31006,7 +31006,7 @@ BossChecklistIntegration: {
 	Calamitas: {
 		DespawnMessage: "[c/FFA500:魔女は息苦しい暑さだけを残して消えていった...]"
 		SpawnInfo: "[i:CalamityMod/AshesofCalamity] または [i:CalamityMod/CeremonialUrn] を [i:CalamityMod/AltarOfTheAccursedItem] の供物として使用する"
-		EntryName: 至高の魔女カラミタス
+		EntryName: 至高の魔女、カラミタス
 	}
 
 	BrimstoneElemental: {
@@ -31020,7 +31020,7 @@ BossChecklistIntegration: {
 	}
 
 	AstrumDeus: {
-		DespawnMessage: "[c/FFD700:汚染された神は天に還っていった...]"
+		DespawnMessage: "[c/FFD700:感染した神は天に還っていった...]"
 		SpawnInfo: "[i:CalamityMod/AstralBeaconItem] に [i:CalamityMod/TitanHeart] または [i:CalamityMod/Starcore] を捧げる"
 		EntryName: アストラムデウス
 	}
@@ -31031,7 +31031,7 @@ BossChecklistIntegration: {
 	}
 
 	AquaticScourge: {
-		DespawnMessage: "[c/F0E68C:毒に冒された惨劇は、穏やかな大海原へと泳ぎ去っていった...]"
+		DespawnMessage: "[c/F0E68C:毒に侵された災厄は、穏やかな大海原へと泳ぎ去っていった...]"
 		SpawnInfo: 硫黄海で [i:CalamityMod/Seafood] 使うか、硫黄海で自然にスポーンするのを待つ
 		EntryName: アクアティックスカージ
 	}
