@@ -1126,38 +1126,38 @@ Tiles: {
 
 Status: {
 	Progression: {
-		AuricOreText: 古代のドラゴンの力が洞窟に顕現し、岩を貫いている...
-		DargonBossText: 暗黒の太陽が力を表し始める...
-		DoGBossText2: 月が不気味に輝く...
-		DoGBossText: 極寒の月が明るく輝いている...
-		AprilFools2: ブーマーが待っている...
-		GhostBossText4: 放たれた魂が酸性の嵐をかき立てる...
-		GhostBossText: 深淵の魂が乱れている...
+		AuricOreText: 古代のドラゴンの力が洞窟に現れ、岩を貫いている。
+		DargonBossText: 闇の太陽が待っている。
+		DoGBossText2: 収穫の月が不気味に光る。
+		DoGBossText: 凍てつく月が明るく輝いている。
+		AprilFools2: ブーマーが待っている
+		GhostBossText4: 放たれた魂が酸性の嵐をかき乱す...
+		GhostBossText: 深淵の魂が乱れたようだ。
 		ProfanedBossText4: 冒涜された女神は、純潔への献身を認めた！
-		ProfanedBossText3: 災厄をもたらす存在がブラッドストーンに満たされた...
-		TreeOreText: 化石化した樹皮がジャングルの泥を突き破っている...
-		ProfanedBossText2: ダンジョンから金切り声が響いている...
-		FutureOreText: 宇宙空間に冷たく暗いエネルギーが物質化した...
+		ProfanedBossText3: 災厄の存在が血の石を浴びた。
+		TreeOreText: 化石になった木の皮がジャングルの泥を突き破っている。
+		ProfanedBossText2: ダンジョンから金切り声が響いている......
+		FutureOreText: 宇宙空間に冷たく暗いエネルギーが物質化した。
 		MoonBossText: 冒涜された炎が激しく燃え上がる！
-		AstralBossText: 星の封印が解かれ、アストラル鉱石を採掘できるようになった！
-		BabyBossText: ジャングルに疫病が降りかかった...
-		AureusBossText2: ダンジョンからかすかな音が聞こえる...
-		AureusBossText: アストラルの生物が力を強めている...
-		AstralText: 空から星が落ちてきた！
+		AstralBossText: 星の封印が解かれた！これでアストラル鉱石を採掘できる。
+		BabyBossText: ジャングルに疫病が降りかかった。
+		AureusBossText2: ダンジョンからかすかな空気のような音が聞こえる。
+		AureusBossText: アストラルの敵が強くなった！
+		AstralText: 天から星が落ちてきた！
 		AbyssDropsText: 硫黄海の底が揺れている...
 		SandSharkText3: 砂漠の砂が激しく揺れる！
 		PlantOreText: 地下にエネルギーを放つ植物性鉱石が形成された...
-		WetWormBossText: 空が暗くなってきた...
-		IceOreText: 氷の洞窟が極寒のエネルギーに満ちている...
+		WetWormBossText: 硫黄色の空が暗くなってく...
+		IceOreText: 氷の洞窟が凍てつくようなエネルギーでパチパチと音を立てている。
 		HardmodeOreTier4Text: 聖なる地が聖なる石の祝福を受けた！
 		HardmodeOreTier3Text: アダマンタイトとチタンの祝福を受けた！
 		HardmodeOreTier2Text: ミスリルとオリハルコンの祝福を受けた！
 		HardmodeOreTier1Text: コバルトとパラジウムの祝福を受けた！
 		UglyBossText: 沈んだ海が揺れている...
 		SkeletronAbyssChestNotification: 原初のドライアドが、あなたをその深淵の財宝にふさわしいと認めた....
-		SkyOreText: 空がシアン色の光に輝いている...
-		SandstormTrigger: 砂漠で風が猛烈に吹き荒れている！
-		OpenSunkenSea: 砂漠の地下の奥底から音が鳴り響いている...
+		SkyOreText: 空がシアン色の光で輝いている。
+		SandstormTrigger: 砂漠で風が猛烈に吹いている！
+		OpenSunkenSea: 地下砂漠の奥底が鳴り響いている...
 	}
 
 	Death: {
@@ -1364,14 +1364,14 @@ Status: {
 		EdgyBossText3: うめぇ...
 		EdgyBossText2: 致命的なミスだな！
 		EdgyBossText: 調子に乗るなよ、ガキ！
-		GhostBossText3: 死んだ者たちが復讐を求めている...
+		GhostBossText3: 死んだ囚人たちが熱狂な復讐を求めている...
 		GhostBossText2: 荒廃したダンジョンから叫び声が響き渡る...
 		ProfanedBossText: 翼に聖なる炎が燃えている...
 		DeusAltarRejectNightText: 星の神は捧げものを拒絶した。儀式は夜しか行えないようだ...
 		PlagueBossText2: ミサイル起動確認。ターゲティングアルゴリズムを実行中...
 		PlagueBossText: 疫病核ミサイル群、全ユニット発射準備完了。攻撃プロトコルを開始。
-		SandSharkText2: 巨大な捕食者が近づいてくる！
-		SandSharkText: 砂の中で何かがうごめいている...
+		SandSharkText2: 巨大な捕食者の頂点が近づいてくる...
+		SandSharkText: 暖かい砂漠の砂の中で何かがうごめく...
 		CalamitasBossText3: 見事だ...我が子供よ...
 		CalamitasBossText2: 兄弟たちよ、再び立ち上がれ！
 		CalamitasBossText: お前は私の力を見くびっている...
@@ -14470,7 +14470,7 @@ Items: {
 
 			SludgeSplotch: {
 				Tooltip: ステルス攻撃は、ヘドロが敵にヒットした時に分裂し、より大きなダメージを与えるようになる
-				DisplayName: 穢れたスライムの塊
+				DisplayName: ヘドロの斑点
 			}
 
 			SlickCane: {
@@ -15115,7 +15115,7 @@ Items: {
 					走行中に追尾する火花を放つ
 					ステルス攻撃は追尾するカタツムリを放ち、さらに火花を散らす
 					'''
-				DisplayName: ガクルックスのカタツムリ
+				DisplayName: ガクルクシアンのカタツムリ
 			}
 
 			FrostyFlare: {
@@ -15239,7 +15239,7 @@ Items: {
 					ステルス攻撃は、敵を貫き、時間とともに絶え間ない槍の雨を召喚する
 					「太陽が闇に包まれる時、あなたは審判を知るだろう」
 					'''
-				DisplayName: 終焉の日蝕
+				DisplayName: エクリプスファール
 			}
 
 			DynamicPursuer: {
@@ -15268,7 +15268,7 @@ Items: {
 					斧の回転が速いほど、消えるまでのヒット回数が増える
 					ステルス攻撃は射程距離の短い泡を発生させる
 					'''
-				DisplayName: 公爵の処刑斧
+				DisplayName: デュークのデカピテイター
 			}
 
 			DesecratedWater: {
@@ -15277,7 +15277,7 @@ Items: {
 					邪悪な泡を爆発させる水入り瓶を投げる
 					ステルス攻撃は、霊液と呪炎を与える追加の泡を生み出す
 					'''
-				DisplayName: 穢れた水入り瓶
+				DisplayName: 汚された水入り瓶
 			}
 
 			DefectiveSphere: {
@@ -18087,7 +18087,7 @@ Items: {
 				ボスラッシュの間、すべてのワイヤーと有線デバイスは無効になる
 				'''
 			GFBName: オグスキュール
-			DisplayName: 終焉の遺物
+			DisplayName: 終点
 		}
 
 		Teratoma: {
@@ -22852,7 +22852,7 @@ Items: {
 				エネルギーシールドがある場合、そのシールドも満タンでなければ、これらの効果は発揮されない
 				この効果には10秒のクールダウンがある
 				'''
-			DisplayName: 蜂のヴェール
+			DisplayName: ザ・ビー
 		}
 
 		TheAmalgam: {
@@ -24859,9 +24859,9 @@ Items: {
 		ExoThrone: {
 			Tooltip:
 				'''
-				非常に座り心地の良い、非常に軽快な空飛ぶエクソのイスを召喚する
+				非常に座り心地がよく、非常に軽快に動くエクソの王座を実体化する
 				マウントに座ったまま [KEY] を押し続けると、より正確にゆっくりと移動できる
-				「快適なゲーマーは危険なゲーマー」
+				「快適なゲーマーは危険なゲーマーである」
 				'''
 			DisplayName: エクソボックス
 		}
@@ -25273,7 +25273,7 @@ Items: {
 
 		StarblightSoot: {
 			Tooltip: ""
-			DisplayName: スターダストの煤
+			DisplayName: スターブライトスート
 		}
 
 		SolarVeil: {
@@ -28313,7 +28313,7 @@ Events: {
 	BossRushStartText_1: ...どれほどの時が経っただろう？数世紀か？あるいは千年もの時が経ったのか？
 	BossRush: ボスラッシュ
 	AcidRainEnd: 硫黄の空が晴れ始める...
-	AcidRainStart: 荒れ果てた海に毒々しい豪雨が降り注ぐ！
+	AcidRainStart: 荒れ地の海に有毒な豪雨が降ってきた！
 	AcidRain: 酸性雨
 }
 
@@ -29477,7 +29477,7 @@ Buffs: {
 	}
 
 	SarosPossessionBuff: {
-		Description: 日蝕のパワーが護ってくれる
+		Description: 日食のパワーが護ってくれる
 		DisplayName: 陰の太陽
 	}
 
@@ -30238,17 +30238,17 @@ Buffs: {
 
 	WeaponImbueHolyFlames: {
 		Description: 近接攻撃、ムチ、ローグ攻撃がヒットすると敵を聖なる炎で燃やす
-		DisplayName: 武器強化：聖なる炎
+		DisplayName: 武器の付与：聖なる炎
 	}
 
 	WeaponImbueCrumbling: {
 		Description: 近接攻撃、ムチ、ローグ攻撃がヒットすると敵のダメージ耐性を減少させる
-		DisplayName: 武器強化：崩壊
+		DisplayName: 武器の付与：崩壊
 	}
 
 	WeaponImbueBrimstone: {
 		Description: 近接攻撃、ムチ、ローグ攻撃がヒットすると敵をブリムストーンの炎で燃やす
-		DisplayName: 武器強化：ブリムストーン
+		DisplayName: 武器の付与：ブリムストーン
 	}
 
 	TeslaBuff: {
